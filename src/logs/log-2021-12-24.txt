@@ -1,0 +1,378 @@
+-----2021-12-24 02:56:46-----
+
+commentDocumentPath: C:\Users\user\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-12-21 Auction Coral\comment.docx
+Connected Dropbox api.
+Copying Chrome profile.
+Bid 1: $200
+Bid 2: $0
+Bid 3: $0
+Bid 4: $60
+Bid 5: $0
+Bid 6: $0
+Bid 7: $0
+Bid 8: $80
+Bid 9: $120
+Bid 10: $120
+Bid 11: $0
+Bid 12: $0
+Bid 13: $0
+Bid 14: $0
+Bid 15: $0
+Bid 16: $0
+Bid 17: $60
+Bid 18: $0
+Bid 19: $0
+Bid 20: $220
+Bid 21: $0
+Uploading CSV...
+User pressed <enter> to continue.
+https://wwa.boutir.com/i/UYC1sUgAA
+https://wwa.boutir.com/i/STACCUgAA
+https://wwa.boutir.com/i/QCMnyUgAA
+https://wwa.boutir.com/i/V3VVcUgAA
+https://wwa.boutir.com/i/Q2GRsUgAA
+https://wwa.boutir.com/i/XITIiUgAA
+https://wwa.boutir.com/i/RTDxMUgAA
+Opening: https://band.us/band/78427905/post/2500
+Opening: https://band.us/band/78427905/post/2503
+Opening: https://band.us/band/78427905/post/2507
+Opening: https://band.us/band/78427905/post/2508
+Opening: https://band.us/band/78427905/post/2509
+Opening: https://band.us/band/78427905/post/2516
+Opening: https://band.us/band/78427905/post/2519
+Updated cellrow=3 column=8: 4270
+Updated cellrow=3 column=9: 1727
+Updated cellrow=3 column=12: 5000
+Updated cellrow=3 column=14: 4755
+Updated cellrow=3 column=16: 4512
+Updated cellrow=3 column=17: 3648
+Updated cellrow=3 column=21: 2493
+Updated cellrow=4 column=5: 4952
+Updated cellrow=4 column=8: 4303
+Updated cellrow=4 column=9: 2723
+Updated cellrow=4 column=16: 2199
+Updated cellrow=5 column=9: 2047
+Updated cellrow=5 column=10: 2551
+Updated cellrow=5 column=20: 4010
+Updated cellrow=6 column=12: 3567
+Updated cellrow=6 column=13: 3311
+Updated cellrow=6 column=14: 2552
+Updated cellrow=6 column=15: 2970
+Updated cellrow=6 column=16: 4034
+commentDocumentPath: C:\Users\user\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-12-22 Auction Coral\comment.docx
+Connected Dropbox api.
+Copying Chrome profile.
+Bid 1: $0
+Bid 2: $0
+Bid 3: $0
+Bid 4: $0
+Bid 5: $0
+Bid 6: $0
+Bid 7: $0
+Bid 8: $0
+Bid 9: $0
+Bid 10: $0
+Bid 11: $100
+Bid 12: $0
+Bid 13: $200
+Bid 14: $360
+Bid 15: $0
+Bid 16: $0
+Bid 17: $80
+Bid 18: $80
+Bid 19: $100
+Bid 20: $200
+Uploading CSV...
+User pressed <enter> to continue.
+https://wwa.boutir.com/i/V6uIUUgAA
+https://wwa.boutir.com/i/X5-j0UgAA
+https://wwa.boutir.com/i/Q9QSEUgAA
+https://wwa.boutir.com/i/W9zqcUgAA
+https://wwa.boutir.com/i/WBL5MUgAA
+https://wwa.boutir.com/i/V4q5cUgAA
+https://wwa.boutir.com/i/R9k0YUgAA
+Opening: https://band.us/band/78427905/post/2531
+Opening: https://band.us/band/78427905/post/2533
+Opening: https://band.us/band/78427905/post/2534
+Opening: https://band.us/band/78427905/post/2537
+Opening: https://band.us/band/78427905/post/2538
+Opening: https://band.us/band/78427905/post/2539
+Opening: https://band.us/band/78427905/post/2540
+Updated cellrow=6 column=17: 3082
+Updated cellrow=6 column=18: 4132
+Updated cellrow=6 column=19: 2042
+Updated cellrow=6 column=20: 2280
+Updated cellrow=6 column=21: 4064
+Updated cellrow=7 column=8: 2462
+Updated cellrow=7 column=12: 3173
+Updated cellrow=7 column=14: 4078
+Updated cellrow=7 column=15: 3061
+
+
+
+
+
+-----2021-12-24 12:15:56-----
+
+row 1: ['2021/12/24', 'a', '2021/12/25', '2100', '3747 CAA3297 CAA2311 CAA4973', 'Zoas / Green Bay Packers Zoas / Nuclear Green Zoas / Fire Zoas', '1', '100', '環球水族HK - 拍賣區', 'y']
+row 2: ['2021/12/24', 'a', '2021/12/25', '2100', '2838 CAA3623 CAA2614 CAA4442 CAA2150 CAA4388 CAA0540', '腦 / 青金腦 / 雙色片腦 / 藍花綠底瓦 / 腦 / 雙藍紅眼貓眼腦 / 龜殼腦', '', '240', '環球水族HK - 拍賣區', 'y']
+row 3: ['2021/12/24', 'a', '2021/12/25', '2100', '4689', '鈕扣腦', '4', '100', '環球水族HK - 拍賣區', 'y']
+row 4: ['2021/12/24', 'a', '2021/12/25', '2100', '4479 CAA4449 CAA3960', '馬卡龍寶石花 / 馬卡龍寶石花 / 馬卡龍寶石花', '', '200', '環球水族HK - 拍賣區', 'y']
+row 5: ['2021/12/24', 'a', '2021/12/25', '2100', '2492', '藍寶石花', '', '80', '環球水族HK - 拍賣區', 'y']
+row 6: ['2021/12/24', 'a', '2021/12/25', '2100', '0080', '惡魔糖', '', '40', '環球水族HK - 拍賣區', 'y']
+row 7: ['2021/12/24', 'a', '2021/12/25', '2100', '2538 CAA0141 CAA4539', 'Green Bay Packers Zoas / Nuclear Green Zoas / Fire Zoas', '1', '100', '環球水族HK - 拍賣區', 'y']
+row 8: ['2021/12/24', 'a', '2021/12/25', '2100', '2002', 'Zoas', '1', '60', '環球水族HK - 拍賣區', 'y']
+row 9: ['2021/12/24', 'a', '2021/12/25', '2100', '2611 CAA3526', '馬卡龍寶石花 / 藍寶石花', '', '140', '環球水族HK - 拍賣區', 'y']
+row 10: ['2021/12/24', 'a', '2021/12/25', '2100', '1882', '光纖', '', '40', '環球水族HK - 拍賣區', 'y']
+row 11: ['2021/12/24', 'a', '2021/12/25', '2100', '4608', '橙綫綠芯星花', '4', '40', '環球水族HK - 拍賣區', 'y']
+row 12: ['2021/12/24', 'a', '2021/12/25', '2100', '3996', '綠糖果腦', '', '40', '環球水族HK - 拍賣區', 'y']
+row 13: ['2021/12/24', 'a', '2021/12/25', '2100', '3414', '綠貓眼腦', '', '40', '環球水族HK - 拍賣區', 'y']
+row 14: ['2021/12/24', 'a', '2021/12/25', '2100', '1071 CAA2125 CAA2639', 'Rasta Zoas / Green Bay Packers Zoas / Zoas', '1', '100', '環球水族HK - 拍賣區', 'y']
+row 15: ['2021/12/24', 'a', '2021/12/25', '2100', '2775', '精品五彩種片腦', '', '500', '環球水族HK - 拍賣區', 'y']
+row 16: ['2021/12/24', 'a', '2021/12/25', '2100', '2274', '粉彩腦', '1', '60', '環球水族HK - 拍賣區', 'y']
+row 17: ['2021/12/24', 'a', '2021/12/25', '2100', '4734 CAA2931 CAA3475 CAA3920', '藍寶石花 / 馬卡龍寶石花 / 馬卡龍寶石花 / 馬卡龍寶石花', '', '300', '環球水族HK - 拍賣區', 'y']
+row 18: ['2021/12/24', 'a', '2021/12/25', '2100', '3133', '角', '', '60', '環球水族HK - 拍賣區', 'y']
+row 19: ['2021/12/24', 'a', '2021/12/25', '2100', '3040', '雙色豬腰', '2', '160', '環球水族HK - 拍賣區', 'y']
+row 20: ['2021/12/24', 'a', '2021/12/25', '2100', '3152', '金彈弓：海馬造型', '', '200', '環球水族HK - 拍賣區', 'y']
+Google sheet: 201 cells appended.
+login band success.
+firstPostCode: 2563
+
+[Post 1]
+Zoas / Green Bay Packers Zoas / Nuclear Green Zoas / Fire Zoas 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/2564
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-12-24 Auction Coral\Picture\013.JPG
+Finished post 4.
+
+
+[Post 2]
+腦 / 青金腦 / 雙色片腦 / 藍花綠底瓦 / 腦 / 雙藍紅眼貓眼腦 / 龜殼腦 起標價：$240
+拍賣連結： https://band.us/band/78427905/post/2565
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-12-24 Auction Coral\Picture\022.JPG
+Finished post 7.
+
+
+[Post 3]
+鈕扣腦 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/2566
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-12-24 Auction Coral\Picture\010.JPG
+Finished post 1.
+
+
+[Post 4]
+馬卡龍寶石花 / 馬卡龍寶石花 / 馬卡龍寶石花 起標價：$200
+拍賣連結： https://band.us/band/78427905/post/2567
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-12-24 Auction Coral\Picture\012.JPG
+Finished post 3.
+
+
+[Post 5]
+藍寶石花 起標價：$80
+拍賣連結： https://band.us/band/78427905/post/2568
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-12-24 Auction Coral\Picture\010.JPG
+Finished post 1.
+
+
+[Post 6]
+惡魔糖 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/2569
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-12-24 Auction Coral\Picture\010.JPG
+Finished post 1.
+
+
+[Post 7]
+Green Bay Packers Zoas / Nuclear Green Zoas / Fire Zoas 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/2570
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-12-24 Auction Coral\Picture\012.JPG
+Finished post 3.
+
+
+[Post 8]
+Zoas 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/2571
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-12-24 Auction Coral\Picture\010.JPG
+Finished post 1.
+
+
+[Post 9]
+馬卡龍寶石花 / 藍寶石花 起標價：$140
+拍賣連結： https://band.us/band/78427905/post/2572
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-12-24 Auction Coral\Picture\011.JPG
+Finished post 2.
+
+
+[Post 10]
+光纖 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/2573
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-12-24 Auction Coral\Picture\010.JPG
+Finished post 1.
+
+
+[Post 11]
+橙綫綠芯星花 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/2574
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-12-24 Auction Coral\Picture\010.JPG
+Finished post 1.
+
+
+[Post 12]
+綠糖果腦 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/2575
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-12-24 Auction Coral\Picture\010.JPG
+Finished post 1.
+
+
+[Post 13]
+綠貓眼腦 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/2576
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-12-24 Auction Coral\Picture\010.JPG
+Finished post 1.
+
+
+[Post 14]
+Rasta Zoas / Green Bay Packers Zoas / Zoas 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/2577
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-12-24 Auction Coral\Picture\012.JPG
+Finished post 3.
+
+
+[Post 15]
+精品五彩種片腦 起標價：$500
+拍賣連結： https://band.us/band/78427905/post/2578
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-12-24 Auction Coral\Picture\010.JPG
+Finished post 1.
+
+
+[Post 16]
+粉彩腦 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/2579
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-12-24 Auction Coral\Picture\010.JPG
+Finished post 1.
+
+
+[Post 17]
+藍寶石花 / 馬卡龍寶石花 / 馬卡龍寶石花 / 馬卡龍寶石花 起標價：$300
+拍賣連結： https://band.us/band/78427905/post/2580
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-12-24 Auction Coral\Picture\013.JPG
+Finished post 4.
+
+
+[Post 18]
+角 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/2581
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-12-24 Auction Coral\Picture\010.JPG
+Finished post 1.
+
+
+[Post 19]
+雙色豬腰 起標價：$160
+拍賣連結： https://band.us/band/78427905/post/2582
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-12-24 Auction Coral\Picture\010.JPG
+Finished post 1.
+
+
+[Post 20]
+金彈弓：海馬造型 起標價：$200
+拍賣連結： https://band.us/band/78427905/post/2583
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-12-24 Auction Coral\Picture\010.JPG
+Finished post 1.
+
+
+Finished posting to band.
+Opening https://web.whatsapp.com/
+login whatsapp success.
+Finding group "拍賣通知專區"
+Finding input box.
+
+❗最新珊瑚拍賣❗
+Generating msg for post 1.
+Zoas / Green Bay Packers Zoas / Nuclear Green Zoas / Fire Zoas 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/2564
+Generating msg for post 2.
+腦 / 青金腦 / 雙色片腦 / 藍花綠底瓦 / 腦 / 雙藍紅眼貓眼腦 / 龜殼腦 起標價：$240
+拍賣連結： https://band.us/band/78427905/post/2565
+Generating msg for post 3.
+鈕扣腦 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/2566
+Generating msg for post 4.
+馬卡龍寶石花 / 馬卡龍寶石花 / 馬卡龍寶石花 起標價：$200
+拍賣連結： https://band.us/band/78427905/post/2567
+Generating msg for post 5.
+藍寶石花 起標價：$80
+拍賣連結： https://band.us/band/78427905/post/2568
+Generating msg for post 6.
+惡魔糖 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/2569
+Generating msg for post 7.
+Green Bay Packers Zoas / Nuclear Green Zoas / Fire Zoas 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/2570
+Generating msg for post 8.
+Zoas 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/2571
+Generating msg for post 9.
+馬卡龍寶石花 / 藍寶石花 起標價：$140
+拍賣連結： https://band.us/band/78427905/post/2572
+Generating msg for post 10.
+光纖 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/2573
+Generating msg for post 11.
+橙綫綠芯星花 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/2574
+Generating msg for post 12.
+綠糖果腦 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/2575
+Generating msg for post 13.
+綠貓眼腦 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/2576
+Generating msg for post 14.
+Rasta Zoas / Green Bay Packers Zoas / Zoas 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/2577
+Generating msg for post 15.
+精品五彩種片腦 起標價：$500
+拍賣連結： https://band.us/band/78427905/post/2578
+Generating msg for post 16.
+粉彩腦 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/2579
+Generating msg for post 17.
+藍寶石花 / 馬卡龍寶石花 / 馬卡龍寶石花 / 馬卡龍寶石花 起標價：$300
+拍賣連結： https://band.us/band/78427905/post/2580
+Generating msg for post 18.
+角 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/2581
+Generating msg for post 19.
+雙色豬腰 起標價：$160
+拍賣連結： https://band.us/band/78427905/post/2582
+Generating msg for post 20.
+金彈弓：海馬造型 起標價：$200
+拍賣連結： https://band.us/band/78427905/post/2583
+Sent message.
+login whatsapp success.
+Sent photos.
+
+
+
+
+
+-----2021-12-24 12:35:00-----
+
+Program end.

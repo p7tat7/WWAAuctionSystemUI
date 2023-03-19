@@ -1,0 +1,525 @@
+-----2021-10-05 18:01:31-----
+
+--Find bidder and price (before end auction) Start--
+Copying Chrome profile.
+
+
+
+
+
+-----2021-10-05 18:05:50-----
+
+--Find bidder and price (before end auction) Start--
+Copying Chrome profile.
+--Find bidder and price (before end auction) End--
+--End auction Start--
+commentDocumentPath: C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-01 Auction Coral\comment.docx
+Removed folder: C:\Users\world\World Wide Aquarium Dropbox\SHKS WWA\Temporary Store for Posting
+Created folder: C:\Users\world\World Wide Aquarium Dropbox\SHKS WWA\Temporary Store for Posting
+Trying to copy photo folder.
+Trying to connect Dropbox api.
+Connected Dropbox api.
+Link of photo 1: https://www.dropbox.com/s/olww9nh5lnuy08q/01.jpg?dl=0
+Link of photo 2: https://www.dropbox.com/s/eesoe47sdjy1dbq/02.jpg?dl=0
+Link of photo 3: https://www.dropbox.com/s/pfheeivx2mmfbjv/03.jpg?dl=0
+Path in dropbox "/Temporary Store for Posting/04.jpg" not found. Try again in 5 seconds...
+Path in dropbox "/Temporary Store for Posting/04.jpg" not found. Try again in 5 seconds...
+Link of photo 4: https://www.dropbox.com/s/kczrrqfq4tnfcrj/04.jpg?dl=0
+Link of photo 5: https://www.dropbox.com/s/sqhmtyv74gcemp3/05.jpg?dl=0
+Link of photo 6: https://www.dropbox.com/s/o0g40rn2qirieu0/06.JPG?dl=0
+Link of photo 7: https://www.dropbox.com/s/vxonhk3w0gt1xsr/07.JPG?dl=0
+Link of photo 8: https://www.dropbox.com/s/mivkt9939u2omhi/08.JPG?dl=0
+Link of photo 9: https://www.dropbox.com/s/kddkpuevaq721pb/09.JPG?dl=0
+Link of photo 10: https://www.dropbox.com/s/e5oxn8pldy0qxqp/10.JPG?dl=0
+Bid 1: $100
+Bid 2: $0
+Bid 3: $160
+Bid 4: $280
+Bid 5: $160
+Bid 6: $20
+Bid 7: $60
+Bid 8: $40
+Bid 9: $20
+Bid 10: $60
+
+
+
+
+
+-----2021-10-05 18:21:19-----
+
+--End auction Start--
+commentDocumentPath: C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-01 Auction Coral\comment.docx
+Removed folder: C:\Users\world\World Wide Aquarium Dropbox\SHKS WWA\Temporary Store for Posting
+Created folder: C:\Users\world\World Wide Aquarium Dropbox\SHKS WWA\Temporary Store for Posting
+Trying to copy photo folder.
+Trying to connect Dropbox api.
+Connected Dropbox api.
+Path in dropbox "/Temporary Store for Posting/01.jpg" not found. Try again in 5 seconds...
+Path in dropbox "/Temporary Store for Posting/01.jpg" not found. Try again in 5 seconds...
+Link of photo 1: https://www.dropbox.com/s/ixbneoukh8fh8rp/01.jpg?dl=0
+Link of photo 2: https://www.dropbox.com/s/0tnroqcdq5ry9a9/02.jpg?dl=0
+Link of photo 3: https://www.dropbox.com/s/s7e5vvqqs1ch0bu/03.jpg?dl=0
+Link of photo 4: https://www.dropbox.com/s/5d6lx8bwdlpcsdc/04.jpg?dl=0
+Link of photo 5: https://www.dropbox.com/s/kh5uh1nttfcgnvn/05.jpg?dl=0
+Link of photo 6: https://www.dropbox.com/s/jaqizo7xazjrgob/06.JPG?dl=0
+Link of photo 7: https://www.dropbox.com/s/zzsbvcq97zk9zhx/07.JPG?dl=0
+Link of photo 8: https://www.dropbox.com/s/iip0zw41eraucpn/08.JPG?dl=0
+Link of photo 9: https://www.dropbox.com/s/7xcsk84ncax1opk/09.JPG?dl=0
+Link of photo 10: https://www.dropbox.com/s/slhoc3fvgvyqa38/10.JPG?dl=0
+Bid 1: $100
+Bid 2: $0
+Bid 3: $160
+Bid 4: $280
+Bid 5: $160
+Bid 6: $20
+Bid 7: $60
+Bid 8: $40
+Bid 9: $20
+Bid 10: $60
+
+
+
+
+
+-----2021-10-05 18:24:04-----
+
+--End auction Start--
+commentDocumentPath: C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-01 Auction Coral\comment.docx
+Removed folder: C:\Users\world\World Wide Aquarium Dropbox\SHKS WWA\Temporary Store for Posting
+Created folder: C:\Users\world\World Wide Aquarium Dropbox\SHKS WWA\Temporary Store for Posting
+Trying to copy photo folder.
+Trying to connect Dropbox api.
+Connected Dropbox api.
+Path in dropbox "/Temporary Store for Posting/01.jpg" not found. Try again in 5 seconds...
+Link of photo 1: https://www.dropbox.com/s/3pe3y5sljb33odo/01.jpg?dl=0
+Link of photo 2: https://www.dropbox.com/s/c56vtovv1022thk/02.jpg?dl=0
+Link of photo 3: https://www.dropbox.com/s/5297is9a1j9ctbe/03.jpg?dl=0
+Link of photo 4: https://www.dropbox.com/s/oh8l7ebh5w0p7q9/04.jpg?dl=0
+Link of photo 5: https://www.dropbox.com/s/pemcjbxtdya6d3q/05.jpg?dl=0
+Link of photo 6: https://www.dropbox.com/s/f4f0emtnj4jz6ei/06.JPG?dl=0
+Link of photo 7: https://www.dropbox.com/s/zwdqpmb8j4z42t7/07.JPG?dl=0
+Link of photo 8: https://www.dropbox.com/s/wqhsiud6gl6ato4/08.JPG?dl=0
+Link of photo 9: https://www.dropbox.com/s/1o87nxybhauhu66/09.JPG?dl=0
+Link of photo 10: https://www.dropbox.com/s/o90jzc4rtqac9cn/10.JPG?dl=0
+Bid 1: $100
+Bid 2: $0
+Bid 3: $160
+Bid 4: $280
+Bid 5: $160
+Bid 6: $20
+Bid 7: $60
+Bid 8: $40
+Bid 9: $20
+Bid 10: $60
+
+
+
+
+
+-----2021-10-05 18:40:04-----
+
+--End auction Start--
+commentDocumentPath: C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-01 Auction Coral\comment.docx
+Removed folder: C:\Users\world\World Wide Aquarium Dropbox\SHKS WWA\Temporary Store for Posting
+Created folder: C:\Users\world\World Wide Aquarium Dropbox\SHKS WWA\Temporary Store for Posting
+Trying to copy photo folder.
+Trying to connect Dropbox api.
+Connected Dropbox api.
+Path in dropbox "/Temporary Store for Posting/01.jpg" not found. Try again in 5 seconds...
+Path in dropbox "/Temporary Store for Posting/01.jpg" not found. Try again in 5 seconds...
+Link of photo 1: https://www.dropbox.com/s/qmvwway70uhtc76/01.jpg?dl=0
+Link of photo 2: https://www.dropbox.com/s/e99hm6uf8qkogpo/02.jpg?dl=0
+Link of photo 3: https://www.dropbox.com/s/q2c0mqdh8496qsm/03.jpg?dl=0
+Link of photo 4: https://www.dropbox.com/s/sv5bnnxafja27tz/04.jpg?dl=0
+Link of photo 5: https://www.dropbox.com/s/33p7lrft7frnoos/05.jpg?dl=0
+Link of photo 6: https://www.dropbox.com/s/kwy51p1lpo90dcu/06.JPG?dl=0
+Link of photo 7: https://www.dropbox.com/s/0bgzjq4vxx4is6s/07.JPG?dl=0
+Link of photo 8: https://www.dropbox.com/s/ufn95rg0tigkkyn/08.JPG?dl=0
+Link of photo 9: https://www.dropbox.com/s/7g9nhpowb3hny97/09.JPG?dl=0
+Link of photo 10: https://www.dropbox.com/s/sg858lfup4oz63c/10.JPG?dl=0
+Bid 1: $100
+Bid 2: $0
+Bid 3: $160
+Bid 4: $280
+Bid 5: $160
+Bid 6: $20
+Bid 7: $60
+Bid 8: $40
+Bid 9: $20
+Bid 10: $60
+
+
+
+
+
+-----2021-10-05 18:41:44-----
+
+--End auction Start--
+commentDocumentPath: C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-01 Auction Coral\comment.docx
+Removed folder: C:\Users\world\World Wide Aquarium Dropbox\SHKS WWA\Temporary Store for Posting
+Created folder: C:\Users\world\World Wide Aquarium Dropbox\SHKS WWA\Temporary Store for Posting
+Trying to copy photo folder.
+Trying to connect Dropbox api.
+Connected Dropbox api.
+Path in dropbox "/Temporary Store for Posting/01.jpg" not found. Try again in 5 seconds...
+Path in dropbox "/Temporary Store for Posting/01.jpg" not found. Try again in 5 seconds...
+Link of photo 1: https://www.dropbox.com/s/b0leje3nlssy0zg/01.jpg?dl=0
+Link of photo 2: https://www.dropbox.com/s/wv0ejdls5selh8z/02.jpg?dl=0
+Link of photo 3: https://www.dropbox.com/s/qrb7qhxwp39gzoe/03.jpg?dl=0
+Link of photo 4: https://www.dropbox.com/s/abjibypadv4wxxf/04.jpg?dl=0
+Link of photo 5: https://www.dropbox.com/s/tcdows0fnwqro72/05.jpg?dl=0
+Link of photo 6: https://www.dropbox.com/s/qzyzbsukjpj0a7i/06.JPG?dl=0
+Link of photo 7: https://www.dropbox.com/s/5rownkpbauwnh0s/07.JPG?dl=0
+Link of photo 8: https://www.dropbox.com/s/eje832z5dstk1i1/08.JPG?dl=0
+Link of photo 9: https://www.dropbox.com/s/ssunar6d9r1ufq7/09.JPG?dl=0
+Link of photo 10: https://www.dropbox.com/s/dgfbtva1lcadi27/10.JPG?dl=0
+Bid 1: $100
+Bid 2: $0
+Bid 3: $160
+Bid 4: $280
+Bid 5: $160
+Bid 6: $20
+Bid 7: $60
+Bid 8: $40
+Bid 9: $20
+Bid 10: $60
+
+
+
+
+
+-----2021-10-05 18:43:25-----
+
+--End auction Start--
+commentDocumentPath: C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-01 Auction Coral\comment.docx
+Removed folder: C:\Users\world\World Wide Aquarium Dropbox\SHKS WWA\Temporary Store for Posting
+Created folder: C:\Users\world\World Wide Aquarium Dropbox\SHKS WWA\Temporary Store for Posting
+Trying to copy photo folder.
+Trying to connect Dropbox api.
+Connected Dropbox api.
+Path in dropbox "/Temporary Store for Posting/01.jpg" not found. Try again in 5 seconds...
+Path in dropbox "/Temporary Store for Posting/01.jpg" not found. Try again in 5 seconds...
+Link of photo 1: https://www.dropbox.com/s/1dfppp1yrjvs75f/01.jpg?dl=0
+Link of photo 2: https://www.dropbox.com/s/erqyhmpf51o2o06/02.jpg?dl=0
+Link of photo 3: https://www.dropbox.com/s/afy3s3xiv4iboi3/03.jpg?dl=0
+Link of photo 4: https://www.dropbox.com/s/l6cq9poy8ecpqxw/04.jpg?dl=0
+Link of photo 5: https://www.dropbox.com/s/pb1grkko4n8yw5a/05.jpg?dl=0
+Link of photo 6: https://www.dropbox.com/s/i2pcnk8oonhbywb/06.JPG?dl=0
+Link of photo 7: https://www.dropbox.com/s/jztpti98ysqmj3w/07.JPG?dl=0
+Link of photo 8: https://www.dropbox.com/s/1913ew3xmvwdcoa/08.JPG?dl=0
+Link of photo 9: https://www.dropbox.com/s/1g5phqgi0wwpsyr/09.JPG?dl=0
+Link of photo 10: https://www.dropbox.com/s/nf9ywlzwx1pe57w/10.JPG?dl=0
+Bid 1: $100
+Bid 2: $0
+Bid 3: $160
+Bid 4: $280
+Bid 5: $160
+Bid 6: $20
+Bid 7: $60
+Bid 8: $40
+Bid 9: $20
+Bid 10: $60
+Copying Chrome profile.
+
+
+
+
+
+-----2021-10-05 18:57:16-----
+
+--End auction Start--
+commentDocumentPath: C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-01 Auction Coral\comment.docx
+Removed folder: C:\Users\world\World Wide Aquarium Dropbox\SHKS WWA\Temporary Store for Posting
+Created folder: C:\Users\world\World Wide Aquarium Dropbox\SHKS WWA\Temporary Store for Posting
+Trying to copy photo folder.
+Trying to connect Dropbox api.
+Connected Dropbox api.
+Path in dropbox "/Temporary Store for Posting/01.jpg" not found. Try again in 5 seconds...
+Path in dropbox "/Temporary Store for Posting/01.jpg" not found. Try again in 5 seconds...
+Link of photo 1: https://www.dropbox.com/s/lh20rsf5cvylsps/01.jpg?dl=0
+Link of photo 2: https://www.dropbox.com/s/buk5uj0fcbwj77v/02.jpg?dl=0
+Link of photo 3: https://www.dropbox.com/s/gcuvk1ksy5zcmn4/03.jpg?dl=0
+Link of photo 4: https://www.dropbox.com/s/p83tx7ff6rooxhd/04.jpg?dl=0
+Link of photo 5: https://www.dropbox.com/s/8lbbmux8rdpy3ef/05.jpg?dl=0
+Link of photo 6: https://www.dropbox.com/s/nw357n1m2a75ry2/06.JPG?dl=0
+Link of photo 7: https://www.dropbox.com/s/iv9f7v0379yg1ae/07.JPG?dl=0
+Link of photo 8: https://www.dropbox.com/s/11bpuyou23suumw/08.JPG?dl=0
+Link of photo 9: https://www.dropbox.com/s/xjp6necklp10vsi/09.JPG?dl=0
+Link of photo 10: https://www.dropbox.com/s/0oud6l11tk0mbpo/10.JPG?dl=0
+Bid 1: $100
+Bid 2: $0
+Bid 3: $160
+Bid 4: $280
+Bid 5: $160
+Bid 6: $20
+Bid 7: $60
+Bid 8: $40
+Bid 9: $20
+Bid 10: $60
+
+
+
+
+
+-----2021-10-05 18:59:26-----
+
+--End auction Start--
+commentDocumentPath: C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-01 Auction Coral\comment.docx
+Removed folder: C:\Users\world\World Wide Aquarium Dropbox\SHKS WWA\Temporary Store for Posting
+Created folder: C:\Users\world\World Wide Aquarium Dropbox\SHKS WWA\Temporary Store for Posting
+Trying to copy photo folder.
+Trying to connect Dropbox api.
+Connected Dropbox api.
+Path in dropbox "/Temporary Store for Posting/01.jpg" not found. Try again in 5 seconds...
+Path in dropbox "/Temporary Store for Posting/01.jpg" not found. Try again in 5 seconds...
+Link of photo 1: https://www.dropbox.com/s/w0swtmcxclyzajl/01.jpg?dl=0
+Link of photo 2: https://www.dropbox.com/s/hf6uxyyf50kvhxu/02.jpg?dl=0
+Link of photo 3: https://www.dropbox.com/s/pqoz9blstp3ay4r/03.jpg?dl=0
+Link of photo 4: https://www.dropbox.com/s/s7fwfvpeg0gbmpg/04.jpg?dl=0
+Link of photo 5: https://www.dropbox.com/s/moql722q8wf7ux5/05.jpg?dl=0
+Link of photo 6: https://www.dropbox.com/s/05j303wtvsh8i1y/06.JPG?dl=0
+Link of photo 7: https://www.dropbox.com/s/4h80uhg5pukc0og/07.JPG?dl=0
+Link of photo 8: https://www.dropbox.com/s/k5h7pwj7vdcsece/08.JPG?dl=0
+Link of photo 9: https://www.dropbox.com/s/99jlrc3inr1isir/09.JPG?dl=0
+Link of photo 10: https://www.dropbox.com/s/ztuejphsgj4ljay/10.JPG?dl=0
+Bid 1: $100
+Bid 2: $0
+Bid 3: $160
+Bid 4: $280
+Bid 5: $160
+Bid 6: $20
+Bid 7: $60
+Bid 8: $40
+Bid 9: $20
+Bid 10: $60
+
+
+
+
+
+-----2021-10-05 21:10:29-----
+
+--Find bidder and price (before end auction) Start--
+Copying Chrome profile.
+--Find bidder and price (before end auction) End--
+--End auction Start--
+commentDocumentPath: C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-02 Auction Coral\comment.docx
+Removed folder: C:\Users\world\World Wide Aquarium Dropbox\SHKS WWA\Temporary Store for Posting
+Created folder: C:\Users\world\World Wide Aquarium Dropbox\SHKS WWA\Temporary Store for Posting
+Trying to copy photo folder.
+Trying to connect Dropbox api.
+Connected Dropbox api.
+Path in dropbox "/Temporary Store for Posting/01.jpg" not found. Try again in 5 seconds...
+Path in dropbox "/Temporary Store for Posting/01.jpg" not found. Try again in 5 seconds...
+Path in dropbox "/Temporary Store for Posting/01.jpg" not found. Try again in 5 seconds...
+Link of photo 1: https://www.dropbox.com/s/qqhgy61hpsfcfvk/01.jpg?dl=0
+Link of photo 2: https://www.dropbox.com/s/2di4flo8x9h1hm3/02.jpg?dl=0
+Link of photo 3: https://www.dropbox.com/s/f7i9xgsch580c3f/03.jpg?dl=0
+Link of photo 4: https://www.dropbox.com/s/8fx7i70ysqdz7dj/04.jpg?dl=0
+Link of photo 5: https://www.dropbox.com/s/cknadpnp659vppc/05.jpg?dl=0
+Link of photo 6: https://www.dropbox.com/s/3fmk1vd6dox1lxr/06.jpg?dl=0
+Link of photo 7: https://www.dropbox.com/s/rqjlw57095v9l9a/07.jpg?dl=0
+Link of photo 8: https://www.dropbox.com/s/tmi0ul4i63oum2t/08.jpg?dl=0
+Link of photo 9: https://www.dropbox.com/s/x7t2im8h38hxwna/09.jpg?dl=0
+Link of photo 10: https://www.dropbox.com/s/x3uoly7hkntt30z/10.jpg?dl=0
+Link of photo 11: https://www.dropbox.com/s/sbt85jmzl5frdhq/11.jpg?dl=0
+Link of photo 12: https://www.dropbox.com/s/wrzid2tv8ye3eqx/12.JPG?dl=0
+Link of photo 13: https://www.dropbox.com/s/viwoojpnralnttg/13.JPG?dl=0
+Bid 1: $240
+Bid 2: $120
+Bid 3: $100
+Bid 4: $40
+Bid 5: $140
+Bid 6: $80
+Bid 7: $40
+Bid 8: $80
+Bid 9: $40
+Bid 10: $20
+Bid 11: $140
+Bid 12: $0
+Bid 13: $0
+Copying Chrome profile.
+Uploading CSV...
+User pressed <enter> to continue.
+https://wwa.boutir.com/i/RC5I4kgAA
+
+
+
+
+
+-----2021-10-05 21:52:12-----
+
+--Post Auction Start--
+row 1: ['2021/10/5', 'a', '2021/10/8', '2100', '3441', '糖果腦', '', '0', '環球水族HK - 拍賣區', 'y']
+row 2: ['2021/10/5', 'a', '2021/10/8', '2100', '2748', '彩虹糖果腦', '3', '0', '環球水族HK - 拍賣區', 'y']
+row 3: ['2021/10/5', 'a', '2021/10/8', '2100', '2716', '印尼 金豬腰', '1', '100', '環球水族HK - 拍賣區', 'y']
+row 4: ['2021/10/5', 'a', '2021/10/8', '2100', '3445', 'Fire Zoas ', '3', '60', '環球水族HK - 拍賣區', 'y']
+row 5: ['2021/10/5', 'a', '2021/10/8', '2100', '2176', 'Green Lemon Zoas ', '3', '0', '環球水族HK - 拍賣區', 'y']
+row 6: ['2021/10/5', 'a', '2021/10/8', '2100', '1094', '糖果腦', '1', '0', '環球水族HK - 拍賣區', 'y']
+row 7: ['2021/10/5', 'a', '2021/10/8', '2100', '1654', '黃金腦', '', '100', '環球水族HK - 拍賣區', 'y']
+row 8: ['2021/10/5', 'a', '2021/10/8', '2100', '0921', '印尼 細種 Toxic Green 豬腰', '', '200', '環球水族HK - 拍賣區', 'y']
+row 9: ['2021/10/5', 'a', '2021/10/8', '2100', '0686', 'Lemon Zoas ', '4', '100', '環球水族HK - 拍賣區', 'y']
+row 10: ['2021/10/5', 'a', '2021/10/8', '2100', '4276', '彩頭綠火柴', '1', '80', '環球水族HK - 拍賣區', 'y']
+row 11: ['2021/10/5', 'a', '2021/10/8', '2100', '2011', '綠糖果腦', '3', '40', '環球水族HK - 拍賣區', 'y']
+row 12: ['2021/10/5', 'a', '2021/10/8', '2100', '', '紫點螢光綠奶嘴', '1.5', '60', '環球水族HK - 拍賣區', 'y']
+Google sheet: 121 cells appended.
+Copying Chrome profile.
+login band success.
+firstPostCode: 1246
+
+[Post 1]
+糖果腦 起標價：$0
+拍賣連結： https://band.us/band/78427905/post/1247
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-05 Auction Coral\Picture\01.JPG
+Finished post 1.
+
+
+[Post 2]
+彩虹糖果腦 起標價：$0
+拍賣連結： https://band.us/band/78427905/post/1248
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-05 Auction Coral\Picture\02.JPG
+Finished post 2.
+
+
+[Post 3]
+印尼 金豬腰 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/1249
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-05 Auction Coral\Picture\03.JPG
+Finished post 3.
+
+
+[Post 4]
+Fire Zoas 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/1250
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-05 Auction Coral\Picture\04.JPG
+Finished post 4.
+
+
+[Post 5]
+Green Lemon Zoas 起標價：$0
+拍賣連結： https://band.us/band/78427905/post/1251
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-05 Auction Coral\Picture\05.JPG
+Finished post 5.
+
+
+[Post 6]
+糖果腦 起標價：$0
+拍賣連結： https://band.us/band/78427905/post/1252
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-05 Auction Coral\Picture\06.JPG
+Finished post 6.
+
+
+[Post 7]
+黃金腦 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/1253
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-05 Auction Coral\Picture\07.JPG
+Finished post 7.
+
+
+[Post 8]
+印尼 細種 Toxic Green 豬腰 起標價：$200
+拍賣連結： https://band.us/band/78427905/post/1254
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-05 Auction Coral\Picture\08.jpg
+Finished post 8.
+
+
+[Post 9]
+Lemon Zoas 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/1255
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-05 Auction Coral\Picture\09.JPG
+Finished post 9.
+
+
+[Post 10]
+彩頭綠火柴 起標價：$80
+拍賣連結： https://band.us/band/78427905/post/1256
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-05 Auction Coral\Picture\10.jpg
+Finished post 10.
+
+
+[Post 11]
+綠糖果腦 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/1257
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-05 Auction Coral\Picture\11.jpg
+Finished post 11.
+
+
+[Post 12]
+紫點螢光綠奶嘴 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/1258
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-05 Auction Coral\Picture\12.JPG
+Finished post 12.
+
+
+Finished posting to band.
+Opening https://web.whatsapp.com/
+login whatsapp success.
+Finding group "拍賣通知專區"
+Finding input box.
+
+❗最新珊瑚拍賣❗
+Generating msg for post 1.
+糖果腦 起標價：$0
+拍賣連結： https://band.us/band/78427905/post/1247
+Generating msg for post 2.
+彩虹糖果腦 起標價：$0
+拍賣連結： https://band.us/band/78427905/post/1248
+Generating msg for post 3.
+印尼 金豬腰 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/1249
+Generating msg for post 4.
+Fire Zoas 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/1250
+Generating msg for post 5.
+Green Lemon Zoas 起標價：$0
+拍賣連結： https://band.us/band/78427905/post/1251
+Generating msg for post 6.
+糖果腦 起標價：$0
+拍賣連結： https://band.us/band/78427905/post/1252
+Generating msg for post 7.
+黃金腦 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/1253
+Generating msg for post 8.
+印尼 細種 Toxic Green 豬腰 起標價：$200
+拍賣連結： https://band.us/band/78427905/post/1254
+Generating msg for post 9.
+Lemon Zoas 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/1255
+Generating msg for post 10.
+彩頭綠火柴 起標價：$80
+拍賣連結： https://band.us/band/78427905/post/1256
+Generating msg for post 11.
+綠糖果腦 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/1257
+Generating msg for post 12.
+紫點螢光綠奶嘴 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/1258
+Sent message.
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-05 Auction Coral\Picture\01.JPG
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-05 Auction Coral\Picture\02.JPG
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-05 Auction Coral\Picture\03.JPG
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-05 Auction Coral\Picture\04.JPG
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-05 Auction Coral\Picture\05.JPG
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-05 Auction Coral\Picture\06.JPG
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-05 Auction Coral\Picture\07.JPG
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-05 Auction Coral\Picture\08.jpg
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-05 Auction Coral\Picture\09.JPG
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-05 Auction Coral\Picture\10.jpg
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-05 Auction Coral\Picture\11.jpg
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-05 Auction Coral\Picture\12.JPG
+Sent photos.
+--Post Auction End--
+Program end.

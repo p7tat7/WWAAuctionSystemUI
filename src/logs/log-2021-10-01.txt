@@ -1,0 +1,298 @@
+-----2021-10-01 14:18:21-----
+
+Program end.
+
+
+
+
+
+-----2021-10-01 15:09:53-----
+
+--Find bidder and price (before end auction) Start--
+
+
+
+
+
+-----2021-10-01 15:13:49-----
+
+--Find bidder and price (before end auction) Start--
+
+
+
+
+
+-----2021-10-01 15:15:27-----
+
+--Find bidder and price (before end auction) Start--
+Copying Chrome profile.
+
+
+
+
+
+-----2021-10-01 15:17:58-----
+
+--Find bidder and price (before end auction) Start--
+Copying Chrome profile.
+
+
+
+
+
+-----2021-10-01 15:20:25-----
+
+--Find bidder and price (before end auction) Start--
+Copying Chrome profile.
+
+
+
+
+
+-----2021-10-01 15:21:56-----
+
+--Find bidder and price (before end auction) Start--
+Copying Chrome profile.
+
+
+
+
+
+-----2021-10-01 15:29:50-----
+
+--Find bidder and price (before end auction) Start--
+Copying Chrome profile.
+--Find bidder and price (before end auction) End--
+--End auction Start--
+Removed folder: C:\Users\world\World Wide Aquarium Dropbox\SHKS WWA\Temporary Store for Posting
+Created folder: C:\Users\world\World Wide Aquarium Dropbox\SHKS WWA\Temporary Store for Posting
+Trying to copy photo folder.
+Trying to connect Dropbox api.
+Connected Dropbox api.
+Link of photo 1: https://www.dropbox.com/s/cd3o5xa1if9126c/01.jpg?dl=0
+Link of photo 2: https://www.dropbox.com/s/zt6i5b7bxx0e62s/02.JPG?dl=0
+Link of photo 3: https://www.dropbox.com/s/wxsrbuwlyds49ye/03.JPG?dl=0
+
+
+
+
+
+-----2021-10-01 15:34:39-----
+
+--End auction Start--
+Removed folder: C:\Users\world\World Wide Aquarium Dropbox\SHKS WWA\Temporary Store for Posting
+Created folder: C:\Users\world\World Wide Aquarium Dropbox\SHKS WWA\Temporary Store for Posting
+Trying to copy photo folder.
+Trying to connect Dropbox api.
+Connected Dropbox api.
+Link of photo 1: https://www.dropbox.com/s/3nzgyabb3a63l3z/01.jpg?dl=0
+Link of photo 2: https://www.dropbox.com/s/d2dmy9tc5ita8bl/02.jpg?dl=0
+Link of photo 3: https://www.dropbox.com/s/z1giq6ln04bgr3i/03.jpg?dl=0
+Link of photo 4: https://www.dropbox.com/s/2fnvznqqqe4wk3z/04%20.jpg?dl=0
+
+
+
+
+
+-----2021-10-01 20:36:52-----
+
+--Post Auction Start--
+Copying Chrome profile.
+login band success.
+firstPostCode: 1192
+
+[Post 1]
+印尼 細種橙金豬腰 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/1193
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-01 Auction Coral\Picture\01.jpg
+Finished post 1.
+
+
+[Post 2]
+印尼 細種 Toxic Green 豬腰 起標價：$200
+拍賣連結： https://band.us/band/78427905/post/1194
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-01 Auction Coral\Picture\02.jpg
+Finished post 2.
+
+
+[Post 3]
+印尼 2頭超金頭豬腰 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/1195
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-01 Auction Coral\Picture\03.jpg
+Finished post 3.
+
+
+[Post 4]
+印尼 1頭金火柴 起標價：$200
+拍賣連結： https://band.us/band/78427905/post/1196
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-01 Auction Coral\Picture\04.jpg
+Finished post 4.
+
+
+[Post 5]
+印尼 2頭彩頭綠火柴 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/1197
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-01 Auction Coral\Picture\05.jpg
+Finished post 5.
+
+
+[Post 6]
+澳洲 綠糖果腦 起標價：$0
+拍賣連結： https://band.us/band/78427905/post/1198
+
+
+
+
+
+
+-----2021-10-01 20:44:28-----
+
+--Post Auction Start--
+
+
+
+
+
+-----2021-10-01 20:44:55-----
+
+--Post Auction Start--
+Copying Chrome profile.
+login band success.
+firstPostCode: 1192
+
+[Post 1]
+印尼 細種橙金豬腰 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/1193
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-01 Auction Coral\Picture\01.jpg
+Finished post 1.
+
+
+[Post 2]
+印尼 細種 Toxic Green 豬腰 起標價：$200
+拍賣連結： https://band.us/band/78427905/post/1194
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-01 Auction Coral\Picture\02.jpg
+Finished post 2.
+
+
+[Post 3]
+印尼 2頭超金頭豬腰 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/1195
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-01 Auction Coral\Picture\03.jpg
+Finished post 3.
+
+
+[Post 4]
+印尼 1頭金火柴 起標價：$200
+拍賣連結： https://band.us/band/78427905/post/1196
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-01 Auction Coral\Picture\04.jpg
+Finished post 4.
+
+
+[Post 5]
+印尼 2頭彩頭綠火柴 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/1197
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-01 Auction Coral\Picture\05.jpg
+Finished post 5.
+
+
+[Post 6]
+澳洲 綠糖果腦 起標價：$0
+拍賣連結： https://band.us/band/78427905/post/1198
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-01 Auction Coral\Picture\06.JPG
+Finished post 6.
+
+
+[Post 7]
+澳洲 極光片腦 起標價：$0
+拍賣連結： https://band.us/band/78427905/post/1199
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-01 Auction Coral\Picture\07.JPG
+Finished post 7.
+
+
+[Post 8]
+澳洲 雙藍紅眼貓眼腦 起標價：$0
+拍賣連結： https://band.us/band/78427905/post/1200
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-01 Auction Coral\Picture\08.JPG
+Finished post 8.
+
+
+[Post 9]
+Green Bay Packer Zoas 綠灣包裝工扣 起標價：$20
+拍賣連結： https://band.us/band/78427905/post/1201
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-01 Auction Coral\Picture\09.JPG
+Finished post 9.
+
+
+[Post 10]
+印尼 綠紋藍邊紅芯貓眼腦 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/1202
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-01 Auction Coral\Picture\10.JPG
+Finished post 10.
+
+
+Finished posting to band.
+Opening https://web.whatsapp.com/
+login whatsapp success.
+Finding group "拍賣通知專區"
+Finding input box.
+
+❗最新珊瑚拍賣❗
+Generating msg for post 1.
+印尼 細種橙金豬腰 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/1193
+Generating msg for post 2.
+印尼 細種 Toxic Green 豬腰 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/1194
+Generating msg for post 3.
+印尼 2頭超金頭豬腰 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/1195
+Generating msg for post 4.
+印尼 1頭金火柴 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/1196
+Generating msg for post 5.
+印尼 2頭彩頭綠火柴 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/1197
+Generating msg for post 6.
+澳洲 綠糖果腦 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/1198
+Generating msg for post 7.
+澳洲 極光片腦 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/1199
+Generating msg for post 8.
+澳洲 雙藍紅眼貓眼腦 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/1200
+Generating msg for post 9.
+Green Bay Packer Zoas 綠灣包裝工扣 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/1201
+Generating msg for post 10.
+印尼 綠紋藍邊紅芯貓眼腦 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/1202
+Sent message.
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-01 Auction Coral\Picture\01.jpg
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-01 Auction Coral\Picture\02.jpg
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-01 Auction Coral\Picture\03.jpg
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-01 Auction Coral\Picture\04.jpg
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-01 Auction Coral\Picture\05.jpg
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-01 Auction Coral\Picture\06.JPG
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-01 Auction Coral\Picture\07.JPG
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-01 Auction Coral\Picture\08.JPG
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-01 Auction Coral\Picture\09.JPG
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-01 Auction Coral\Picture\10.JPG
+Sent photos.
+--Post Auction End--
+Program end.

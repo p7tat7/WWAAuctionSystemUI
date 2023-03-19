@@ -1,0 +1,586 @@
+-----2021-10-20 16:28:49-----
+
+--Find bidder and price (before end auction) Start--
+Copying Chrome profile.
+--Find bidder and price (before end auction) End--
+--End auction Start--
+commentDocumentPath: C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-16 Auction Coral\comment.docx
+Trying to connect Dropbox api.
+Connected Dropbox api.
+Copying Chrome profile.
+https://coresos-phinf.pstatic.net/a/33gh1a/2_f67Ud018svc1neh1vgk3czq9_omsraq.jpg?type=e1920_std
+https://coresos-phinf.pstatic.net/a/33gh2f/4_967Ud018svc1g6xqtus5ol8g_omsraq.jpg?type=e1920_std
+https://coresos-phinf.pstatic.net/a/33gh08/6_367Ud018svc1v6gc7t16bnjy_omsraq.jpg?type=e1920_std
+https://coresos-phinf.pstatic.net/a/33gh36/7_h67Ud018svcile6tj4nv9yj_omsraq.jpg?type=e1920_std
+https://coresos-phinf.pstatic.net/a/33gh87/9_f67Ud018svc1euo94qvjdtdo_omsraq.jpg?type=e1920_std
+https://coresos-phinf.pstatic.net/a/33gh0h/b_a67Ud018svc184mnt5f824t0_omsraq.jpg?type=e1920_std
+https://coresos-phinf.pstatic.net/a/33gh80/d_467Ud018svc11nk9e983ndq1_omsraq.jpg?type=e1920_std
+https://coresos-phinf.pstatic.net/a/33gh55/e_i67Ud018svc1hpl35tb9hkqr_omsraq.jpg?type=e1920_std
+https://coresos-phinf.pstatic.net/a/33gh01/g_c67Ud018svc1b94y0vmwwh5t_omsraq.jpg?type=e1920_std
+https://coresos-phinf.pstatic.net/a/33ghaj/i_567Ud018svc1n408vq64nutv_omsraq.jpg?type=e1920_std
+https://coresos-phinf.pstatic.net/a/33gh64/j_j67Ud018svcbg0k8zuuvi4n_omsraq.jpg?type=e1920_std
+https://coresos-phinf.pstatic.net/a/33gh5b/1_g68Ud018svc1wosxjtwkylyz_omsraq.jpg?type=e1920_std
+https://coresos-phinf.pstatic.net/a/33gha4/3_e68Ud018svc1w15j7vta1lu2_omsraq.jpg?type=e1920_std
+https://coresos-phinf.pstatic.net/a/33gh22/5_768Ud018svcsvgzfwxxqr7s_omsraq.jpg?type=e1920_std
+https://coresos-phinf.pstatic.net/a/33gh3i/7_068Ud018svc13zmi97cop1de_omsraq.jpg?type=e1920_std
+https://coresos-phinf.pstatic.net/a/33gh29/8_g68Ud018svcgbdhxnprnwyo_omsraq.jpg?type=e1920_std
+https://coresos-phinf.pstatic.net/a/33ghh5/a_b68Ud018svcc293mmgehda7_omsraq.jpg?type=e1920_std
+https://coresos-phinf.pstatic.net/a/33gheg/c_e68Ud018svc7vmwy0wyfbsd_omsraq.jpg?type=e1920_std
+https://coresos-phinf.pstatic.net/a/33gh2e/e_f68Ud018svc12lg76r9lif1r_omsraq.jpg?type=e1920_std
+https://coresos-phinf.pstatic.net/a/33ghid/g_g68Ud018svcxxdj7psvyhyl_omsraq.jpg?type=e1920_std
+https://coresos-phinf.pstatic.net/a/33gh04/i_b68Ud018svc1reupbs44ovn2_omsraq.jpg?type=e1920_std
+https://coresos-phinf.pstatic.net/a/33gh54/0_569Ud018svc8qhwsltlkkbh_omsraq.jpg?type=e1920_std
+https://coresos-phinf.pstatic.net/a/33ghgg/2_069Ud018svc1ljny7or1lvhi_omsraq.jpg?type=e1920_std
+Bid 1: $20
+Bid 2: $0
+Bid 3: $40
+Bid 4: $40
+Bid 5: $120
+Bid 6: $60
+Bid 7: $20
+Bid 8: $40
+Bid 9: $40
+Bid 10: $20
+Bid 11: $40
+Bid 12: $0
+Bid 13: $20
+Bid 14: $120
+Bid 15: $60
+Bid 16: $60
+Bid 17: $0
+Bid 18: $60
+Bid 19: $80
+Bid 20: $60
+Bid 21: $160
+Bid 22: $100
+Bid 23: $120
+Uploading CSV...
+User pressed <enter> to continue.
+https://wwa.boutir.com/i/SPkTukgAA
+https://wwa.boutir.com/i/RneUGkgAA
+https://wwa.boutir.com/i/Rt05ekgAA
+https://wwa.boutir.com/i/WnofmkgAA
+https://wwa.boutir.com/i/QY0zWkgAA
+https://wwa.boutir.com/i/R2AXukgAA
+https://wwa.boutir.com/i/ScAhqkgAA
+https://wwa.boutir.com/i/WUmBhkgAA
+https://wwa.boutir.com/i/UlobukgAA
+https://wwa.boutir.com/i/WkIsakgAA
+https://wwa.boutir.com/i/ScNRekgAA
+https://wwa.boutir.com/i/Rl1lKkgAA
+https://wwa.boutir.com/i/QQ5hhkgAA
+https://wwa.boutir.com/i/SsegZkgAA
+https://wwa.boutir.com/i/Q3uKmkgAA
+https://wwa.boutir.com/i/VvupBkgAA
+https://wwa.boutir.com/i/Um8TqkgAA
+https://wwa.boutir.com/i/VBnwCkgAA
+https://wwa.boutir.com/i/Sg3ixkgAA
+https://wwa.boutir.com/i/WY6GykgAA
+https://wwa.boutir.com/i/S8FkJkgAA
+https://wwa.boutir.com/i/TqYtqkgAA
+https://wwa.boutir.com/i/UneUGkgAA
+Opening: https://band.us/band/78427905/post/1344
+Opening: https://band.us/band/78427905/post/1345
+Opening: https://band.us/band/78427905/post/1346
+Opening: https://band.us/band/78427905/post/1347
+Opening: https://band.us/band/78427905/post/1348
+Opening: https://band.us/band/78427905/post/1349
+Opening: https://band.us/band/78427905/post/1350
+Opening: https://band.us/band/78427905/post/1351
+Opening: https://band.us/band/78427905/post/1352
+Opening: https://band.us/band/78427905/post/1353
+Opening: https://band.us/band/78427905/post/1354
+Opening: https://band.us/band/78427905/post/1355
+Opening: https://band.us/band/78427905/post/1356
+Opening: https://band.us/band/78427905/post/1357
+Opening: https://band.us/band/78427905/post/1358
+Opening: https://band.us/band/78427905/post/1359
+Opening: https://band.us/band/78427905/post/1360
+Opening: https://band.us/band/78427905/post/1361
+Opening: https://band.us/band/78427905/post/1362
+Opening: https://band.us/band/78427905/post/1363
+Opening: https://band.us/band/78427905/post/1364
+Opening: https://band.us/band/78427905/post/1365
+Opening: https://band.us/band/78427905/post/1366
+--End auction End--
+
+
+
+
+
+-----2021-10-20 19:00:33-----
+
+--Post Auction Start--
+row 1: ['2021/10/20', 'a', '2021/10/20', '2100', '2975', '四彩富士腦', '', '2000', '發燒友拍賣區', 'y']
+row 2: ['2021/10/20', 'a', '2021/10/20', '2100', '4455', '糖果腦', '1', '140', '發燒友拍賣區', 'y']
+row 3: ['2021/10/20', 'a', '2021/10/20', '2100', '2760', '印尼 超金火柴', '2', '240', '發燒友拍賣區', 'y']
+row 4: ['2021/10/20', 'a', '2021/10/20', '2100', '2059', 'Green Bay Packer Zoas 綠灣包裝工扣', '3', '40', '環球水族HK - 拍賣區', 'y']
+row 5: ['2021/10/20', 'a', '2021/10/20', '2100', '2105', '龜殼腦', '4', '60', '環球水族HK - 拍賣區', 'y']
+row 6: ['2021/10/20', 'a', '2021/10/20', '2100', '4120', 'Fire Zoas 火焰扣', '1', '40', '環球水族HK - 拍賣區', 'y']
+row 7: ['2021/10/20', 'a', '2021/10/20', '2100', '1562', '澳洲 糖果腦', '1', '80', '環球水族HK - 拍賣區', 'y']
+row 8: ['2021/10/20', 'a', '2021/10/20', '2100', '3992', 'Green Apple Zoas', '3', '40', '環球水族HK - 拍賣區', 'y']
+row 9: ['2021/10/20', 'a', '2021/10/20', '2100', '4223', '極光片腦', '', '40', '環球水族HK - 拍賣區', 'y']
+row 10: ['2021/10/20', 'a', '2021/10/20', '2100', '3640', '澳洲 青金腦', '', '40', '環球水族HK - 拍賣區', 'y']
+row 11: ['2021/10/20', 'a', '2021/10/20', '2100', '4328', '印尼 藍鬚紅芯寳石花', '', '60', '環球水族HK - 拍賣區', 'y']
+row 12: ['2021/10/20', 'a', '2021/10/20', '2100', '3539', '馬卡龍寶石花', '', '100', '環球水族HK - 拍賣區', 'y']
+row 13: ['2021/10/20', 'a', '2021/10/20', '2100', '2891', '南瓜腦', '', '100', '環球水族HK - 拍賣區', 'y']
+row 14: ['2021/10/20', 'a', '2021/10/20', '2100', '3463', '綠貓眼腦', '1', '60', '環球水族HK - 拍賣區', 'y']
+row 15: ['2021/10/20', 'a', '2021/10/20', '2100', '4162', 'Green Galaxy Zoas', '1', '60', '環球水族HK - 拍賣區', 'y']
+row 16: ['2021/10/20', 'a', '2021/10/20', '2100', '4597', 'Gold Zoas', '1', '60', '環球水族HK - 拍賣區', 'y']
+row 17: ['2021/10/20', 'a', '2021/10/20', '2100', '2117', '印尼 雙色豬腰', '1', '100', '環球水族HK - 拍賣區', 'y']
+row 18: ['2021/10/20', 'a', '2021/10/20', '2100', '2452', '印尼 細種橙金豬腰', '1', '80', '環球水族HK - 拍賣區', 'y']
+row 19: ['2021/10/20', 'a', '2021/10/20', '2100', '3705', ' 印尼 Toxic Green 豬腰', '1', '100', '環球水族HK - 拍賣區', 'y']
+Google sheet: 191 cells appended.
+Copying Chrome profile.
+login band success.
+[發燒友拍賣區 Post 1]
+四彩富士腦 起標價：$2000
+拍賣連結： https://band.us/band/75420559/post/4880
+
+發燒友拍賣區: Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-20 Auction Coral\Picture\01.JPG
+Finished 發燒友拍賣區 post 1.
+
+
+[發燒友拍賣區 Post 2]
+糖果腦 起標價：$140
+拍賣連結： https://band.us/band/75420559/post/4881
+
+發燒友拍賣區: Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-20 Auction Coral\Picture\02.JPG
+Finished 發燒友拍賣區 post 2.
+
+
+[發燒友拍賣區 Post 3]
+印尼 超金火柴 起標價：$240
+拍賣連結： https://band.us/band/75420559/post/4882
+
+發燒友拍賣區: Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-20 Auction Coral\Picture\03.JPG
+Finished 發燒友拍賣區 post 3.
+
+
+firstPostCode: 1405
+
+[Post 1]
+Green Bay Packer Zoas 綠灣包裝工扣 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/1406
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-20 Auction Coral\Picture\04.JPG
+Finished post 1.
+
+
+[Post 2]
+龜殼腦 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/1407
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-20 Auction Coral\Picture\05.JPG
+Finished post 2.
+
+
+[Post 3]
+Fire Zoas 火焰扣 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/1408
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-20 Auction Coral\Picture\06.JPG
+Finished post 3.
+
+
+[Post 4]
+澳洲 糖果腦 起標價：$80
+拍賣連結： https://band.us/band/78427905/post/1409
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-20 Auction Coral\Picture\07.JPG
+Finished post 4.
+
+
+[Post 5]
+Green Apple Zoas 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/1410
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-20 Auction Coral\Picture\08.JPG
+Finished post 5.
+
+
+[Post 6]
+極光片腦 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/1411
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-20 Auction Coral\Picture\09.JPG
+Finished post 6.
+
+
+[Post 7]
+澳洲 青金腦 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/1412
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-20 Auction Coral\Picture\10.JPG
+Finished post 7.
+
+
+[Post 8]
+印尼 藍鬚紅芯寳石花 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/1413
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-20 Auction Coral\Picture\11.JPG
+Finished post 8.
+
+
+[Post 9]
+馬卡龍寶石花 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/1414
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-20 Auction Coral\Picture\12.jpg
+Finished post 9.
+
+
+[Post 10]
+南瓜腦 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/1415
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-20 Auction Coral\Picture\13.jpg
+Finished post 10.
+
+
+[Post 11]
+綠貓眼腦 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/1416
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-20 Auction Coral\Picture\14.jpg
+Finished post 11.
+
+
+[Post 12]
+Green Galaxy Zoas 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/1417
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-20 Auction Coral\Picture\15.jpg
+Finished post 12.
+
+
+[Post 13]
+Gold Zoas 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/1418
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-20 Auction Coral\Picture\16.jpg
+Finished post 13.
+
+
+[Post 14]
+印尼 雙色豬腰 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/1419
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-20 Auction Coral\Picture\17.jpg
+Finished post 14.
+
+
+[Post 15]
+印尼 細種橙金豬腰 起標價：$80
+拍賣連結： https://band.us/band/78427905/post/1420
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-20 Auction Coral\Picture\18.jpg
+Finished post 15.
+
+
+[Post 16]
+印尼 Toxic Green 豬腰 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/1421
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-20 Auction Coral\Picture\19.jpg
+Finished post 16.
+
+
+Finished posting to band.
+Opening https://web.whatsapp.com/
+login whatsapp success.
+Finding group "拍賣通知專區"
+Finding input box.
+
+❗最新珊瑚拍賣❗
+Generating msg for post 1.
+四彩富士腦 起標價：$2000
+拍賣連結： https://band.us/band/75420559/post/4880
+Generating msg for post 2.
+糖果腦 起標價：$140
+拍賣連結： https://band.us/band/75420559/post/4881
+Generating msg for post 3.
+印尼 超金火柴 起標價：$240
+拍賣連結： https://band.us/band/75420559/post/4882
+Generating msg for post 4.
+Green Bay Packer Zoas 綠灣包裝工扣 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/1406
+Generating msg for post 5.
+龜殼腦 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/1407
+Generating msg for post 6.
+Fire Zoas 火焰扣 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/1408
+Generating msg for post 7.
+澳洲 糖果腦 起標價：$80
+拍賣連結： https://band.us/band/78427905/post/1409
+Generating msg for post 8.
+Green Apple Zoas 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/1410
+Generating msg for post 9.
+極光片腦 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/1411
+Generating msg for post 10.
+澳洲 青金腦 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/1412
+Generating msg for post 11.
+印尼 藍鬚紅芯寳石花 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/1413
+Generating msg for post 12.
+馬卡龍寶石花 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/1414
+Generating msg for post 13.
+南瓜腦 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/1415
+Generating msg for post 14.
+綠貓眼腦 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/1416
+Generating msg for post 15.
+Green Galaxy Zoas 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/1417
+Generating msg for post 16.
+Gold Zoas 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/1418
+Generating msg for post 17.
+印尼 雙色豬腰 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/1419
+Generating msg for post 18.
+印尼 細種橙金豬腰 起標價：$80
+拍賣連結： https://band.us/band/78427905/post/1420
+Generating msg for post 19.
+印尼 Toxic Green 豬腰 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/1421
+
+
+
+
+
+-----2021-10-20 19:54:14-----
+
+--Check order list Start--
+Copying Chrome profile.
+[CMS 1]: 5304733880418304
+[CMS 2]: 5662563107995648
+[CMS 3]: 6663086812561408
+[CMS 4]: 6425809263919104
+[CMS 5]: 6588391895465984
+[CMS 6]: 5041859601760256
+[CMS 7]: 5637328967172096
+[CMS 8]: 5349219004186624
+[CMS 9]: 6637669263212544
+[CMS 10]: 4827032300158976
+[CMS 11]: 4994862928756736
+[CMS 12]: 5782037958098944
+[CMS 13]: 5228996007690240
+[CMS 14]: 4741899958222848
+[CMS 15]: 4899088043737088
+[CMS 16]: 4831998439981056
+[CMS 17]: 6501688048484352
+[CMS 18]: 5713580071714816
+[CMS 19]: 5808440262918144
+[CMS 20]: 5311026124947456
+[CMS 21]: 5431269119885312
+[CMS 22]: 4818618241122304
+[CMS 23]: 6572424213692416
+[CMS 24]: 6661709671563264
+[CMS 25]: 4918759698595840
+[CMS 26]: 4632989922361344
+[CMS 27]: 4950922393419776
+[CMS 28]: 5860376483856384
+[CMS 29]: 6430086480920576
+[CMS 30]: 5516556500074496
+[CMS 31]: 6423512312053760
+[CMS 32]: 5238462702813184
+[CMS 33]: 4752113054908416
+[CMS 34]: 5076619980046336
+[CMS 35]: 6436921350946816
+[CMS 36]: 5729282925133824
+[CMS 37]: 4702596544724992
+[CMS 38]: 5849138064392192
+[CMS 39]: 5069810024185856
+[CMS 40]: 6679809938817024
+[CMS 41]: 6040039529250816
+[CMS 42]: 4794408282226688
+[CMS 43]: 6677111793385472
+[CMS 44]: 6203475852656640
+[CMS 45]: 4879887392440320
+[CMS 46]: 6455036214378496
+[CMS 47]: 6300076109594624
+[CMS 48]: 5814914288582656
+[CMS 49]: 6540877511131136
+[CMS 50]: 4825763590307840
+[CMS 51]: 5030490353565696
+[CMS 52]: 4726192054861824
+[CMS 53]: 5660688623206400
+[CMS 54]: 6339119979560960
+[CMS 55]: 4628933896175616
+[CMS 56]: 6251396950261760
+[CMS 57]: 5815083772018688
+[CMS 58]: 6300746493591552
+[CMS 59]: 5165611702419456
+[CMS 60]: 5855998200905728
+[CMS 61]: 5689830387351552
+[CMS 62]: 4654697962143744
+[CMS 63]: 5037954671181824
+[CMS 64]: 5382954328129536
+[CMS 65]: 6137103944646656
+[CMS 66]: 6194982152175616
+[CMS 67]: 4855174486163456
+[CMS 68]: 4700881477042176
+[CMS 69]: 5360451014754304
+[CMS 70]: 4636981020721152
+[CMS 71]: 6308238694940672
+[CMS 72]: 5144428252626944
+[CMS 73]: 5613066092937216
+[CMS 74]: 5221617270652928
+[CMS 75]: 5506092449792000
+[CMS 76]: 4872890085408768
+[CMS 77]: 4839188953432064
+[CMS 78]: 6291208646295552
+[CMS 79]: 5699495196229632
+[CMS 80]: 4982564893884416
+[CMS 81]: 5439671250321408
+[CMS 82]: 5948153300910080
+[CMS 83]: 5249194685235200
+[CMS 84]: 6673013689942016
+[CMS 85]: 4573637467308032
+[CMS 86]: 5972882556583936
+[CMS 87]: 6042337680687104
+[CMS 88]: 4832769889927168
+[CMS 89]: 5399732349435904
+[CMS 90]: 5495923376521216
+[CMS 91]: 5967335967031296
+[CMS 92]: 4844577660993536
+[CMS 93]: 6636995389554688
+[CMS 94]: 5702382186004480
+[CMS 95]: 6742520185880576
+[CMS 96]: 6639612568141824
+[CMS 97]: 5060098952134656
+[CMS 98]: 6126380820594688
+[CMS 99]: 4575978727800832
+[CMS 100]: 4933733699420160
+Range names: to_add, 10月
+Not 16-digit: .
+Not 16-digit: 
+Row: ['星期五', 44470]
+Row: ['星期六', 44471]
+Google sheet: 5655214318288896
+Google sheet: 6048836234641408
+Google sheet: 5986385824710656
+Google sheet: 5037952599195648
+Google sheet: 5686250087514112
+Google sheet: 5898785537523712
+Google sheet: 5618839007133696
+Google sheet: 6534730070753280
+Google sheet: 4842217542909952
+Row: []
+Google sheet: 6719367023820800
+Google sheet: 5349292387729408
+Google sheet: 6639612568141824
+Google sheet: 5323029535129600
+Google sheet: 5090349144997888
+Google sheet: 6069423178907648
+Google sheet: 4933733699420160
+Google sheet: 4778501367529472
+Google sheet: 4575978727800832
+Google sheet: 6126380820594688
+Row: []
+Google sheet: 6742520185880576
+Google sheet: 4832769889927168
+Google sheet: 4844577660993536
+Google sheet: 5967335967031296
+Google sheet: 5702382186004480
+Google sheet: 5623408181248000
+Google sheet: 5060098952134656
+Google sheet: 5249194685235200
+Google sheet: 5439671250321408
+Google sheet: 4982564893884416
+Google sheet: 6048639496617984
+Google sheet: 4691712829161472
+Google sheet: 5613066092937216
+Row: ['星期六', 44449]
+Row: []
+Google sheet: 5495923376521216
+Google sheet: 6137103944646656
+Google sheet: 4772984314265600
+Google sheet: 4872890085408768
+Google sheet: 5972882556583936
+Google sheet: 4573637467308032
+Google sheet: 4839188953432064
+Google sheet: 4700881477042176
+Google sheet: 4855174486163456
+Google sheet: 5221617270652928
+Google sheet: 5144428252626944
+Google sheet: 5689830387351552
+Google sheet: 4535135635636224
+Google sheet: 6042337680687104
+Google sheet: 6673013689942016
+Google sheet: 6194982152175616
+Google sheet: 5855998200905728
+Google sheet: 6251396950261760
+Google sheet: 6300746493591552
+Row: []
+Google sheet: 6339119979560960
+Not 16-digit: 
+Google sheet: 4654697962143744
+Google sheet: 5037954671181824
+Google sheet: 6540877511131136
+Row: ['星期三', '13/10']
+Google sheet: 6203475852656640
+Row: ['星期五', '15/10']
+Row: []
+Row: []
+Row: []
+Google sheet: 5399732349435904
+Google sheet: 4879887392440320
+Row: []
+Google sheet: 6455036214378496
+Google sheet: 5069810024185856
+Google sheet: 4628933896175616
+Not 16-digit: 
+Not 16-digit: 
+Google sheet: 5516556500074496
+Google sheet: 6661709671563264
+Google sheet: 6572424213692416
+Google sheet: 4825763590307840
+Google sheet: 6679809938817024
+Google sheet: 4794408282226688
+Google sheet: 6677111793385472
+Google sheet: 4818618241122304
+Google sheet: 6501688048484352
+Row: []
+Google sheet: 6436921350946816
+Google sheet: 4752113054908416
+Row: []
+Google sheet: 4918759698595840
+Google sheet: 6308238694940672
+Google sheet: 5713580071714816
+Google sheet: 5311026124947456
+Google sheet: 5808440262918144
+Row: ['星期一', '18/10']
+Google sheet: 4831998439981056
+Google sheet: 6300076109594624
+Google sheet: 5729282925133824
+Google sheet: 5076619980046336
+Google sheet: 4950922393419776
+Google sheet: 4899088043737088
+Google sheet: 5860376483856384
+Google sheet: 5782037958098944
+Google sheet: 5228996007690240
+Google sheet: 4827032300158976
+Row: ['星期二', '19/10']
+Row: []
+Google sheet: 4632989922361344
+Row: ['星期三', '20/10']
+Row: ['星期四', '21/10']
+Row: ['星期五', '22/10']
+Google sheet: 6637669263212544
+Google sheet: 4994862928756736
+Google sheet: 6040039529250816
+Google sheet: 5238462702813184
+Google sheet: 5349219004186624
+Google sheet: 5814914288582656
+Google sheet: 63 cells appended.
+Have new order, please check the google sheet "to_add" tab.
+--Check order list End--

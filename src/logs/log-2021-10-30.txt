@@ -1,0 +1,6328 @@
+-----2021-10-30 14:29:56-----
+
+
+
+
+
+
+-----2021-10-30 14:30:52-----
+
+
+
+
+
+
+-----2021-10-30 14:34:43-----
+
+
+
+
+
+
+-----2021-10-30 14:49:22-----
+
+--Check order list Start--
+Copying Chrome profile.
+[CMS 1]: 5809717864693760
+[CMS 2]: 4730335876218880
+[CMS 3]: 5272406802432000
+[CMS 4]: 4508923668332544
+[CMS 5]: 4861213730275328
+[CMS 6]: 5652956591554560
+[CMS 7]: 4965516541296640
+[CMS 8]: 5863633478352896
+[CMS 9]: 5151254012624896
+[CMS 10]: 5486885708365824
+[CMS 11]: 4961547672748032
+[CMS 12]: 5687684019388416
+[CMS 13]: 5968392159887360
+[CMS 14]: 6050044387131392
+[CMS 15]: 6680078156169216
+[CMS 16]: 5994261418999808
+[CMS 17]: 5739764658601984
+[CMS 18]: 6659538615926784
+[CMS 19]: 5626968348426240
+[CMS 20]: 5514633764012032
+[CMS 21]: 4812230366461952
+[CMS 22]: 4817584395517952
+[CMS 23]: 5639581409083392
+[CMS 24]: 5305403358445568
+[CMS 25]: 5918087070220288
+[CMS 26]: 4829627668365312
+[CMS 27]: 5104437073936384
+[CMS 28]: 5138385502076928
+[CMS 29]: 5982117935841280
+[CMS 30]: 6317895039713280
+[CMS 31]: 5866591284756480
+[CMS 32]: 6594871927373824
+[CMS 33]: 4948688188342272
+[CMS 34]: 5227273138601984
+[CMS 35]: 5787725971193856
+[CMS 36]: 5357146775617536
+[CMS 37]: 6051713183252480
+[CMS 38]: 6648962745499648
+[CMS 39]: 4584385035763712
+[CMS 40]: 6089734297354240
+[CMS 41]: 5442862645903360
+[CMS 42]: 5982196788756480
+[CMS 43]: 5762126271610880
+[CMS 44]: 5839693599080448
+[CMS 45]: 5927577270222848
+[CMS 46]: 5160132465000448
+[CMS 47]: 6209691123318784
+[CMS 48]: 6503894252388352
+[CMS 49]: 5706867490816000
+[CMS 50]: 4508377267961856
+[CMS 51]: 4658142777573376
+[CMS 52]: 4896408990777344
+[CMS 53]: 6670567555072000
+[CMS 54]: 6613313711636480
+[CMS 55]: 5304733880418304
+[CMS 56]: 5662563107995648
+[CMS 57]: 6663086812561408
+[CMS 58]: 6425809263919104
+[CMS 59]: 6588391895465984
+[CMS 60]: 5041859601760256
+[CMS 61]: 5637328967172096
+[CMS 62]: 5349219004186624
+[CMS 63]: 6637669263212544
+[CMS 64]: 4827032300158976
+[CMS 65]: 4994862928756736
+[CMS 66]: 5782037958098944
+[CMS 67]: 5228996007690240
+[CMS 68]: 4741899958222848
+[CMS 69]: 4899088043737088
+[CMS 70]: 4831998439981056
+[CMS 71]: 6501688048484352
+[CMS 72]: 5713580071714816
+[CMS 73]: 5808440262918144
+[CMS 74]: 5311026124947456
+[CMS 75]: 5431269119885312
+[CMS 76]: 4818618241122304
+[CMS 77]: 6572424213692416
+[CMS 78]: 6661709671563264
+[CMS 79]: 4918759698595840
+[CMS 80]: 4632989922361344
+[CMS 81]: 4950922393419776
+[CMS 82]: 5860376483856384
+[CMS 83]: 6430086480920576
+[CMS 84]: 5516556500074496
+[CMS 85]: 6423512312053760
+[CMS 86]: 5238462702813184
+[CMS 87]: 4752113054908416
+[CMS 88]: 5076619980046336
+[CMS 89]: 6436921350946816
+[CMS 90]: 5729282925133824
+[CMS 91]: 4702596544724992
+[CMS 92]: 5849138064392192
+[CMS 93]: 5069810024185856
+[CMS 94]: 6679809938817024
+[CMS 95]: 6040039529250816
+[CMS 96]: 4794408282226688
+[CMS 97]: 6677111793385472
+[CMS 98]: 6203475852656640
+[CMS 99]: 4879887392440320
+[CMS 100]: 6455036214378496
+Range names: to_add, 10月, 11月
+Not 16-digit: .
+Row: ['', 44500]
+Row: ['', 44501]
+Not 16-digit: 
+Row: ['星期五', 44470]
+Row: ['星期六', 44471]
+Google sheet: 5655214318288896
+Google sheet: 6048836234641408
+Google sheet: 5986385824710656
+Google sheet: 5037952599195648
+Google sheet: 5686250087514112
+Google sheet: 5898785537523712
+Google sheet: 5618839007133696
+Google sheet: 6534730070753280
+Google sheet: 4842217542909952
+Row: []
+Google sheet: 6719367023820800
+Google sheet: 5349292387729408
+Google sheet: 6639612568141824
+Google sheet: 5323029535129600
+Google sheet: 5090349144997888
+Google sheet: 6069423178907648
+Google sheet: 4933733699420160
+Google sheet: 4778501367529472
+Google sheet: 4575978727800832
+Google sheet: 6126380820594688
+Row: []
+Google sheet: 6742520185880576
+Google sheet: 4832769889927168
+Google sheet: 4844577660993536
+Google sheet: 5967335967031296
+Google sheet: 5702382186004480
+Google sheet: 5623408181248000
+Google sheet: 5060098952134656
+Google sheet: 5249194685235200
+Google sheet: 5439671250321408
+Google sheet: 4982564893884416
+Google sheet: 6048639496617984
+Google sheet: 4691712829161472
+Google sheet: 5613066092937216
+Row: ['星期六', 44449]
+Row: []
+Google sheet: 5495923376521216
+Google sheet: 6137103944646656
+Google sheet: 4772984314265600
+Google sheet: 4872890085408768
+Google sheet: 5972882556583936
+Google sheet: 4573637467308032
+Google sheet: 4839188953432064
+Google sheet: 4700881477042176
+Google sheet: 4855174486163456
+Google sheet: 5221617270652928
+Google sheet: 5144428252626944
+Google sheet: 5689830387351552
+Google sheet: 4535135635636224
+Google sheet: 6042337680687104
+Google sheet: 6673013689942016
+Google sheet: 6194982152175616
+Google sheet: 5855998200905728
+Google sheet: 6251396950261760
+Google sheet: 6300746493591552
+Row: []
+Google sheet: 6339119979560960
+Not 16-digit: 
+Google sheet: 4654697962143744
+Google sheet: 5037954671181824
+Google sheet: 6540877511131136
+Row: ['星期三', '13/10']
+Google sheet: 6203475852656640
+Row: ['星期五', '15/10']
+Row: []
+Row: []
+Row: []
+Google sheet: 5399732349435904
+Google sheet: 4879887392440320
+Row: []
+Google sheet: 6455036214378496
+Google sheet: 5069810024185856
+Google sheet: 4628933896175616
+Not 16-digit: 
+Not 16-digit: 
+Google sheet: 5516556500074496
+Google sheet: 6661709671563264
+Google sheet: 6572424213692416
+Google sheet: 4825763590307840
+Google sheet: 6679809938817024
+Google sheet: 4794408282226688
+Google sheet: 6677111793385472
+Google sheet: 4818618241122304
+Google sheet: 6501688048484352
+Row: []
+Google sheet: 6436921350946816
+Google sheet: 4752113054908416
+Row: []
+Google sheet: 4918759698595840
+Google sheet: 6308238694940672
+Google sheet: 5713580071714816
+Google sheet: 5311026124947456
+Google sheet: 5808440262918144
+Row: ['星期一', '18/10']
+Google sheet: 4831998439981056
+Google sheet: 6300076109594624
+Google sheet: 5729282925133824
+Google sheet: 5076619980046336
+Google sheet: 4950922393419776
+Google sheet: 4899088043737088
+Row: []
+Google sheet: 5782037958098944
+Row: []
+Google sheet: 4827032300158976
+Row: []
+Row: ['星期二', '19/10']
+Row: []
+Google sheet: 4632989922361344
+Google sheet: 6637669263212544
+Google sheet: 4994862928756736
+Row: ['星期四', '21/10']
+Row: ['星期五', '22/10']
+Row: ['星期六', '23/10']
+Row: []
+Google sheet: 5927577270222848
+Google sheet: 6588391895465984
+Google sheet: 5160132465000448
+Google sheet: 6209691123318784
+Google sheet: 6503894252388352
+Google sheet: 5706867490816000
+Google sheet: 4508377267961856
+Google sheet: 4658142777573376
+Google sheet: 4896408990777344
+Google sheet: 6051713183252480
+Google sheet: 5442862645903360
+Google sheet: 4584385035763712
+Google sheet: 5839693599080448
+Google sheet: 6648962745499648
+Row: []
+Not 16-digit: 
+Google sheet: 6040039529250816
+Google sheet: 5238462702813184
+Google sheet: 5349219004186624
+Google sheet: 5662563107995648
+Google sheet: 6663086812561408
+Google sheet: 6425809263919104
+Google sheet: 5041859601760256
+Google sheet: 5982196788756480
+Google sheet: 5304733880418304
+Google sheet: 5866591284756480
+Google sheet: 6089734297354240
+Google sheet: 5357146775617536
+Google sheet: 5787725971193856
+Google sheet: 6594871927373824
+Row: []
+Google sheet: 4948688188342272
+Row: []
+Google sheet: 5227273138601984
+Google sheet: 5814914288582656
+Google sheet: 5860376483856384
+Google sheet: 5228996007690240
+Google sheet: 5639581409083392
+Google sheet: 5918087070220288
+Google sheet: 5637328967172096
+Google sheet: 6613313711636480
+Google sheet: 6317895039713280
+Google sheet: 4817584395517952
+Google sheet: 5514633764012032
+Google sheet: 5994261418999808
+Google sheet: 6680078156169216
+Row: ['星期三', '27/10']
+Row: ['星期四', '28/10']
+Google sheet: 4829627668365312
+Row: ['星期五', '29/10']
+Google sheet: 4961547672748032
+Google sheet: 4508923668332544
+Google sheet: 4812230366461952
+Google sheet: 4730335876218880
+Google sheet: 5305403358445568
+Google sheet: 5626968348426240
+Google sheet: 5968392159887360
+Google sheet: 5104437073936384
+Not 16-digit: 
+Row: ['星期一', 44501]
+Google sheet: 6659538615926784
+Google sheet: 5739764658601984
+Google sheet: 5652956591554560
+Google sheet: 5272406802432000
+Google sheet: 4861213730275328
+Google sheet: 4965516541296640
+Row: []
+Google sheet: 6670567555072000
+Google sheet: 5687684019388416
+Row: ['星期三', 44503]
+Row: ['星期四', 44504]
+Row: ['星期五', 44505]
+Google sheet: 5151254012624896
+Row: ['星期日', 44507]
+Google sheet: 5863633478352896
+Google sheet: 5486885708365824
+Row: ['星期三', 44510]
+Row: ['星期四', 44511]
+Google sheet: 5762126271610880
+Row: ['星期六', 44513]
+Row: ['星期日', 44514]
+Row: ['星期一', 44515]
+Row: ['星期二', 44516]
+Row: ['星期三', 44517]
+Row: ['星期四', 44518]
+Row: ['星期五', 44519]
+Row: ['星期六', 44520]
+Row: ['星期日', 44521]
+Row: ['星期一', 44522]
+Row: ['星期二', 44523]
+Row: ['星期三', 44524]
+Row: ['星期四', 44525]
+Row: ['星期五', 44526]
+Row: ['星期六', 44527]
+Row: ['星期日', 44528]
+Row: ['星期一', 44529]
+Row: ['星期二', 44530]
+Google sheet: 9 cells appended.
+Have new order, please check the google sheet "to_add" tab.
+--Check order list End--
+
+
+
+
+
+-----2021-10-30 14:59:37-----
+
+
+
+
+
+
+-----2021-10-30 15:10:19-----
+
+
+
+
+
+
+-----2021-10-30 15:10:50-----
+
+
+
+
+
+
+-----2021-10-30 15:27:43-----
+
+
+
+
+
+
+-----2021-10-30 15:29:36-----
+
+
+
+
+
+
+-----2021-10-30 15:47:18-----
+
+
+
+
+
+
+-----2021-10-30 15:49:03-----
+
+
+
+
+
+
+-----2021-10-30 15:49:58-----
+
+
+
+
+
+
+-----2021-10-30 15:50:28-----
+
+
+
+
+
+
+-----2021-10-30 15:52:38-----
+
+
+
+
+
+
+-----2021-10-30 16:03:43-----
+
+
+
+
+
+
+-----2021-10-30 16:05:17-----
+
+
+
+
+
+
+-----2021-10-30 16:05:52-----
+
+
+
+
+
+
+-----2021-10-30 16:06:52-----
+
+
+
+
+
+
+-----2021-10-30 16:07:57-----
+
+
+
+
+
+
+-----2021-10-30 16:09:08-----
+
+
+
+
+
+
+-----2021-10-30 16:10:00-----
+
+
+
+
+
+
+-----2021-10-30 16:11:06-----
+
+
+
+
+
+
+-----2021-10-30 16:11:45-----
+
+
+
+
+
+
+-----2021-10-30 16:12:46-----
+
+
+
+
+
+
+-----2021-10-30 16:13:04-----
+
+
+
+
+
+
+-----2021-10-30 16:13:36-----
+
+
+
+
+
+
+-----2021-10-30 16:14:55-----
+
+
+
+
+
+
+-----2021-10-30 16:16:03-----
+
+
+
+
+
+
+-----2021-10-30 16:19:53-----
+
+
+
+
+
+
+-----2021-10-30 16:24:30-----
+
+
+
+
+
+
+-----2021-10-30 16:25:29-----
+
+
+
+
+
+
+-----2021-10-30 16:26:33-----
+
+
+
+
+
+
+-----2021-10-30 16:39:09-----
+
+--Find bidder and price (before end auction) Start--
+
+
+
+
+
+-----2021-10-30 16:40:26-----
+
+--Find bidder and price (before end auction) Start--
+
+
+
+
+
+-----2021-10-30 16:41:31-----
+
+--Find bidder and price (before end auction) Start--
+Copying Chrome profile.
+
+
+
+
+
+-----2021-10-30 16:45:22-----
+
+--Find bidder and price (before end auction) Start--
+Copying Chrome profile.
+
+
+
+
+
+-----2021-10-30 16:49:04-----
+
+--Find bidder and price (before end auction) Start--
+Copying Chrome profile.
+
+
+
+
+
+-----2021-10-30 17:00:02-----
+
+
+
+
+
+
+-----2021-10-30 17:01:51-----
+
+
+
+
+
+
+-----2021-10-30 17:03:08-----
+
+
+
+
+
+
+-----2021-10-30 17:03:32-----
+
+
+
+
+
+
+-----2021-10-30 17:04:46-----
+
+
+
+
+
+
+-----2021-10-30 17:05:27-----
+
+
+
+
+
+
+-----2021-10-30 17:20:21-----
+
+
+
+
+
+
+-----2021-10-30 17:21:57-----
+
+
+
+
+
+
+-----2021-10-30 17:23:00-----
+
+
+
+
+
+
+-----2021-10-30 17:25:25-----
+
+
+
+
+
+
+-----2021-10-30 17:30:06-----
+
+--Check order list Start--
+Copying Chrome profile.
+[CMS 1]: 5809717864693760
+[CMS 2]: 4730335876218880
+[CMS 3]: 5272406802432000
+[CMS 4]: 4508923668332544
+[CMS 5]: 4861213730275328
+[CMS 6]: 5652956591554560
+[CMS 7]: 4965516541296640
+[CMS 8]: 5863633478352896
+[CMS 9]: 5151254012624896
+[CMS 10]: 5486885708365824
+[CMS 11]: 4961547672748032
+[CMS 12]: 5687684019388416
+[CMS 13]: 5968392159887360
+[CMS 14]: 6050044387131392
+[CMS 15]: 6680078156169216
+[CMS 16]: 5994261418999808
+[CMS 17]: 5739764658601984
+[CMS 18]: 6659538615926784
+[CMS 19]: 5626968348426240
+[CMS 20]: 5514633764012032
+[CMS 21]: 4812230366461952
+[CMS 22]: 4817584395517952
+[CMS 23]: 5639581409083392
+[CMS 24]: 5305403358445568
+[CMS 25]: 5918087070220288
+[CMS 26]: 4829627668365312
+[CMS 27]: 5104437073936384
+[CMS 28]: 5138385502076928
+[CMS 29]: 5982117935841280
+[CMS 30]: 6317895039713280
+[CMS 31]: 5866591284756480
+[CMS 32]: 6594871927373824
+[CMS 33]: 4948688188342272
+[CMS 34]: 5227273138601984
+[CMS 35]: 5787725971193856
+[CMS 36]: 5357146775617536
+[CMS 37]: 6051713183252480
+[CMS 38]: 6648962745499648
+[CMS 39]: 4584385035763712
+[CMS 40]: 6089734297354240
+[CMS 41]: 5442862645903360
+[CMS 42]: 5982196788756480
+[CMS 43]: 5762126271610880
+[CMS 44]: 5839693599080448
+[CMS 45]: 5927577270222848
+[CMS 46]: 5160132465000448
+[CMS 47]: 6209691123318784
+[CMS 48]: 6503894252388352
+[CMS 49]: 5706867490816000
+[CMS 50]: 4508377267961856
+[CMS 51]: 4658142777573376
+[CMS 52]: 4896408990777344
+[CMS 53]: 6670567555072000
+[CMS 54]: 6613313711636480
+[CMS 55]: 5304733880418304
+[CMS 56]: 5662563107995648
+[CMS 57]: 6663086812561408
+[CMS 58]: 6425809263919104
+[CMS 59]: 6588391895465984
+[CMS 60]: 5041859601760256
+[CMS 61]: 5637328967172096
+[CMS 62]: 5349219004186624
+[CMS 63]: 6637669263212544
+[CMS 64]: 4827032300158976
+[CMS 65]: 4994862928756736
+[CMS 66]: 5782037958098944
+[CMS 67]: 5228996007690240
+[CMS 68]: 4741899958222848
+[CMS 69]: 4899088043737088
+[CMS 70]: 4831998439981056
+[CMS 71]: 6501688048484352
+[CMS 72]: 5713580071714816
+[CMS 73]: 5808440262918144
+[CMS 74]: 5311026124947456
+[CMS 75]: 5431269119885312
+[CMS 76]: 4818618241122304
+[CMS 77]: 6572424213692416
+[CMS 78]: 6661709671563264
+[CMS 79]: 4918759698595840
+[CMS 80]: 4632989922361344
+[CMS 81]: 4950922393419776
+[CMS 82]: 5860376483856384
+[CMS 83]: 6430086480920576
+[CMS 84]: 5516556500074496
+[CMS 85]: 6423512312053760
+[CMS 86]: 5238462702813184
+[CMS 87]: 4752113054908416
+[CMS 88]: 5076619980046336
+[CMS 89]: 6436921350946816
+[CMS 90]: 5729282925133824
+[CMS 91]: 4702596544724992
+[CMS 92]: 5849138064392192
+[CMS 93]: 5069810024185856
+[CMS 94]: 6679809938817024
+[CMS 95]: 6040039529250816
+[CMS 96]: 4794408282226688
+[CMS 97]: 6677111793385472
+[CMS 98]: 6203475852656640
+[CMS 99]: 4879887392440320
+[CMS 100]: 6455036214378496
+Range names: to_add, 10月, 11月
+Not 16-digit: .
+Row: ['', 44500]
+Row: ['', 44501]
+Google sheet: 5809717864693760
+Not 16-digit: 
+Row: ['星期五', 44470]
+Row: ['星期六', 44471]
+Google sheet: 5655214318288896
+Google sheet: 6048836234641408
+Google sheet: 5986385824710656
+Google sheet: 5037952599195648
+Google sheet: 5686250087514112
+Google sheet: 5898785537523712
+Google sheet: 5618839007133696
+Google sheet: 6534730070753280
+Google sheet: 4842217542909952
+Row: []
+Google sheet: 6719367023820800
+Google sheet: 5349292387729408
+Google sheet: 6639612568141824
+Google sheet: 5323029535129600
+Google sheet: 5090349144997888
+Google sheet: 6069423178907648
+Google sheet: 4933733699420160
+Google sheet: 4778501367529472
+Google sheet: 4575978727800832
+Google sheet: 6126380820594688
+Row: []
+Google sheet: 6742520185880576
+Google sheet: 4832769889927168
+Google sheet: 4844577660993536
+Google sheet: 5967335967031296
+Google sheet: 5702382186004480
+Google sheet: 5623408181248000
+Google sheet: 5060098952134656
+Google sheet: 5249194685235200
+Google sheet: 5439671250321408
+Google sheet: 4982564893884416
+Google sheet: 6048639496617984
+Google sheet: 4691712829161472
+Google sheet: 5613066092937216
+Row: ['星期六', 44449]
+Row: []
+Google sheet: 5495923376521216
+Google sheet: 6137103944646656
+Google sheet: 4772984314265600
+Google sheet: 4872890085408768
+Google sheet: 5972882556583936
+Google sheet: 4573637467308032
+Google sheet: 4839188953432064
+Google sheet: 4700881477042176
+Google sheet: 4855174486163456
+Google sheet: 5221617270652928
+Google sheet: 5144428252626944
+Google sheet: 5689830387351552
+Google sheet: 4535135635636224
+Google sheet: 6042337680687104
+Google sheet: 6673013689942016
+Google sheet: 6194982152175616
+Google sheet: 5855998200905728
+Google sheet: 6251396950261760
+Google sheet: 6300746493591552
+Row: []
+Google sheet: 6339119979560960
+Not 16-digit: 
+Google sheet: 4654697962143744
+Google sheet: 5037954671181824
+Google sheet: 6540877511131136
+Row: ['星期三', '13/10']
+Google sheet: 6203475852656640
+Row: ['星期五', '15/10']
+Row: []
+Row: []
+Row: []
+Google sheet: 5399732349435904
+Google sheet: 4879887392440320
+Row: []
+Google sheet: 6455036214378496
+Google sheet: 5069810024185856
+Google sheet: 4628933896175616
+Not 16-digit: 
+Not 16-digit: 
+Google sheet: 5516556500074496
+Google sheet: 6661709671563264
+Google sheet: 6572424213692416
+Google sheet: 4825763590307840
+Google sheet: 6679809938817024
+Google sheet: 4794408282226688
+Google sheet: 6677111793385472
+Google sheet: 4818618241122304
+Google sheet: 6501688048484352
+Row: []
+Google sheet: 6436921350946816
+Google sheet: 4752113054908416
+Row: []
+Google sheet: 4918759698595840
+Google sheet: 6308238694940672
+Google sheet: 5713580071714816
+Google sheet: 5311026124947456
+Google sheet: 5808440262918144
+Row: ['星期一', '18/10']
+Google sheet: 4831998439981056
+Google sheet: 6300076109594624
+Google sheet: 5729282925133824
+Google sheet: 5076619980046336
+Google sheet: 4950922393419776
+Google sheet: 4899088043737088
+Row: []
+Google sheet: 5782037958098944
+Row: []
+Google sheet: 4827032300158976
+Row: []
+Row: ['星期二', '19/10']
+Row: []
+Google sheet: 4632989922361344
+Google sheet: 6637669263212544
+Google sheet: 4994862928756736
+Row: ['星期四', '21/10']
+Row: ['星期五', '22/10']
+Row: ['星期六', '23/10']
+Row: []
+Google sheet: 5927577270222848
+Google sheet: 6588391895465984
+Google sheet: 5160132465000448
+Google sheet: 6209691123318784
+Google sheet: 6503894252388352
+Google sheet: 5706867490816000
+Google sheet: 4508377267961856
+Google sheet: 4658142777573376
+Google sheet: 4896408990777344
+Google sheet: 6051713183252480
+Google sheet: 5442862645903360
+Google sheet: 4584385035763712
+Google sheet: 5839693599080448
+Google sheet: 6648962745499648
+Row: []
+Not 16-digit: 
+Google sheet: 6040039529250816
+Google sheet: 5238462702813184
+Google sheet: 5349219004186624
+Google sheet: 5662563107995648
+Google sheet: 6663086812561408
+Google sheet: 6425809263919104
+Google sheet: 5041859601760256
+Google sheet: 5982196788756480
+Google sheet: 5304733880418304
+Google sheet: 5866591284756480
+Google sheet: 6089734297354240
+Google sheet: 5357146775617536
+Google sheet: 5787725971193856
+Google sheet: 6594871927373824
+Row: []
+Google sheet: 4948688188342272
+Row: []
+Google sheet: 5227273138601984
+Google sheet: 5814914288582656
+Google sheet: 5860376483856384
+Google sheet: 5228996007690240
+Google sheet: 5639581409083392
+Google sheet: 5918087070220288
+Google sheet: 5637328967172096
+Google sheet: 6613313711636480
+Google sheet: 6317895039713280
+Google sheet: 4817584395517952
+Google sheet: 5514633764012032
+Google sheet: 5994261418999808
+Google sheet: 6680078156169216
+Row: ['星期三', '27/10']
+Row: ['星期四', '28/10']
+Google sheet: 4829627668365312
+Row: ['星期五', '29/10']
+Google sheet: 4961547672748032
+Google sheet: 4508923668332544
+Google sheet: 4812230366461952
+Google sheet: 4730335876218880
+Google sheet: 5305403358445568
+Google sheet: 5626968348426240
+Google sheet: 5968392159887360
+Google sheet: 5104437073936384
+Not 16-digit: 
+Row: ['星期一', 44501]
+Google sheet: 6659538615926784
+Google sheet: 5739764658601984
+Google sheet: 5652956591554560
+Google sheet: 5272406802432000
+Google sheet: 4861213730275328
+Google sheet: 4965516541296640
+Google sheet: 6670567555072000
+Google sheet: 5687684019388416
+Row: ['星期三', 44503]
+Row: ['星期四', 44504]
+Row: ['星期五', 44505]
+Google sheet: 5151254012624896
+Row: ['星期日', 44507]
+Google sheet: 5863633478352896
+Google sheet: 5486885708365824
+Row: ['星期三', 44510]
+Row: ['星期四', 44511]
+Google sheet: 5762126271610880
+Row: ['星期六', 44513]
+Row: ['星期日', 44514]
+Row: ['星期一', 44515]
+Row: ['星期二', 44516]
+Row: ['星期三', 44517]
+Row: ['星期四', 44518]
+Row: ['星期五', 44519]
+Row: ['星期六', 44520]
+Row: ['星期日', 44521]
+Row: ['星期一', 44522]
+Row: ['星期二', 44523]
+Row: ['星期三', 44524]
+Row: ['星期四', 44525]
+Row: ['星期五', 44526]
+Row: ['星期六', 44527]
+Row: ['星期日', 44528]
+Row: ['星期一', 44529]
+Row: ['星期二', 44530]
+Google sheet: 0 cells appended.
+Do not have new order.
+--Check order list End--
+
+
+
+
+
+-----2021-10-30 17:35:47-----
+
+--Check order list Start--
+Copying Chrome profile.
+
+
+
+
+
+-----2021-10-30 17:52:20-----
+
+--Check order list Start--
+Copying Chrome profile.
+
+
+
+
+
+-----2021-10-30 18:06:44-----
+
+--Check order list Start--
+Copying Chrome profile.
+
+
+
+
+
+-----2021-10-30 18:08:23-----
+
+--Check order list Start--
+Copying Chrome profile.
+
+
+
+
+
+-----2021-10-30 18:11:42-----
+
+--Check order list Start--
+Copying Chrome profile.
+
+
+
+
+
+-----2021-10-30 18:13:18-----
+
+
+
+
+
+
+-----2021-10-30 18:16:29-----
+
+
+
+
+
+
+-----2021-10-30 18:23:54-----
+
+
+
+
+
+
+-----2021-10-30 18:24:34-----
+
+
+
+
+
+
+-----2021-10-30 18:27:25-----
+
+
+
+
+
+
+-----2021-10-30 18:28:19-----
+
+--Check order list Start--
+Copying Chrome profile.
+
+
+
+
+
+-----2021-10-30 18:30:13-----
+
+--Post Auction Start--
+
+
+
+
+
+-----2021-10-30 18:33:05-----
+
+--Post Auction Start--
+row 1: ['2021/10/30', 'a', '2021/10/30', '2100', '4362', '茉莉花', '', '80', '環球水族HK - 拍賣區', 'y']
+row 2: ['2021/10/30', 'a', '2021/10/30', '2100', '4216 CAA3919 CAA4466', 'Golden Green People Eater Zoas / Green Apple Zoas / Green Lemon Zoas', '1', '100', '環球水族HK - 拍賣區', 'y']
+row 3: ['2021/10/30', 'a', '2021/10/30', '2100', '1199 CAA4597 CAA2651', '扣 / Gold Zoas / Candy Apple Zoas', '1', '160', '環球水族HK - 拍賣區', 'y']
+row 4: ['2021/10/30', 'a', '2021/10/30', '2100', '2963 CAA4097 CAA 4123', '龜殼腦 / 南瓜腦 / 綠宇宙腦', '', '160', '環球水族HK - 拍賣區', 'y']
+row 5: ['2021/10/30', 'a', '2021/10/30', '2100', '3931', '綠芯橙線星花', '2', '20', '環球水族HK - 拍賣區', 'y']
+row 6: ['2021/10/30', 'a', '2021/10/30', '2100', '2059 CAA2546 CAA1293 CAA4140', 'Green Bay Packers Zoas / Rasta Zoas / Fire Zoas / Zoas', '3 & 1 & 1 & 1', '120', '環球水族HK - 拍賣區', 'y']
+row 7: ['2021/10/30', 'a', '2021/10/30', '2100', '3876', '澳洲 紫幻彩腦', '1', '140', '環球水族HK - 拍賣區', 'y']
+Google sheet: 71 cells appended.
+Copying Chrome profile.
+login band success.
+firstPostCode: 1532
+
+[Post 1]
+茉莉花 起標價：$80
+拍賣連結： https://band.us/band/78427905/post/1533
+
+
+
+
+
+
+-----2021-10-30 18:37:57-----
+
+--Post Auction Start--
+Path "C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-30 Auction Coral" already exists, trying to remove it
+row 1: ['2021/10/30', 'a', '2021/10/30', '2100', '4362', '茉莉花', '', '80', '環球水族HK - 拍賣區', 'y']
+row 2: ['2021/10/30', 'a', '2021/10/30', '2100', '4216 CAA3919 CAA4466', 'Golden Green People Eater Zoas / Green Apple Zoas / Green Lemon Zoas', '1', '100', '環球水族HK - 拍賣區', 'y']
+row 3: ['2021/10/30', 'a', '2021/10/30', '2100', '1199 CAA4597 CAA2651', '扣 / Gold Zoas / Candy Apple Zoas', '1', '160', '環球水族HK - 拍賣區', 'y']
+row 4: ['2021/10/30', 'a', '2021/10/30', '2100', '2963 CAA4097 CAA 4123', '龜殼腦 / 南瓜腦 / 綠宇宙腦', '', '160', '環球水族HK - 拍賣區', 'y']
+row 5: ['2021/10/30', 'a', '2021/10/30', '2100', '3931', '綠芯橙線星花', '2', '20', '環球水族HK - 拍賣區', 'y']
+row 6: ['2021/10/30', 'a', '2021/10/30', '2100', '2059 CAA2546 CAA1293 CAA4140', 'Green Bay Packers Zoas / Rasta Zoas / Fire Zoas / Zoas', '3 & 1 & 1 & 1', '120', '環球水族HK - 拍賣區', 'y']
+row 7: ['2021/10/30', 'a', '2021/10/30', '2100', '3876', '澳洲 紫幻彩腦', '1', '140', '環球水族HK - 拍賣區', 'y']
+Google sheet: 71 cells appended.
+Copying Chrome profile.
+login band success.
+firstPostCode: 1532
+
+[Post 1]
+茉莉花 起標價：$80
+拍賣連結： https://band.us/band/78427905/post/1533
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-30 Auction Coral\Picture\010.JPG
+Finished post 1.
+
+
+[Post 2]
+Golden Green People Eater Zoas / Green Apple Zoas / Green Lemon Zoas 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/1534
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-30 Auction Coral\Picture\020.JPG
+Finished post 2.
+
+
+[Post 3]
+扣 / Gold Zoas / Candy Apple Zoas 起標價：$160
+拍賣連結： https://band.us/band/78427905/post/1535
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-30 Auction Coral\Picture\021.JPG
+Finished post 3.
+
+
+[Post 4]
+龜殼腦 / 南瓜腦 / 綠宇宙腦 起標價：$160
+拍賣連結： https://band.us/band/78427905/post/1536
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-30 Auction Coral\Picture\022.JPG
+Finished post 4.
+
+
+[Post 5]
+綠芯橙線星花 起標價：$20
+拍賣連結： https://band.us/band/78427905/post/1537
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-30 Auction Coral\Picture\030.JPG
+Finished post 5.
+
+
+[Post 6]
+Green Bay Packers Zoas / Rasta Zoas / Fire Zoas / Zoas 起標價：$120
+拍賣連結： https://band.us/band/78427905/post/1538
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-30 Auction Coral\Picture\031.JPG
+Finished post 6.
+
+
+[Post 7]
+澳洲 紫幻彩腦 起標價：$140
+拍賣連結： https://band.us/band/78427905/post/1539
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-30 Auction Coral\Picture\032.JPG
+Finished post 7.
+
+
+Finished posting to band.
+Opening https://web.whatsapp.com/
+login whatsapp success.
+Finding group "拍賣通知專區"
+Finding input box.
+
+❗最新珊瑚拍賣❗
+Generating msg for post 1.
+茉莉花 起標價：$80
+拍賣連結： https://band.us/band/78427905/post/1533
+Generating msg for post 2.
+Golden Green People Eater Zoas / Green Apple Zoas / Green Lemon Zoas 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/1534
+Generating msg for post 3.
+扣 / Gold Zoas / Candy Apple Zoas 起標價：$160
+拍賣連結： https://band.us/band/78427905/post/1535
+Generating msg for post 4.
+龜殼腦 / 南瓜腦 / 綠宇宙腦 起標價：$160
+拍賣連結： https://band.us/band/78427905/post/1536
+Generating msg for post 5.
+綠芯橙線星花 起標價：$20
+拍賣連結： https://band.us/band/78427905/post/1537
+Generating msg for post 6.
+Green Bay Packers Zoas / Rasta Zoas / Fire Zoas / Zoas 起標價：$120
+拍賣連結： https://band.us/band/78427905/post/1538
+Generating msg for post 7.
+澳洲 紫幻彩腦 起標價：$140
+拍賣連結： https://band.us/band/78427905/post/1539
+Sent message.
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-30 Auction Coral\Picture\010.JPG
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-30 Auction Coral\Picture\020.JPG
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-30 Auction Coral\Picture\021.JPG
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-30 Auction Coral\Picture\022.JPG
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-30 Auction Coral\Picture\030.JPG
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-30 Auction Coral\Picture\031.JPG
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-30 Auction Coral\Picture\032.JPG
+Sent photos.
+--Post Auction End--
+
+
+
+
+
+-----2021-10-30 18:44:33-----
+
+--Check order list Start--
+Copying Chrome profile.
+
+
+
+
+
+-----2021-10-30 18:49:19-----
+
+--Check order list Start--
+Copying Chrome profile.
+
+
+
+
+
+-----2021-10-30 18:53:49-----
+
+--Check order list Start--
+Copying Chrome profile.
+
+
+
+
+
+-----2021-10-30 18:55:50-----
+
+--Find bidder and price (before end auction) Start--
+Copying Chrome profile.
+
+
+
+
+
+-----2021-10-30 18:57:20-----
+
+--Find bidder and price (before end auction) Start--
+Copying Chrome profile.
+
+
+
+
+
+-----2021-10-30 19:00:48-----
+
+--Check order list Start--
+Copying Chrome profile.
+
+
+
+
+
+-----2021-10-30 19:11:54-----
+
+--Check order list Start--
+Copying Chrome profile.
+
+
+
+
+
+-----2021-10-30 19:14:54-----
+
+--Check order list Start--
+Copying Chrome profile.
+
+
+
+
+
+-----2021-10-30 19:22:03-----
+
+Copying Chrome profile.
+
+
+
+
+
+-----2021-10-30 19:25:58-----
+
+Copying Chrome profile.
+
+
+
+
+
+-----2021-10-30 19:28:05-----
+
+Copying Chrome profile.
+
+
+
+
+
+-----2021-10-30 19:30:51-----
+
+Copying Chrome profile.
+
+
+
+
+
+-----2021-10-30 19:32:30-----
+
+
+
+
+
+
+-----2021-10-30 19:32:53-----
+
+
+
+
+
+
+-----2021-10-30 19:33:10-----
+
+
+
+
+
+
+-----2021-10-30 19:35:14-----
+
+
+
+
+
+
+-----2021-10-30 19:38:19-----
+
+--Check order list Start--
+Copying Chrome profile.
+
+
+
+
+
+-----2021-10-30 19:42:47-----
+
+--Check order list Start--
+[CMS 1]: 5809717864693760
+[CMS 2]: 4730335876218880
+[CMS 3]: 5272406802432000
+[CMS 4]: 4508923668332544
+[CMS 5]: 4861213730275328
+[CMS 6]: 5652956591554560
+[CMS 7]: 4965516541296640
+[CMS 8]: 5863633478352896
+[CMS 9]: 5151254012624896
+[CMS 10]: 5486885708365824
+[CMS 11]: 4961547672748032
+[CMS 12]: 5687684019388416
+[CMS 13]: 5968392159887360
+[CMS 14]: 6050044387131392
+[CMS 15]: 6680078156169216
+[CMS 16]: 5994261418999808
+[CMS 17]: 5739764658601984
+[CMS 18]: 6659538615926784
+[CMS 19]: 5626968348426240
+[CMS 20]: 5514633764012032
+[CMS 21]: 4812230366461952
+[CMS 22]: 4817584395517952
+[CMS 23]: 5639581409083392
+[CMS 24]: 5305403358445568
+[CMS 25]: 5918087070220288
+[CMS 26]: 4829627668365312
+[CMS 27]: 5104437073936384
+[CMS 28]: 5138385502076928
+[CMS 29]: 5982117935841280
+[CMS 30]: 6317895039713280
+[CMS 31]: 5866591284756480
+[CMS 32]: 6594871927373824
+[CMS 33]: 4948688188342272
+[CMS 34]: 5227273138601984
+[CMS 35]: 5787725971193856
+[CMS 36]: 5357146775617536
+[CMS 37]: 6051713183252480
+[CMS 38]: 6648962745499648
+[CMS 39]: 4584385035763712
+[CMS 40]: 6089734297354240
+[CMS 41]: 5442862645903360
+[CMS 42]: 5982196788756480
+[CMS 43]: 5762126271610880
+[CMS 44]: 5839693599080448
+[CMS 45]: 5927577270222848
+[CMS 46]: 5160132465000448
+[CMS 47]: 6209691123318784
+[CMS 48]: 6503894252388352
+[CMS 49]: 5706867490816000
+[CMS 50]: 4508377267961856
+[CMS 51]: 4658142777573376
+[CMS 52]: 4896408990777344
+[CMS 53]: 6670567555072000
+[CMS 54]: 6613313711636480
+[CMS 55]: 5304733880418304
+[CMS 56]: 5662563107995648
+[CMS 57]: 6663086812561408
+[CMS 58]: 6425809263919104
+[CMS 59]: 6588391895465984
+[CMS 60]: 5041859601760256
+[CMS 61]: 5637328967172096
+[CMS 62]: 5349219004186624
+[CMS 63]: 6637669263212544
+[CMS 64]: 4827032300158976
+[CMS 65]: 4994862928756736
+[CMS 66]: 5782037958098944
+[CMS 67]: 5228996007690240
+[CMS 68]: 4741899958222848
+[CMS 69]: 4899088043737088
+[CMS 70]: 4831998439981056
+[CMS 71]: 6501688048484352
+[CMS 72]: 5713580071714816
+[CMS 73]: 5808440262918144
+[CMS 74]: 5311026124947456
+[CMS 75]: 5431269119885312
+[CMS 76]: 4818618241122304
+[CMS 77]: 6572424213692416
+[CMS 78]: 6661709671563264
+[CMS 79]: 4918759698595840
+[CMS 80]: 4632989922361344
+[CMS 81]: 4950922393419776
+[CMS 82]: 5860376483856384
+[CMS 83]: 6430086480920576
+[CMS 84]: 5516556500074496
+[CMS 85]: 6423512312053760
+[CMS 86]: 5238462702813184
+[CMS 87]: 4752113054908416
+[CMS 88]: 5076619980046336
+[CMS 89]: 6436921350946816
+[CMS 90]: 5729282925133824
+[CMS 91]: 4702596544724992
+[CMS 92]: 5849138064392192
+[CMS 93]: 5069810024185856
+[CMS 94]: 6679809938817024
+[CMS 95]: 6040039529250816
+[CMS 96]: 4794408282226688
+[CMS 97]: 6677111793385472
+[CMS 98]: 6203475852656640
+[CMS 99]: 4879887392440320
+[CMS 100]: 6455036214378496
+Range names: to_add, 10月, 11月
+Not 16-digit: .
+Not 16-digit: 
+Row: ['星期五', 44470]
+Row: ['星期六', 44471]
+Google sheet: 5655214318288896
+Google sheet: 6048836234641408
+Google sheet: 5986385824710656
+Google sheet: 5037952599195648
+Google sheet: 5686250087514112
+Google sheet: 5898785537523712
+Google sheet: 5618839007133696
+Google sheet: 6534730070753280
+Google sheet: 4842217542909952
+Row: []
+Google sheet: 6719367023820800
+Google sheet: 5349292387729408
+Google sheet: 6639612568141824
+Google sheet: 5323029535129600
+Google sheet: 5090349144997888
+Google sheet: 6069423178907648
+Google sheet: 4933733699420160
+Google sheet: 4778501367529472
+Google sheet: 4575978727800832
+Google sheet: 6126380820594688
+Row: []
+Google sheet: 6742520185880576
+Google sheet: 4832769889927168
+Google sheet: 4844577660993536
+Google sheet: 5967335967031296
+Google sheet: 5702382186004480
+Google sheet: 5623408181248000
+Google sheet: 5060098952134656
+Google sheet: 5249194685235200
+Google sheet: 5439671250321408
+Google sheet: 4982564893884416
+Google sheet: 6048639496617984
+Google sheet: 4691712829161472
+Google sheet: 5613066092937216
+Row: ['星期六', 44449]
+Row: []
+Google sheet: 5495923376521216
+Google sheet: 6137103944646656
+Google sheet: 4772984314265600
+Google sheet: 4872890085408768
+Google sheet: 5972882556583936
+Google sheet: 4573637467308032
+Google sheet: 4839188953432064
+Google sheet: 4700881477042176
+Google sheet: 4855174486163456
+Google sheet: 5221617270652928
+Google sheet: 5144428252626944
+Google sheet: 5689830387351552
+Google sheet: 4535135635636224
+Google sheet: 6042337680687104
+Google sheet: 6673013689942016
+Google sheet: 6194982152175616
+Google sheet: 5855998200905728
+Google sheet: 6251396950261760
+Google sheet: 6300746493591552
+Row: []
+Google sheet: 6339119979560960
+Not 16-digit: 
+Google sheet: 4654697962143744
+Google sheet: 5037954671181824
+Google sheet: 6540877511131136
+Row: ['星期三', '13/10']
+Google sheet: 6203475852656640
+Row: ['星期五', '15/10']
+Row: []
+Row: []
+Row: []
+Google sheet: 5399732349435904
+Google sheet: 4879887392440320
+Row: []
+Google sheet: 6455036214378496
+Google sheet: 5069810024185856
+Google sheet: 4628933896175616
+Not 16-digit: 
+Not 16-digit: 
+Google sheet: 5516556500074496
+Google sheet: 6661709671563264
+Google sheet: 6572424213692416
+Google sheet: 4825763590307840
+Google sheet: 6679809938817024
+Google sheet: 4794408282226688
+Google sheet: 6677111793385472
+Google sheet: 4818618241122304
+Google sheet: 6501688048484352
+Row: []
+Google sheet: 6436921350946816
+Google sheet: 4752113054908416
+Row: []
+Google sheet: 4918759698595840
+Google sheet: 6308238694940672
+Google sheet: 5713580071714816
+Google sheet: 5311026124947456
+Google sheet: 5808440262918144
+Row: ['星期一', '18/10']
+Google sheet: 4831998439981056
+Google sheet: 6300076109594624
+Google sheet: 5729282925133824
+Google sheet: 5076619980046336
+Google sheet: 4950922393419776
+Google sheet: 4899088043737088
+Row: []
+Google sheet: 5782037958098944
+Row: []
+Google sheet: 4827032300158976
+Row: []
+Row: ['星期二', '19/10']
+Row: []
+Google sheet: 4632989922361344
+Google sheet: 6637669263212544
+Google sheet: 4994862928756736
+Row: ['星期四', '21/10']
+Row: ['星期五', '22/10']
+Row: ['星期六', '23/10']
+Row: []
+Google sheet: 5927577270222848
+Google sheet: 6588391895465984
+Google sheet: 5160132465000448
+Google sheet: 6209691123318784
+Google sheet: 6503894252388352
+Google sheet: 5706867490816000
+Google sheet: 4508377267961856
+Google sheet: 4658142777573376
+Google sheet: 4896408990777344
+Google sheet: 6051713183252480
+Google sheet: 5442862645903360
+Google sheet: 4584385035763712
+Google sheet: 5839693599080448
+Google sheet: 6648962745499648
+Row: []
+Not 16-digit: 
+Google sheet: 6040039529250816
+Google sheet: 5238462702813184
+Google sheet: 5349219004186624
+Google sheet: 5662563107995648
+Google sheet: 6663086812561408
+Google sheet: 6425809263919104
+Google sheet: 5041859601760256
+Google sheet: 5982196788756480
+Google sheet: 5304733880418304
+Google sheet: 5866591284756480
+Google sheet: 6089734297354240
+Google sheet: 5357146775617536
+Google sheet: 5787725971193856
+Google sheet: 6594871927373824
+Row: []
+Google sheet: 4948688188342272
+Row: []
+Google sheet: 5227273138601984
+Google sheet: 5814914288582656
+Google sheet: 5860376483856384
+Google sheet: 5228996007690240
+Google sheet: 5639581409083392
+Google sheet: 5918087070220288
+Google sheet: 5637328967172096
+Google sheet: 6613313711636480
+Google sheet: 6317895039713280
+Google sheet: 4817584395517952
+Google sheet: 5514633764012032
+Google sheet: 5994261418999808
+Google sheet: 6680078156169216
+Row: ['星期三', '27/10']
+Row: ['星期四', '28/10']
+Google sheet: 4829627668365312
+Row: ['星期五', '29/10']
+Google sheet: 4961547672748032
+Google sheet: 4508923668332544
+Google sheet: 4812230366461952
+Google sheet: 4730335876218880
+Google sheet: 5305403358445568
+Google sheet: 5626968348426240
+Row: []
+Google sheet: 5104437073936384
+Not 16-digit: 
+Google sheet: 5968392159887360
+Google sheet: 6659538615926784
+Google sheet: 5739764658601984
+Google sheet: 5652956591554560
+Google sheet: 5272406802432000
+Google sheet: 4861213730275328
+Google sheet: 6670567555072000
+Google sheet: 5687684019388416
+Row: ['星期三', 44503]
+Row: ['星期四', 44504]
+Row: ['星期五', 44505]
+Google sheet: 5151254012624896
+Row: ['星期日', 44507]
+Google sheet: 5863633478352896
+Google sheet: 5486885708365824
+Row: ['星期三', 44510]
+Row: ['星期四', 44511]
+Google sheet: 5762126271610880
+Row: ['星期六', 44513]
+Row: ['星期日', 44514]
+Row: ['星期一', 44515]
+Row: ['星期二', 44516]
+Row: ['星期三', 44517]
+Row: ['星期四', 44518]
+Row: ['星期五', 44519]
+Row: ['星期六', 44520]
+Row: ['星期日', 44521]
+Row: ['星期一', 44522]
+Row: ['星期二', 44523]
+Row: ['星期三', 44524]
+Row: ['星期四', 44525]
+Row: ['星期五', 44526]
+Row: ['星期六', 44527]
+Row: ['星期日', 44528]
+Row: ['星期一', 44529]
+Row: ['星期二', 44530]
+Google sheet: 9 cells appended.
+Have new order, please check the google sheet "to_add" tab.
+--Check order list End--
+
+
+
+
+
+-----2021-10-30 19:48:48-----
+
+--Check order list Start--
+[CMS 1]: 6449028377214976
+[CMS 2]: 5809717864693760
+[CMS 3]: 4730335876218880
+[CMS 4]: 5272406802432000
+[CMS 5]: 4508923668332544
+[CMS 6]: 4861213730275328
+[CMS 7]: 5652956591554560
+[CMS 8]: 4965516541296640
+[CMS 9]: 5863633478352896
+[CMS 10]: 5151254012624896
+[CMS 11]: 5486885708365824
+[CMS 12]: 4961547672748032
+[CMS 13]: 5687684019388416
+[CMS 14]: 5968392159887360
+[CMS 15]: 6050044387131392
+[CMS 16]: 6680078156169216
+[CMS 17]: 5994261418999808
+[CMS 18]: 5739764658601984
+[CMS 19]: 6659538615926784
+[CMS 20]: 5626968348426240
+[CMS 21]: 5514633764012032
+[CMS 22]: 4812230366461952
+[CMS 23]: 4817584395517952
+[CMS 24]: 5639581409083392
+[CMS 25]: 5305403358445568
+[CMS 26]: 5918087070220288
+[CMS 27]: 4829627668365312
+[CMS 28]: 5104437073936384
+[CMS 29]: 5138385502076928
+[CMS 30]: 5982117935841280
+[CMS 31]: 6317895039713280
+[CMS 32]: 5866591284756480
+[CMS 33]: 6594871927373824
+[CMS 34]: 4948688188342272
+[CMS 35]: 5227273138601984
+[CMS 36]: 5787725971193856
+[CMS 37]: 5357146775617536
+[CMS 38]: 6051713183252480
+[CMS 39]: 6648962745499648
+[CMS 40]: 4584385035763712
+[CMS 41]: 6089734297354240
+[CMS 42]: 5442862645903360
+[CMS 43]: 5982196788756480
+[CMS 44]: 5762126271610880
+[CMS 45]: 5839693599080448
+[CMS 46]: 5927577270222848
+[CMS 47]: 5160132465000448
+[CMS 48]: 6209691123318784
+[CMS 49]: 6503894252388352
+[CMS 50]: 5706867490816000
+[CMS 51]: 4508377267961856
+[CMS 52]: 4658142777573376
+[CMS 53]: 4896408990777344
+[CMS 54]: 6670567555072000
+[CMS 55]: 6613313711636480
+[CMS 56]: 5304733880418304
+[CMS 57]: 5662563107995648
+[CMS 58]: 6663086812561408
+[CMS 59]: 6425809263919104
+[CMS 60]: 6588391895465984
+[CMS 61]: 5041859601760256
+[CMS 62]: 5637328967172096
+[CMS 63]: 5349219004186624
+[CMS 64]: 6637669263212544
+[CMS 65]: 4827032300158976
+[CMS 66]: 4994862928756736
+[CMS 67]: 5782037958098944
+[CMS 68]: 5228996007690240
+[CMS 69]: 4741899958222848
+[CMS 70]: 4899088043737088
+[CMS 71]: 4831998439981056
+[CMS 72]: 6501688048484352
+[CMS 73]: 5713580071714816
+[CMS 74]: 5808440262918144
+[CMS 75]: 5311026124947456
+[CMS 76]: 5431269119885312
+[CMS 77]: 4818618241122304
+[CMS 78]: 6572424213692416
+[CMS 79]: 6661709671563264
+[CMS 80]: 4918759698595840
+[CMS 81]: 4632989922361344
+[CMS 82]: 4950922393419776
+[CMS 83]: 5860376483856384
+[CMS 84]: 6430086480920576
+[CMS 85]: 5516556500074496
+[CMS 86]: 6423512312053760
+[CMS 87]: 5238462702813184
+[CMS 88]: 4752113054908416
+[CMS 89]: 5076619980046336
+[CMS 90]: 6436921350946816
+[CMS 91]: 5729282925133824
+[CMS 92]: 4702596544724992
+[CMS 93]: 5849138064392192
+[CMS 94]: 5069810024185856
+[CMS 95]: 6679809938817024
+[CMS 96]: 6040039529250816
+[CMS 97]: 4794408282226688
+[CMS 98]: 6677111793385472
+[CMS 99]: 6203475852656640
+[CMS 100]: 4879887392440320
+Range names: to_add, 10月, 11月
+Not 16-digit: .
+Row: ['', 44501]
+Not 16-digit: 
+Row: ['星期五', 44470]
+Row: ['星期六', 44471]
+Google sheet: 5655214318288896
+Google sheet: 6048836234641408
+Google sheet: 5986385824710656
+Google sheet: 5037952599195648
+Google sheet: 5686250087514112
+Google sheet: 5898785537523712
+Google sheet: 5618839007133696
+Google sheet: 6534730070753280
+Google sheet: 4842217542909952
+Row: []
+Google sheet: 6719367023820800
+Google sheet: 5349292387729408
+Google sheet: 6639612568141824
+Google sheet: 5323029535129600
+Google sheet: 5090349144997888
+Google sheet: 6069423178907648
+Google sheet: 4933733699420160
+Google sheet: 4778501367529472
+Google sheet: 4575978727800832
+Google sheet: 6126380820594688
+Row: []
+Google sheet: 6742520185880576
+Google sheet: 4832769889927168
+Google sheet: 4844577660993536
+Google sheet: 5967335967031296
+Google sheet: 5702382186004480
+Google sheet: 5623408181248000
+Google sheet: 5060098952134656
+Google sheet: 5249194685235200
+Google sheet: 5439671250321408
+Google sheet: 4982564893884416
+Google sheet: 6048639496617984
+Google sheet: 4691712829161472
+Google sheet: 5613066092937216
+Row: ['星期六', 44449]
+Row: []
+Google sheet: 5495923376521216
+Google sheet: 6137103944646656
+Google sheet: 4772984314265600
+Google sheet: 4872890085408768
+Google sheet: 5972882556583936
+Google sheet: 4573637467308032
+Google sheet: 4839188953432064
+Google sheet: 4700881477042176
+Google sheet: 4855174486163456
+Google sheet: 5221617270652928
+Google sheet: 5144428252626944
+Google sheet: 5689830387351552
+Google sheet: 4535135635636224
+Google sheet: 6042337680687104
+Google sheet: 6673013689942016
+Google sheet: 6194982152175616
+Google sheet: 5855998200905728
+Google sheet: 6251396950261760
+Google sheet: 6300746493591552
+Row: []
+Google sheet: 6339119979560960
+Not 16-digit: 
+Google sheet: 4654697962143744
+Google sheet: 5037954671181824
+Google sheet: 6540877511131136
+Row: ['星期三', '13/10']
+Google sheet: 6203475852656640
+Row: ['星期五', '15/10']
+Row: []
+Row: []
+Row: []
+Google sheet: 5399732349435904
+Google sheet: 4879887392440320
+Row: []
+Google sheet: 6455036214378496
+Google sheet: 5069810024185856
+Google sheet: 4628933896175616
+Not 16-digit: 
+Not 16-digit: 
+Google sheet: 5516556500074496
+Google sheet: 6661709671563264
+Google sheet: 6572424213692416
+Google sheet: 4825763590307840
+Google sheet: 6679809938817024
+Google sheet: 4794408282226688
+Google sheet: 6677111793385472
+Google sheet: 4818618241122304
+Google sheet: 6501688048484352
+Row: []
+Google sheet: 6436921350946816
+Google sheet: 4752113054908416
+Row: []
+Google sheet: 4918759698595840
+Google sheet: 6308238694940672
+Google sheet: 5713580071714816
+Google sheet: 5311026124947456
+Google sheet: 5808440262918144
+Row: ['星期一', '18/10']
+Google sheet: 4831998439981056
+Google sheet: 6300076109594624
+Google sheet: 5729282925133824
+Google sheet: 5076619980046336
+Google sheet: 4950922393419776
+Google sheet: 4899088043737088
+Row: []
+Google sheet: 5782037958098944
+Row: []
+Google sheet: 4827032300158976
+Row: []
+Row: ['星期二', '19/10']
+Row: []
+Google sheet: 4632989922361344
+Google sheet: 6637669263212544
+Google sheet: 4994862928756736
+Row: ['星期四', '21/10']
+Row: ['星期五', '22/10']
+Row: ['星期六', '23/10']
+Row: []
+Google sheet: 5927577270222848
+Google sheet: 6588391895465984
+Google sheet: 5160132465000448
+Google sheet: 6209691123318784
+Google sheet: 6503894252388352
+Google sheet: 5706867490816000
+Google sheet: 4508377267961856
+Google sheet: 4658142777573376
+Google sheet: 4896408990777344
+Google sheet: 6051713183252480
+Google sheet: 5442862645903360
+Google sheet: 4584385035763712
+Google sheet: 5839693599080448
+Google sheet: 6648962745499648
+Row: []
+Not 16-digit: 
+Google sheet: 6040039529250816
+Google sheet: 5238462702813184
+Google sheet: 5349219004186624
+Google sheet: 5662563107995648
+Google sheet: 6663086812561408
+Google sheet: 6425809263919104
+Google sheet: 5041859601760256
+Google sheet: 5982196788756480
+Google sheet: 5304733880418304
+Google sheet: 5866591284756480
+Google sheet: 6089734297354240
+Google sheet: 5357146775617536
+Google sheet: 5787725971193856
+Google sheet: 6594871927373824
+Row: []
+Google sheet: 4948688188342272
+Row: []
+Google sheet: 5227273138601984
+Google sheet: 5814914288582656
+Google sheet: 5860376483856384
+Google sheet: 5228996007690240
+Google sheet: 5639581409083392
+Google sheet: 5918087070220288
+Google sheet: 5637328967172096
+Google sheet: 6613313711636480
+Google sheet: 6317895039713280
+Google sheet: 4817584395517952
+Google sheet: 5514633764012032
+Google sheet: 5994261418999808
+Google sheet: 6680078156169216
+Row: ['星期三', '27/10']
+Row: ['星期四', '28/10']
+Google sheet: 4829627668365312
+Row: ['星期五', '29/10']
+Google sheet: 4961547672748032
+Google sheet: 4508923668332544
+Google sheet: 4812230366461952
+Google sheet: 4730335876218880
+Google sheet: 5305403358445568
+Google sheet: 5626968348426240
+Row: []
+Google sheet: 5104437073936384
+Not 16-digit: 
+Google sheet: 5968392159887360
+Google sheet: 6659538615926784
+Google sheet: 5739764658601984
+Google sheet: 5652956591554560
+Google sheet: 5272406802432000
+Google sheet: 4861213730275328
+Row: []
+Google sheet: 6670567555072000
+Google sheet: 5687684019388416
+Row: ['星期三', 44503]
+Row: ['星期四', 44504]
+Row: ['星期五', 44505]
+Google sheet: 5151254012624896
+Row: ['星期日', 44507]
+Google sheet: 5863633478352896
+Google sheet: 5486885708365824
+Row: ['星期三', 44510]
+Row: ['星期四', 44511]
+Google sheet: 5762126271610880
+Row: ['星期六', 44513]
+Row: ['星期日', 44514]
+Row: ['星期一', 44515]
+Row: ['星期二', 44516]
+Row: ['星期三', 44517]
+Row: ['星期四', 44518]
+Row: ['星期五', 44519]
+Row: ['星期六', 44520]
+Row: ['星期日', 44521]
+Row: ['星期一', 44522]
+Row: ['星期二', 44523]
+Row: ['星期三', 44524]
+Row: ['星期四', 44525]
+Row: ['星期五', 44526]
+Row: ['星期六', 44527]
+Row: ['星期日', 44528]
+Row: ['星期一', 44529]
+Row: ['星期二', 44530]
+
+
+
+
+
+-----2021-10-30 19:54:47-----
+
+--Check order list Start--
+
+
+
+
+
+-----2021-10-30 20:00:08-----
+
+--Check order list Start--
+[CMS 1]: 6581098302799872
+[CMS 2]: 5608960439746560
+[CMS 3]: 6449028377214976
+[CMS 4]: 5809717864693760
+[CMS 5]: 4730335876218880
+[CMS 6]: 5272406802432000
+[CMS 7]: 4508923668332544
+[CMS 8]: 4861213730275328
+[CMS 9]: 5652956591554560
+[CMS 10]: 4965516541296640
+[CMS 11]: 5863633478352896
+[CMS 12]: 5151254012624896
+[CMS 13]: 5486885708365824
+[CMS 14]: 4961547672748032
+[CMS 15]: 5687684019388416
+[CMS 16]: 5968392159887360
+[CMS 17]: 6050044387131392
+[CMS 18]: 6680078156169216
+[CMS 19]: 5994261418999808
+[CMS 20]: 5739764658601984
+[CMS 21]: 6659538615926784
+[CMS 22]: 5626968348426240
+[CMS 23]: 5514633764012032
+[CMS 24]: 4812230366461952
+[CMS 25]: 4817584395517952
+[CMS 26]: 5639581409083392
+[CMS 27]: 5305403358445568
+[CMS 28]: 5918087070220288
+[CMS 29]: 4829627668365312
+[CMS 30]: 5104437073936384
+[CMS 31]: 5138385502076928
+[CMS 32]: 5982117935841280
+[CMS 33]: 6317895039713280
+[CMS 34]: 5866591284756480
+[CMS 35]: 6594871927373824
+[CMS 36]: 4948688188342272
+[CMS 37]: 5227273138601984
+[CMS 38]: 5787725971193856
+[CMS 39]: 5357146775617536
+[CMS 40]: 6051713183252480
+[CMS 41]: 6648962745499648
+[CMS 42]: 4584385035763712
+[CMS 43]: 6089734297354240
+[CMS 44]: 5442862645903360
+[CMS 45]: 5982196788756480
+[CMS 46]: 5762126271610880
+[CMS 47]: 5839693599080448
+[CMS 48]: 5927577270222848
+[CMS 49]: 5160132465000448
+[CMS 50]: 6209691123318784
+[CMS 51]: 6503894252388352
+[CMS 52]: 5706867490816000
+[CMS 53]: 4508377267961856
+[CMS 54]: 4658142777573376
+[CMS 55]: 4896408990777344
+[CMS 56]: 6670567555072000
+[CMS 57]: 6613313711636480
+[CMS 58]: 5304733880418304
+[CMS 59]: 5662563107995648
+[CMS 60]: 6663086812561408
+[CMS 61]: 6425809263919104
+[CMS 62]: 6588391895465984
+[CMS 63]: 5041859601760256
+[CMS 64]: 5637328967172096
+[CMS 65]: 5349219004186624
+[CMS 66]: 6637669263212544
+[CMS 67]: 4827032300158976
+[CMS 68]: 4994862928756736
+[CMS 69]: 5782037958098944
+[CMS 70]: 5228996007690240
+[CMS 71]: 4741899958222848
+[CMS 72]: 4899088043737088
+[CMS 73]: 4831998439981056
+[CMS 74]: 6501688048484352
+[CMS 75]: 5713580071714816
+[CMS 76]: 5808440262918144
+[CMS 77]: 5311026124947456
+[CMS 78]: 5431269119885312
+[CMS 79]: 4818618241122304
+[CMS 80]: 6572424213692416
+[CMS 81]: 6661709671563264
+[CMS 82]: 4918759698595840
+[CMS 83]: 4632989922361344
+[CMS 84]: 4950922393419776
+[CMS 85]: 5860376483856384
+[CMS 86]: 6430086480920576
+[CMS 87]: 5516556500074496
+[CMS 88]: 6423512312053760
+[CMS 89]: 5238462702813184
+[CMS 90]: 4752113054908416
+[CMS 91]: 5076619980046336
+[CMS 92]: 6436921350946816
+[CMS 93]: 5729282925133824
+[CMS 94]: 4702596544724992
+[CMS 95]: 5849138064392192
+[CMS 96]: 5069810024185856
+[CMS 97]: 6679809938817024
+[CMS 98]: 6040039529250816
+[CMS 99]: 4794408282226688
+[CMS 100]: 6677111793385472
+Range names: to_add, 10月, 11月
+Not 16-digit: .
+Row: ['', 44501]
+Not 16-digit: 
+Row: ['星期五', 44470]
+Row: ['星期六', 44471]
+Google sheet: 5655214318288896
+Google sheet: 6048836234641408
+Google sheet: 5986385824710656
+Google sheet: 5037952599195648
+Google sheet: 5686250087514112
+Google sheet: 5898785537523712
+Google sheet: 5618839007133696
+Google sheet: 6534730070753280
+Google sheet: 4842217542909952
+Row: []
+Google sheet: 6719367023820800
+Google sheet: 5349292387729408
+Google sheet: 6639612568141824
+Google sheet: 5323029535129600
+Google sheet: 5090349144997888
+Google sheet: 6069423178907648
+Google sheet: 4933733699420160
+Google sheet: 4778501367529472
+Google sheet: 4575978727800832
+Google sheet: 6126380820594688
+Row: []
+Google sheet: 6742520185880576
+Google sheet: 4832769889927168
+Google sheet: 4844577660993536
+Google sheet: 5967335967031296
+Google sheet: 5702382186004480
+Google sheet: 5623408181248000
+Google sheet: 5060098952134656
+Google sheet: 5249194685235200
+Google sheet: 5439671250321408
+Google sheet: 4982564893884416
+Google sheet: 6048639496617984
+Google sheet: 4691712829161472
+Google sheet: 5613066092937216
+Row: ['星期六', 44449]
+Row: []
+Google sheet: 5495923376521216
+Google sheet: 6137103944646656
+Google sheet: 4772984314265600
+Google sheet: 4872890085408768
+Google sheet: 5972882556583936
+Google sheet: 4573637467308032
+Google sheet: 4839188953432064
+Google sheet: 4700881477042176
+Google sheet: 4855174486163456
+Google sheet: 5221617270652928
+Google sheet: 5144428252626944
+Google sheet: 5689830387351552
+Google sheet: 4535135635636224
+Google sheet: 6042337680687104
+Google sheet: 6673013689942016
+Google sheet: 6194982152175616
+Google sheet: 5855998200905728
+Google sheet: 6251396950261760
+Google sheet: 6300746493591552
+Row: []
+Google sheet: 6339119979560960
+Not 16-digit: 
+Google sheet: 4654697962143744
+Google sheet: 5037954671181824
+Google sheet: 6540877511131136
+Row: ['星期三', '13/10']
+Google sheet: 6203475852656640
+Row: ['星期五', '15/10']
+Row: []
+Row: []
+Row: []
+Google sheet: 5399732349435904
+Google sheet: 4879887392440320
+Row: []
+Google sheet: 6455036214378496
+Google sheet: 5069810024185856
+Google sheet: 4628933896175616
+Not 16-digit: 
+Not 16-digit: 
+Google sheet: 5516556500074496
+Google sheet: 6661709671563264
+Google sheet: 6572424213692416
+Google sheet: 4825763590307840
+Google sheet: 6679809938817024
+Google sheet: 4794408282226688
+Google sheet: 6677111793385472
+Google sheet: 4818618241122304
+Google sheet: 6501688048484352
+Row: []
+Google sheet: 6436921350946816
+Google sheet: 4752113054908416
+Row: []
+Google sheet: 4918759698595840
+Google sheet: 6308238694940672
+Google sheet: 5713580071714816
+Google sheet: 5311026124947456
+Google sheet: 5808440262918144
+Row: ['星期一', '18/10']
+Google sheet: 4831998439981056
+Google sheet: 6300076109594624
+Google sheet: 5729282925133824
+Google sheet: 5076619980046336
+Google sheet: 4950922393419776
+Google sheet: 4899088043737088
+Row: []
+Google sheet: 5782037958098944
+Row: []
+Google sheet: 4827032300158976
+Row: []
+Row: ['星期二', '19/10']
+Row: []
+Google sheet: 4632989922361344
+Google sheet: 6637669263212544
+Google sheet: 4994862928756736
+Row: ['星期四', '21/10']
+Row: ['星期五', '22/10']
+Row: ['星期六', '23/10']
+Row: []
+Google sheet: 5927577270222848
+Google sheet: 6588391895465984
+Google sheet: 5160132465000448
+Google sheet: 6209691123318784
+Google sheet: 6503894252388352
+Google sheet: 5706867490816000
+Google sheet: 4508377267961856
+Google sheet: 4658142777573376
+Google sheet: 4896408990777344
+Google sheet: 6051713183252480
+Google sheet: 5442862645903360
+Google sheet: 4584385035763712
+Google sheet: 5839693599080448
+Google sheet: 6648962745499648
+Row: []
+Not 16-digit: 
+Google sheet: 6040039529250816
+Google sheet: 5238462702813184
+Google sheet: 5349219004186624
+Google sheet: 5662563107995648
+Google sheet: 6663086812561408
+Google sheet: 6425809263919104
+Google sheet: 5041859601760256
+Google sheet: 5982196788756480
+Google sheet: 5304733880418304
+Google sheet: 5866591284756480
+Google sheet: 6089734297354240
+Google sheet: 5357146775617536
+Google sheet: 5787725971193856
+Google sheet: 6594871927373824
+Row: []
+Google sheet: 4948688188342272
+Row: []
+Google sheet: 5227273138601984
+Google sheet: 5814914288582656
+Google sheet: 5860376483856384
+Google sheet: 5228996007690240
+Google sheet: 5639581409083392
+Google sheet: 5918087070220288
+Google sheet: 5637328967172096
+Google sheet: 6613313711636480
+Google sheet: 6317895039713280
+Google sheet: 4817584395517952
+Google sheet: 5514633764012032
+Google sheet: 5994261418999808
+Google sheet: 6680078156169216
+Row: ['星期三', '27/10']
+Row: ['星期四', '28/10']
+Google sheet: 4829627668365312
+Row: ['星期五', '29/10']
+Google sheet: 4961547672748032
+Google sheet: 4508923668332544
+Google sheet: 4812230366461952
+Google sheet: 4730335876218880
+Google sheet: 5305403358445568
+Google sheet: 5626968348426240
+Row: []
+Google sheet: 5104437073936384
+Not 16-digit: 
+Not 16-digit: 
+Google sheet: 5968392159887360
+Google sheet: 6659538615926784
+Google sheet: 5739764658601984
+Google sheet: 5652956591554560
+Google sheet: 5272406802432000
+Google sheet: 5809717864693760
+Google sheet: 6449028377214976
+Google sheet: 4861213730275328
+Google sheet: 6670567555072000
+Google sheet: 5687684019388416
+Row: ['星期三', 44503]
+Row: ['星期四', 44504]
+Row: ['星期五', 44505]
+Google sheet: 5151254012624896
+Row: ['星期日', 44507]
+Google sheet: 5863633478352896
+Google sheet: 5486885708365824
+Row: ['星期三', 44510]
+Row: ['星期四', 44511]
+Google sheet: 5762126271610880
+Row: ['星期六', 44513]
+Row: ['星期日', 44514]
+Row: ['星期一', 44515]
+Row: ['星期二', 44516]
+Row: ['星期三', 44517]
+Row: ['星期四', 44518]
+Row: ['星期五', 44519]
+Row: ['星期六', 44520]
+Row: ['星期日', 44521]
+Row: ['星期一', 44522]
+Row: ['星期二', 44523]
+Row: ['星期三', 44524]
+Row: ['星期四', 44525]
+Row: ['星期五', 44526]
+Row: ['星期六', 44527]
+Row: ['星期日', 44528]
+Row: ['星期一', 44529]
+Row: ['星期二', 44530]
+
+
+
+
+
+-----2021-10-30 20:06:06-----
+
+--Check order list Start--
+[CMS 1]: 6619498447765504
+[CMS 2]: 6581098302799872
+[CMS 3]: 5608960439746560
+[CMS 4]: 6449028377214976
+[CMS 5]: 5809717864693760
+[CMS 6]: 4730335876218880
+[CMS 7]: 5272406802432000
+[CMS 8]: 4508923668332544
+[CMS 9]: 4861213730275328
+[CMS 10]: 5652956591554560
+[CMS 11]: 4965516541296640
+[CMS 12]: 5863633478352896
+[CMS 13]: 5151254012624896
+[CMS 14]: 5486885708365824
+[CMS 15]: 4961547672748032
+[CMS 16]: 5687684019388416
+[CMS 17]: 5968392159887360
+[CMS 18]: 6050044387131392
+[CMS 19]: 6680078156169216
+[CMS 20]: 5994261418999808
+[CMS 21]: 5739764658601984
+[CMS 22]: 6659538615926784
+[CMS 23]: 5626968348426240
+[CMS 24]: 5514633764012032
+[CMS 25]: 4812230366461952
+[CMS 26]: 4817584395517952
+[CMS 27]: 5639581409083392
+[CMS 28]: 5305403358445568
+[CMS 29]: 5918087070220288
+[CMS 30]: 4829627668365312
+[CMS 31]: 5104437073936384
+[CMS 32]: 5138385502076928
+[CMS 33]: 5982117935841280
+[CMS 34]: 6317895039713280
+[CMS 35]: 5866591284756480
+[CMS 36]: 6594871927373824
+[CMS 37]: 4948688188342272
+[CMS 38]: 5227273138601984
+[CMS 39]: 5787725971193856
+[CMS 40]: 5357146775617536
+[CMS 41]: 6051713183252480
+[CMS 42]: 6648962745499648
+[CMS 43]: 4584385035763712
+[CMS 44]: 6089734297354240
+[CMS 45]: 5442862645903360
+[CMS 46]: 5982196788756480
+[CMS 47]: 5762126271610880
+[CMS 48]: 5839693599080448
+[CMS 49]: 5927577270222848
+[CMS 50]: 5160132465000448
+[CMS 51]: 6209691123318784
+[CMS 52]: 6503894252388352
+[CMS 53]: 5706867490816000
+[CMS 54]: 4508377267961856
+[CMS 55]: 4658142777573376
+[CMS 56]: 4896408990777344
+[CMS 57]: 6670567555072000
+[CMS 58]: 6613313711636480
+[CMS 59]: 5304733880418304
+[CMS 60]: 5662563107995648
+[CMS 61]: 6663086812561408
+[CMS 62]: 6425809263919104
+[CMS 63]: 6588391895465984
+[CMS 64]: 5041859601760256
+[CMS 65]: 5637328967172096
+[CMS 66]: 5349219004186624
+[CMS 67]: 6637669263212544
+[CMS 68]: 4827032300158976
+[CMS 69]: 4994862928756736
+[CMS 70]: 5782037958098944
+[CMS 71]: 5228996007690240
+[CMS 72]: 4741899958222848
+[CMS 73]: 4899088043737088
+[CMS 74]: 4831998439981056
+[CMS 75]: 6501688048484352
+[CMS 76]: 5713580071714816
+[CMS 77]: 5808440262918144
+[CMS 78]: 5311026124947456
+[CMS 79]: 5431269119885312
+[CMS 80]: 4818618241122304
+[CMS 81]: 6572424213692416
+[CMS 82]: 6661709671563264
+[CMS 83]: 4918759698595840
+[CMS 84]: 4632989922361344
+[CMS 85]: 4950922393419776
+[CMS 86]: 5860376483856384
+[CMS 87]: 6430086480920576
+[CMS 88]: 5516556500074496
+[CMS 89]: 6423512312053760
+[CMS 90]: 5238462702813184
+[CMS 91]: 4752113054908416
+[CMS 92]: 5076619980046336
+[CMS 93]: 6436921350946816
+[CMS 94]: 5729282925133824
+[CMS 95]: 4702596544724992
+[CMS 96]: 5849138064392192
+[CMS 97]: 5069810024185856
+[CMS 98]: 6679809938817024
+[CMS 99]: 6040039529250816
+[CMS 100]: 4794408282226688
+Range names: to_add, 10月, 11月
+Not 16-digit: .
+Row: ['', 44501]
+Not 16-digit: 
+Row: ['星期五', 44470]
+Row: ['星期六', 44471]
+Google sheet: 5655214318288896
+Google sheet: 6048836234641408
+Google sheet: 5986385824710656
+Google sheet: 5037952599195648
+Google sheet: 5686250087514112
+Google sheet: 5898785537523712
+Google sheet: 5618839007133696
+Google sheet: 6534730070753280
+Google sheet: 4842217542909952
+Row: []
+Google sheet: 6719367023820800
+Google sheet: 5349292387729408
+Google sheet: 6639612568141824
+Google sheet: 5323029535129600
+Google sheet: 5090349144997888
+Google sheet: 6069423178907648
+Google sheet: 4933733699420160
+Google sheet: 4778501367529472
+Google sheet: 4575978727800832
+Google sheet: 6126380820594688
+Row: []
+Google sheet: 6742520185880576
+Google sheet: 4832769889927168
+Google sheet: 4844577660993536
+Google sheet: 5967335967031296
+Google sheet: 5702382186004480
+Google sheet: 5623408181248000
+Google sheet: 5060098952134656
+Google sheet: 5249194685235200
+Google sheet: 5439671250321408
+Google sheet: 4982564893884416
+Google sheet: 6048639496617984
+Google sheet: 4691712829161472
+Google sheet: 5613066092937216
+Row: ['星期六', 44449]
+Row: []
+Google sheet: 5495923376521216
+Google sheet: 6137103944646656
+Google sheet: 4772984314265600
+Google sheet: 4872890085408768
+Google sheet: 5972882556583936
+Google sheet: 4573637467308032
+Google sheet: 4839188953432064
+Google sheet: 4700881477042176
+Google sheet: 4855174486163456
+Google sheet: 5221617270652928
+Google sheet: 5144428252626944
+Google sheet: 5689830387351552
+Google sheet: 4535135635636224
+Google sheet: 6042337680687104
+Google sheet: 6673013689942016
+Google sheet: 6194982152175616
+Google sheet: 5855998200905728
+Google sheet: 6251396950261760
+Google sheet: 6300746493591552
+Row: []
+Google sheet: 6339119979560960
+Not 16-digit: 
+Google sheet: 4654697962143744
+Google sheet: 5037954671181824
+Google sheet: 6540877511131136
+Row: ['星期三', '13/10']
+Google sheet: 6203475852656640
+Row: ['星期五', '15/10']
+Row: []
+Row: []
+Row: []
+Google sheet: 5399732349435904
+Google sheet: 4879887392440320
+Row: []
+Google sheet: 6455036214378496
+Google sheet: 5069810024185856
+Google sheet: 4628933896175616
+Not 16-digit: 
+Not 16-digit: 
+Google sheet: 5516556500074496
+Google sheet: 6661709671563264
+Google sheet: 6572424213692416
+Google sheet: 4825763590307840
+Google sheet: 6679809938817024
+Google sheet: 4794408282226688
+Google sheet: 6677111793385472
+Google sheet: 4818618241122304
+Google sheet: 6501688048484352
+Row: []
+Google sheet: 6436921350946816
+Google sheet: 4752113054908416
+Row: []
+Google sheet: 4918759698595840
+Google sheet: 6308238694940672
+Google sheet: 5713580071714816
+Google sheet: 5311026124947456
+Google sheet: 5808440262918144
+Row: ['星期一', '18/10']
+Google sheet: 4831998439981056
+Google sheet: 6300076109594624
+Google sheet: 5729282925133824
+Google sheet: 5076619980046336
+Google sheet: 4950922393419776
+Google sheet: 4899088043737088
+Row: []
+Google sheet: 5782037958098944
+Row: []
+Google sheet: 4827032300158976
+Row: []
+Row: ['星期二', '19/10']
+Row: []
+Google sheet: 4632989922361344
+Google sheet: 6637669263212544
+Google sheet: 4994862928756736
+Row: ['星期四', '21/10']
+Row: ['星期五', '22/10']
+Row: ['星期六', '23/10']
+Row: []
+Google sheet: 5927577270222848
+Google sheet: 6588391895465984
+Google sheet: 5160132465000448
+Google sheet: 6209691123318784
+Google sheet: 6503894252388352
+Google sheet: 5706867490816000
+Google sheet: 4508377267961856
+Google sheet: 4658142777573376
+Google sheet: 4896408990777344
+Google sheet: 6051713183252480
+Google sheet: 5442862645903360
+Google sheet: 4584385035763712
+Google sheet: 5839693599080448
+Google sheet: 6648962745499648
+Row: []
+Not 16-digit: 
+Google sheet: 6040039529250816
+Google sheet: 5238462702813184
+Google sheet: 5349219004186624
+Google sheet: 5662563107995648
+Google sheet: 6663086812561408
+Google sheet: 6425809263919104
+Google sheet: 5041859601760256
+Google sheet: 5982196788756480
+Google sheet: 5304733880418304
+Google sheet: 5866591284756480
+Google sheet: 6089734297354240
+Google sheet: 5357146775617536
+Google sheet: 5787725971193856
+Google sheet: 6594871927373824
+Row: []
+Google sheet: 4948688188342272
+Row: []
+Google sheet: 5227273138601984
+Google sheet: 5814914288582656
+Google sheet: 5860376483856384
+Google sheet: 5228996007690240
+Google sheet: 5639581409083392
+Google sheet: 5918087070220288
+Google sheet: 5637328967172096
+Google sheet: 6613313711636480
+Google sheet: 6317895039713280
+Google sheet: 4817584395517952
+Google sheet: 5514633764012032
+Google sheet: 5994261418999808
+Google sheet: 6680078156169216
+Row: ['星期三', '27/10']
+Row: ['星期四', '28/10']
+Google sheet: 4829627668365312
+Row: ['星期五', '29/10']
+Google sheet: 4961547672748032
+Google sheet: 4508923668332544
+Google sheet: 4812230366461952
+Google sheet: 4730335876218880
+Google sheet: 5305403358445568
+Google sheet: 5626968348426240
+Row: []
+Google sheet: 5104437073936384
+Not 16-digit: 
+Google sheet: 5968392159887360
+Google sheet: 6659538615926784
+Google sheet: 5739764658601984
+Google sheet: 5652956591554560
+Google sheet: 5272406802432000
+Google sheet: 5809717864693760
+Google sheet: 6449028377214976
+Google sheet: 4861213730275328
+Google sheet: 6581098302799872
+Google sheet: 6670567555072000
+Google sheet: 5687684019388416
+Row: ['星期三', 44503]
+Row: ['星期四', 44504]
+Row: ['星期五', 44505]
+Google sheet: 5151254012624896
+Row: ['星期日', 44507]
+Google sheet: 5863633478352896
+Google sheet: 5486885708365824
+Row: ['星期三', 44510]
+Row: ['星期四', 44511]
+Google sheet: 5762126271610880
+Row: ['星期六', 44513]
+Row: ['星期日', 44514]
+Row: ['星期一', 44515]
+Row: ['星期二', 44516]
+Row: ['星期三', 44517]
+Row: ['星期四', 44518]
+Row: ['星期五', 44519]
+Row: ['星期六', 44520]
+Row: ['星期日', 44521]
+Row: ['星期一', 44522]
+Row: ['星期二', 44523]
+Row: ['星期三', 44524]
+Row: ['星期四', 44525]
+Row: ['星期五', 44526]
+Row: ['星期六', 44527]
+Row: ['星期日', 44528]
+Row: ['星期一', 44529]
+Row: ['星期二', 44530]
+
+
+
+
+
+-----2021-10-30 20:15:09-----
+
+--Check order list Start--
+
+
+
+
+
+-----2021-10-30 20:16:26-----
+
+--Check order list Start--
+[CMS 1]: 6619498447765504
+[CMS 2]: 6581098302799872
+[CMS 3]: 5608960439746560
+[CMS 4]: 6449028377214976
+[CMS 5]: 5809717864693760
+[CMS 6]: 4730335876218880
+[CMS 7]: 5272406802432000
+[CMS 8]: 4508923668332544
+[CMS 9]: 4861213730275328
+[CMS 10]: 5652956591554560
+[CMS 11]: 4965516541296640
+[CMS 12]: 5863633478352896
+[CMS 13]: 5151254012624896
+[CMS 14]: 5486885708365824
+[CMS 15]: 4961547672748032
+[CMS 16]: 5687684019388416
+[CMS 17]: 5968392159887360
+[CMS 18]: 6050044387131392
+[CMS 19]: 6680078156169216
+[CMS 20]: 5994261418999808
+[CMS 21]: 5739764658601984
+[CMS 22]: 6659538615926784
+[CMS 23]: 5626968348426240
+[CMS 24]: 5514633764012032
+[CMS 25]: 4812230366461952
+[CMS 26]: 4817584395517952
+[CMS 27]: 5639581409083392
+[CMS 28]: 5305403358445568
+[CMS 29]: 5918087070220288
+[CMS 30]: 4829627668365312
+[CMS 31]: 5104437073936384
+[CMS 32]: 5138385502076928
+[CMS 33]: 5982117935841280
+[CMS 34]: 6317895039713280
+[CMS 35]: 5866591284756480
+[CMS 36]: 6594871927373824
+[CMS 37]: 4948688188342272
+[CMS 38]: 5227273138601984
+[CMS 39]: 5787725971193856
+[CMS 40]: 5357146775617536
+[CMS 41]: 6051713183252480
+[CMS 42]: 6648962745499648
+[CMS 43]: 4584385035763712
+[CMS 44]: 6089734297354240
+[CMS 45]: 5442862645903360
+[CMS 46]: 5982196788756480
+[CMS 47]: 5762126271610880
+[CMS 48]: 5839693599080448
+[CMS 49]: 5927577270222848
+[CMS 50]: 5160132465000448
+[CMS 51]: 6209691123318784
+[CMS 52]: 6503894252388352
+[CMS 53]: 5706867490816000
+[CMS 54]: 4508377267961856
+[CMS 55]: 4658142777573376
+[CMS 56]: 4896408990777344
+[CMS 57]: 6670567555072000
+[CMS 58]: 6613313711636480
+[CMS 59]: 5304733880418304
+[CMS 60]: 5662563107995648
+[CMS 61]: 6663086812561408
+[CMS 62]: 6425809263919104
+[CMS 63]: 6588391895465984
+[CMS 64]: 5041859601760256
+[CMS 65]: 5637328967172096
+[CMS 66]: 5349219004186624
+[CMS 67]: 6637669263212544
+[CMS 68]: 4827032300158976
+[CMS 69]: 4994862928756736
+[CMS 70]: 5782037958098944
+[CMS 71]: 5228996007690240
+[CMS 72]: 4741899958222848
+[CMS 73]: 4899088043737088
+[CMS 74]: 4831998439981056
+[CMS 75]: 6501688048484352
+[CMS 76]: 5713580071714816
+[CMS 77]: 5808440262918144
+[CMS 78]: 5311026124947456
+[CMS 79]: 5431269119885312
+[CMS 80]: 4818618241122304
+[CMS 81]: 6572424213692416
+[CMS 82]: 6661709671563264
+[CMS 83]: 4918759698595840
+[CMS 84]: 4632989922361344
+[CMS 85]: 4950922393419776
+[CMS 86]: 5860376483856384
+[CMS 87]: 6430086480920576
+[CMS 88]: 5516556500074496
+[CMS 89]: 6423512312053760
+[CMS 90]: 5238462702813184
+[CMS 91]: 4752113054908416
+[CMS 92]: 5076619980046336
+[CMS 93]: 6436921350946816
+[CMS 94]: 5729282925133824
+[CMS 95]: 4702596544724992
+[CMS 96]: 5849138064392192
+[CMS 97]: 5069810024185856
+[CMS 98]: 6679809938817024
+[CMS 99]: 6040039529250816
+[CMS 100]: 4794408282226688
+Range names: to_add, 10月, 11月
+Not 16-digit: .
+Row: ['', 44501]
+Not 16-digit: 
+Row: ['星期五', 44470]
+Row: ['星期六', 44471]
+Google sheet: 5655214318288896
+Google sheet: 6048836234641408
+Google sheet: 5986385824710656
+Google sheet: 5037952599195648
+Google sheet: 5686250087514112
+Google sheet: 5898785537523712
+Google sheet: 5618839007133696
+Google sheet: 6534730070753280
+Google sheet: 4842217542909952
+Row: []
+Google sheet: 6719367023820800
+Google sheet: 5349292387729408
+Google sheet: 6639612568141824
+Google sheet: 5323029535129600
+Google sheet: 5090349144997888
+Google sheet: 6069423178907648
+Google sheet: 4933733699420160
+Google sheet: 4778501367529472
+Google sheet: 4575978727800832
+Google sheet: 6126380820594688
+Row: []
+Google sheet: 6742520185880576
+Google sheet: 4832769889927168
+Google sheet: 4844577660993536
+Google sheet: 5967335967031296
+Google sheet: 5702382186004480
+Google sheet: 5623408181248000
+Google sheet: 5060098952134656
+Google sheet: 5249194685235200
+Google sheet: 5439671250321408
+Google sheet: 4982564893884416
+Google sheet: 6048639496617984
+Google sheet: 4691712829161472
+Google sheet: 5613066092937216
+Row: ['星期六', 44449]
+Row: []
+Google sheet: 5495923376521216
+Google sheet: 6137103944646656
+Google sheet: 4772984314265600
+Google sheet: 4872890085408768
+Google sheet: 5972882556583936
+Google sheet: 4573637467308032
+Google sheet: 4839188953432064
+Google sheet: 4700881477042176
+Google sheet: 4855174486163456
+Google sheet: 5221617270652928
+Google sheet: 5144428252626944
+Google sheet: 5689830387351552
+Google sheet: 4535135635636224
+Google sheet: 6042337680687104
+Google sheet: 6673013689942016
+Google sheet: 6194982152175616
+Google sheet: 5855998200905728
+Google sheet: 6251396950261760
+Google sheet: 6300746493591552
+Row: []
+Google sheet: 6339119979560960
+Not 16-digit: 
+Google sheet: 4654697962143744
+Google sheet: 5037954671181824
+Google sheet: 6540877511131136
+Row: ['星期三', '13/10']
+Google sheet: 6203475852656640
+Row: ['星期五', '15/10']
+Row: []
+Row: []
+Row: []
+Google sheet: 5399732349435904
+Google sheet: 4879887392440320
+Row: []
+Google sheet: 6455036214378496
+Google sheet: 5069810024185856
+Google sheet: 4628933896175616
+Not 16-digit: 
+Not 16-digit: 
+Google sheet: 5516556500074496
+Google sheet: 6661709671563264
+Google sheet: 6572424213692416
+Google sheet: 4825763590307840
+Google sheet: 6679809938817024
+Google sheet: 4794408282226688
+Google sheet: 6677111793385472
+Google sheet: 4818618241122304
+Google sheet: 6501688048484352
+Row: []
+Google sheet: 6436921350946816
+Google sheet: 4752113054908416
+Row: []
+Google sheet: 4918759698595840
+Google sheet: 6308238694940672
+Google sheet: 5713580071714816
+Google sheet: 5311026124947456
+Google sheet: 5808440262918144
+Row: ['星期一', '18/10']
+Google sheet: 4831998439981056
+Google sheet: 6300076109594624
+Google sheet: 5729282925133824
+Google sheet: 5076619980046336
+Google sheet: 4950922393419776
+Google sheet: 4899088043737088
+Row: []
+Google sheet: 5782037958098944
+Row: []
+Google sheet: 4827032300158976
+Row: []
+Row: ['星期二', '19/10']
+Row: []
+Google sheet: 4632989922361344
+Google sheet: 6637669263212544
+Google sheet: 4994862928756736
+Row: ['星期四', '21/10']
+Row: ['星期五', '22/10']
+Row: ['星期六', '23/10']
+Row: []
+Google sheet: 5927577270222848
+Google sheet: 6588391895465984
+Google sheet: 5160132465000448
+Google sheet: 6209691123318784
+Google sheet: 6503894252388352
+Google sheet: 5706867490816000
+Google sheet: 4508377267961856
+Google sheet: 4658142777573376
+Google sheet: 4896408990777344
+Google sheet: 6051713183252480
+Google sheet: 5442862645903360
+Google sheet: 4584385035763712
+Google sheet: 5839693599080448
+Google sheet: 6648962745499648
+Row: []
+Not 16-digit: 
+Google sheet: 6040039529250816
+Google sheet: 5238462702813184
+Google sheet: 5349219004186624
+Google sheet: 5662563107995648
+Google sheet: 6663086812561408
+Google sheet: 6425809263919104
+Google sheet: 5041859601760256
+Google sheet: 5982196788756480
+Google sheet: 5304733880418304
+Google sheet: 5866591284756480
+Google sheet: 6089734297354240
+Google sheet: 5357146775617536
+Google sheet: 5787725971193856
+Google sheet: 6594871927373824
+Row: []
+Google sheet: 4948688188342272
+Row: []
+Google sheet: 5227273138601984
+Google sheet: 5814914288582656
+Google sheet: 5860376483856384
+Google sheet: 5228996007690240
+Google sheet: 5639581409083392
+Google sheet: 5918087070220288
+Google sheet: 5637328967172096
+Google sheet: 6613313711636480
+Google sheet: 6317895039713280
+Google sheet: 4817584395517952
+Google sheet: 5514633764012032
+Google sheet: 5994261418999808
+Google sheet: 6680078156169216
+Row: ['星期三', '27/10']
+Row: ['星期四', '28/10']
+Google sheet: 4829627668365312
+Row: ['星期五', '29/10']
+Google sheet: 4961547672748032
+Google sheet: 4508923668332544
+Google sheet: 4812230366461952
+Google sheet: 4730335876218880
+Google sheet: 5305403358445568
+Google sheet: 5626968348426240
+Row: []
+Google sheet: 5104437073936384
+Not 16-digit: 
+Google sheet: 5968392159887360
+Google sheet: 6659538615926784
+Google sheet: 5739764658601984
+Google sheet: 5652956591554560
+Google sheet: 5272406802432000
+Google sheet: 5809717864693760
+Google sheet: 6449028377214976
+Google sheet: 4861213730275328
+Google sheet: 6581098302799872
+Google sheet: 6670567555072000
+Google sheet: 5687684019388416
+Row: ['星期三', 44503]
+Row: ['星期四', 44504]
+Row: ['星期五', 44505]
+Google sheet: 5151254012624896
+Row: ['星期日', 44507]
+Google sheet: 5863633478352896
+Google sheet: 5486885708365824
+Row: ['星期三', 44510]
+Row: ['星期四', 44511]
+Google sheet: 5762126271610880
+Row: ['星期六', 44513]
+Row: ['星期日', 44514]
+Row: ['星期一', 44515]
+Row: ['星期二', 44516]
+Row: ['星期三', 44517]
+Row: ['星期四', 44518]
+Row: ['星期五', 44519]
+Row: ['星期六', 44520]
+Row: ['星期日', 44521]
+Row: ['星期一', 44522]
+Row: ['星期二', 44523]
+Row: ['星期三', 44524]
+Row: ['星期四', 44525]
+Row: ['星期五', 44526]
+Row: ['星期六', 44527]
+Row: ['星期日', 44528]
+Row: ['星期一', 44529]
+Row: ['星期二', 44530]
+Google sheet: 18 cells appended.
+Have new order, please check the google sheet "to_add" tab.
+--Check order list End--
+
+
+
+
+
+-----2021-10-30 20:25:12-----
+
+--Check order list Start--
+[CMS 1]: 6619498447765504
+[CMS 2]: 6581098302799872
+[CMS 3]: 5608960439746560
+[CMS 4]: 6449028377214976
+[CMS 5]: 5809717864693760
+[CMS 6]: 4730335876218880
+[CMS 7]: 5272406802432000
+[CMS 8]: 4508923668332544
+[CMS 9]: 4861213730275328
+[CMS 10]: 5652956591554560
+[CMS 11]: 4965516541296640
+[CMS 12]: 5863633478352896
+[CMS 13]: 5151254012624896
+[CMS 14]: 5486885708365824
+[CMS 15]: 4961547672748032
+[CMS 16]: 5687684019388416
+[CMS 17]: 5968392159887360
+[CMS 18]: 6050044387131392
+[CMS 19]: 6680078156169216
+[CMS 20]: 5994261418999808
+[CMS 21]: 5739764658601984
+[CMS 22]: 6659538615926784
+[CMS 23]: 5626968348426240
+[CMS 24]: 5514633764012032
+[CMS 25]: 4812230366461952
+[CMS 26]: 4817584395517952
+[CMS 27]: 5639581409083392
+[CMS 28]: 5305403358445568
+[CMS 29]: 5918087070220288
+[CMS 30]: 4829627668365312
+[CMS 31]: 5104437073936384
+[CMS 32]: 5138385502076928
+[CMS 33]: 5982117935841280
+[CMS 34]: 6317895039713280
+[CMS 35]: 5866591284756480
+[CMS 36]: 6594871927373824
+[CMS 37]: 4948688188342272
+[CMS 38]: 5227273138601984
+[CMS 39]: 5787725971193856
+[CMS 40]: 5357146775617536
+[CMS 41]: 6051713183252480
+[CMS 42]: 6648962745499648
+[CMS 43]: 4584385035763712
+[CMS 44]: 6089734297354240
+[CMS 45]: 5442862645903360
+[CMS 46]: 5982196788756480
+[CMS 47]: 5762126271610880
+[CMS 48]: 5839693599080448
+[CMS 49]: 5927577270222848
+[CMS 50]: 5160132465000448
+[CMS 51]: 6209691123318784
+[CMS 52]: 6503894252388352
+[CMS 53]: 5706867490816000
+[CMS 54]: 4508377267961856
+[CMS 55]: 4658142777573376
+[CMS 56]: 4896408990777344
+[CMS 57]: 6670567555072000
+[CMS 58]: 6613313711636480
+[CMS 59]: 5304733880418304
+[CMS 60]: 5662563107995648
+[CMS 61]: 6663086812561408
+[CMS 62]: 6425809263919104
+[CMS 63]: 6588391895465984
+[CMS 64]: 5041859601760256
+[CMS 65]: 5637328967172096
+[CMS 66]: 5349219004186624
+[CMS 67]: 6637669263212544
+[CMS 68]: 4827032300158976
+[CMS 69]: 4994862928756736
+[CMS 70]: 5782037958098944
+[CMS 71]: 5228996007690240
+[CMS 72]: 4741899958222848
+[CMS 73]: 4899088043737088
+[CMS 74]: 4831998439981056
+[CMS 75]: 6501688048484352
+[CMS 76]: 5713580071714816
+[CMS 77]: 5808440262918144
+[CMS 78]: 5311026124947456
+[CMS 79]: 5431269119885312
+[CMS 80]: 4818618241122304
+[CMS 81]: 6572424213692416
+[CMS 82]: 6661709671563264
+[CMS 83]: 4918759698595840
+[CMS 84]: 4632989922361344
+[CMS 85]: 4950922393419776
+[CMS 86]: 5860376483856384
+[CMS 87]: 6430086480920576
+[CMS 88]: 5516556500074496
+[CMS 89]: 6423512312053760
+[CMS 90]: 5238462702813184
+[CMS 91]: 4752113054908416
+[CMS 92]: 5076619980046336
+[CMS 93]: 6436921350946816
+[CMS 94]: 5729282925133824
+[CMS 95]: 4702596544724992
+[CMS 96]: 5849138064392192
+[CMS 97]: 5069810024185856
+[CMS 98]: 6679809938817024
+[CMS 99]: 6040039529250816
+[CMS 100]: 4794408282226688
+Range names: to_add, 10月, 11月
+Not 16-digit: .
+Row: ['', 44501]
+Google sheet: 6619498447765504
+Google sheet: 5608960439746560
+Not 16-digit: 
+Row: ['星期五', 44470]
+Row: ['星期六', 44471]
+Google sheet: 5655214318288896
+Google sheet: 6048836234641408
+Google sheet: 5986385824710656
+Google sheet: 5037952599195648
+Google sheet: 5686250087514112
+Google sheet: 5898785537523712
+Google sheet: 5618839007133696
+Google sheet: 6534730070753280
+Google sheet: 5608960439746560
+Google sheet: 4842217542909952
+Row: []
+Google sheet: 6719367023820800
+Google sheet: 5349292387729408
+Google sheet: 6639612568141824
+Google sheet: 5323029535129600
+Google sheet: 5090349144997888
+Google sheet: 6069423178907648
+Google sheet: 4933733699420160
+Google sheet: 4778501367529472
+Google sheet: 4575978727800832
+Google sheet: 6126380820594688
+Row: []
+Google sheet: 6742520185880576
+Google sheet: 4832769889927168
+Google sheet: 4844577660993536
+Google sheet: 5967335967031296
+Google sheet: 5702382186004480
+Google sheet: 5623408181248000
+Google sheet: 5060098952134656
+Google sheet: 5249194685235200
+Google sheet: 5439671250321408
+Google sheet: 4982564893884416
+Google sheet: 6048639496617984
+Google sheet: 4691712829161472
+Google sheet: 5613066092937216
+Row: ['星期六', 44449]
+Row: []
+Google sheet: 5495923376521216
+Google sheet: 6137103944646656
+Google sheet: 4772984314265600
+Google sheet: 4872890085408768
+Google sheet: 5972882556583936
+Google sheet: 4573637467308032
+Google sheet: 4839188953432064
+Google sheet: 4700881477042176
+Google sheet: 4855174486163456
+Google sheet: 5221617270652928
+Google sheet: 5144428252626944
+Google sheet: 5689830387351552
+Google sheet: 4535135635636224
+Google sheet: 6042337680687104
+Google sheet: 6673013689942016
+Google sheet: 6194982152175616
+Google sheet: 5855998200905728
+Google sheet: 6251396950261760
+Google sheet: 6300746493591552
+Row: []
+Google sheet: 6339119979560960
+Not 16-digit: 
+Google sheet: 4654697962143744
+Google sheet: 5037954671181824
+Google sheet: 6540877511131136
+Row: ['星期三', '13/10']
+Google sheet: 6203475852656640
+Row: ['星期五', '15/10']
+Row: []
+Row: []
+Row: []
+Google sheet: 5399732349435904
+Google sheet: 4879887392440320
+Row: []
+Google sheet: 6455036214378496
+Google sheet: 5069810024185856
+Google sheet: 4628933896175616
+Not 16-digit: 
+Not 16-digit: 
+Google sheet: 5516556500074496
+Google sheet: 6661709671563264
+Google sheet: 6572424213692416
+Google sheet: 4825763590307840
+Google sheet: 6679809938817024
+Google sheet: 4794408282226688
+Google sheet: 6677111793385472
+Google sheet: 4818618241122304
+Google sheet: 6501688048484352
+Row: []
+Google sheet: 6436921350946816
+Google sheet: 4752113054908416
+Row: []
+Google sheet: 4918759698595840
+Google sheet: 6308238694940672
+Google sheet: 5713580071714816
+Google sheet: 5311026124947456
+Google sheet: 5808440262918144
+Row: ['星期一', '18/10']
+Google sheet: 4831998439981056
+Google sheet: 6300076109594624
+Google sheet: 5729282925133824
+Google sheet: 5076619980046336
+Google sheet: 4950922393419776
+Google sheet: 4899088043737088
+Row: []
+Google sheet: 5782037958098944
+Row: []
+Google sheet: 4827032300158976
+Row: []
+Row: ['星期二', '19/10']
+Row: []
+Google sheet: 4632989922361344
+Google sheet: 6637669263212544
+Google sheet: 4994862928756736
+Row: ['星期四', '21/10']
+Row: ['星期五', '22/10']
+Row: ['星期六', '23/10']
+Row: []
+Google sheet: 5927577270222848
+Google sheet: 6588391895465984
+Google sheet: 5160132465000448
+Google sheet: 6209691123318784
+Google sheet: 6503894252388352
+Google sheet: 5706867490816000
+Google sheet: 4508377267961856
+Google sheet: 4658142777573376
+Google sheet: 4896408990777344
+Google sheet: 6051713183252480
+Google sheet: 5442862645903360
+Google sheet: 4584385035763712
+Google sheet: 5839693599080448
+Google sheet: 6648962745499648
+Row: []
+Not 16-digit: 
+Google sheet: 6040039529250816
+Google sheet: 5238462702813184
+Google sheet: 5349219004186624
+Google sheet: 5662563107995648
+Google sheet: 6663086812561408
+Google sheet: 6425809263919104
+Google sheet: 5041859601760256
+Google sheet: 5982196788756480
+Google sheet: 5304733880418304
+Google sheet: 5866591284756480
+Google sheet: 6089734297354240
+Google sheet: 5357146775617536
+Google sheet: 5787725971193856
+Google sheet: 6594871927373824
+Row: []
+Google sheet: 4948688188342272
+Row: []
+Google sheet: 5227273138601984
+Google sheet: 5814914288582656
+Google sheet: 5860376483856384
+Google sheet: 5228996007690240
+Google sheet: 5639581409083392
+Google sheet: 5918087070220288
+Google sheet: 5637328967172096
+Google sheet: 6613313711636480
+Google sheet: 6317895039713280
+Google sheet: 4817584395517952
+Google sheet: 5514633764012032
+Google sheet: 5994261418999808
+Google sheet: 6680078156169216
+Row: ['星期三', '27/10']
+Row: ['星期四', '28/10']
+Google sheet: 4829627668365312
+Row: ['星期五', '29/10']
+Google sheet: 4961547672748032
+Google sheet: 4508923668332544
+Google sheet: 4812230366461952
+Google sheet: 4730335876218880
+Google sheet: 5305403358445568
+Google sheet: 5626968348426240
+Row: []
+Google sheet: 5104437073936384
+Not 16-digit: 
+Google sheet: 5968392159887360
+Google sheet: 6659538615926784
+Google sheet: 5739764658601984
+Google sheet: 5652956591554560
+Google sheet: 6619498447765504
+Google sheet: 5272406802432000
+Google sheet: 5809717864693760
+Google sheet: 6449028377214976
+Google sheet: 4861213730275328
+Google sheet: 6581098302799872
+Google sheet: 6670567555072000
+Google sheet: 5687684019388416
+Row: ['星期三', 44503]
+Row: ['星期四', 44504]
+Row: ['星期五', 44505]
+Google sheet: 5151254012624896
+Row: ['星期日', 44507]
+Google sheet: 5863633478352896
+Google sheet: 5486885708365824
+Row: ['星期三', 44510]
+Row: ['星期四', 44511]
+Google sheet: 5762126271610880
+Row: ['星期六', 44513]
+Row: ['星期日', 44514]
+Row: ['星期一', 44515]
+Row: ['星期二', 44516]
+Row: ['星期三', 44517]
+Row: ['星期四', 44518]
+Row: ['星期五', 44519]
+Row: ['星期六', 44520]
+Row: ['星期日', 44521]
+Row: ['星期一', 44522]
+Row: ['星期二', 44523]
+Row: ['星期三', 44524]
+Row: ['星期四', 44525]
+Row: ['星期五', 44526]
+Row: ['星期六', 44527]
+Row: ['星期日', 44528]
+Row: ['星期一', 44529]
+Row: ['星期二', 44530]
+Google sheet: 0 cells appended.
+Do not have new order.
+Duplicated items in Google sheet: 6619498447765504, 5608960439746560.
+
+--Check order list End--
+
+
+
+
+
+-----2021-10-30 20:28:50-----
+
+--Check order list Start--
+[CMS 1]: 6619498447765504
+[CMS 2]: 6581098302799872
+[CMS 3]: 5608960439746560
+[CMS 4]: 6449028377214976
+[CMS 5]: 5809717864693760
+[CMS 6]: 4730335876218880
+[CMS 7]: 5272406802432000
+[CMS 8]: 4508923668332544
+[CMS 9]: 4861213730275328
+[CMS 10]: 5652956591554560
+[CMS 11]: 4965516541296640
+[CMS 12]: 5863633478352896
+[CMS 13]: 5151254012624896
+[CMS 14]: 5486885708365824
+[CMS 15]: 4961547672748032
+[CMS 16]: 5687684019388416
+[CMS 17]: 5968392159887360
+[CMS 18]: 6050044387131392
+[CMS 19]: 6680078156169216
+[CMS 20]: 5994261418999808
+[CMS 21]: 5739764658601984
+[CMS 22]: 6659538615926784
+[CMS 23]: 5626968348426240
+[CMS 24]: 5514633764012032
+[CMS 25]: 4812230366461952
+[CMS 26]: 4817584395517952
+[CMS 27]: 5639581409083392
+[CMS 28]: 5305403358445568
+[CMS 29]: 5918087070220288
+[CMS 30]: 4829627668365312
+[CMS 31]: 5104437073936384
+[CMS 32]: 5138385502076928
+[CMS 33]: 5982117935841280
+[CMS 34]: 6317895039713280
+[CMS 35]: 5866591284756480
+[CMS 36]: 6594871927373824
+[CMS 37]: 4948688188342272
+[CMS 38]: 5227273138601984
+[CMS 39]: 5787725971193856
+[CMS 40]: 5357146775617536
+[CMS 41]: 6051713183252480
+[CMS 42]: 6648962745499648
+[CMS 43]: 4584385035763712
+[CMS 44]: 6089734297354240
+[CMS 45]: 5442862645903360
+[CMS 46]: 5982196788756480
+[CMS 47]: 5762126271610880
+[CMS 48]: 5839693599080448
+[CMS 49]: 5927577270222848
+[CMS 50]: 5160132465000448
+[CMS 51]: 6209691123318784
+[CMS 52]: 6503894252388352
+[CMS 53]: 5706867490816000
+[CMS 54]: 4508377267961856
+[CMS 55]: 4658142777573376
+[CMS 56]: 4896408990777344
+[CMS 57]: 6670567555072000
+[CMS 58]: 6613313711636480
+[CMS 59]: 5304733880418304
+[CMS 60]: 5662563107995648
+[CMS 61]: 6663086812561408
+[CMS 62]: 6425809263919104
+[CMS 63]: 6588391895465984
+[CMS 64]: 5041859601760256
+[CMS 65]: 5637328967172096
+[CMS 66]: 5349219004186624
+[CMS 67]: 6637669263212544
+[CMS 68]: 4827032300158976
+[CMS 69]: 4994862928756736
+[CMS 70]: 5782037958098944
+[CMS 71]: 5228996007690240
+[CMS 72]: 4741899958222848
+[CMS 73]: 4899088043737088
+[CMS 74]: 4831998439981056
+[CMS 75]: 6501688048484352
+[CMS 76]: 5713580071714816
+[CMS 77]: 5808440262918144
+[CMS 78]: 5311026124947456
+[CMS 79]: 5431269119885312
+[CMS 80]: 4818618241122304
+[CMS 81]: 6572424213692416
+[CMS 82]: 6661709671563264
+[CMS 83]: 4918759698595840
+[CMS 84]: 4632989922361344
+[CMS 85]: 4950922393419776
+[CMS 86]: 5860376483856384
+[CMS 87]: 6430086480920576
+[CMS 88]: 5516556500074496
+[CMS 89]: 6423512312053760
+[CMS 90]: 5238462702813184
+[CMS 91]: 4752113054908416
+[CMS 92]: 5076619980046336
+[CMS 93]: 6436921350946816
+[CMS 94]: 5729282925133824
+[CMS 95]: 4702596544724992
+[CMS 96]: 5849138064392192
+[CMS 97]: 5069810024185856
+[CMS 98]: 6679809938817024
+[CMS 99]: 6040039529250816
+[CMS 100]: 4794408282226688
+Range names: to_add, 10月, 11月
+Not 16-digit: .
+Row: ['', 44501]
+Google sheet: 6619498447765504
+Google sheet: 5608960439746560
+Not 16-digit: 
+Row: ['星期五', 44470]
+Row: ['星期六', 44471]
+Google sheet: 5655214318288896
+Google sheet: 6048836234641408
+Google sheet: 5986385824710656
+Google sheet: 5037952599195648
+Google sheet: 5686250087514112
+Google sheet: 5898785537523712
+Google sheet: 5618839007133696
+Google sheet: 6534730070753280
+Google sheet: 5608960439746560
+Google sheet: 4842217542909952
+Row: []
+Google sheet: 6719367023820800
+Google sheet: 5349292387729408
+Google sheet: 6639612568141824
+Google sheet: 5323029535129600
+Google sheet: 5090349144997888
+Google sheet: 6069423178907648
+Google sheet: 4933733699420160
+Google sheet: 4778501367529472
+Google sheet: 4575978727800832
+Google sheet: 6126380820594688
+Row: []
+Google sheet: 6742520185880576
+Google sheet: 4832769889927168
+Google sheet: 4844577660993536
+Google sheet: 5967335967031296
+Google sheet: 5702382186004480
+Google sheet: 5623408181248000
+Google sheet: 5060098952134656
+Google sheet: 5249194685235200
+Google sheet: 5439671250321408
+Google sheet: 4982564893884416
+Google sheet: 6048639496617984
+Google sheet: 4691712829161472
+Google sheet: 5613066092937216
+Row: ['星期六', 44449]
+Row: []
+Google sheet: 5495923376521216
+Google sheet: 6137103944646656
+Google sheet: 4772984314265600
+Google sheet: 4872890085408768
+Google sheet: 5972882556583936
+Google sheet: 4573637467308032
+Google sheet: 4839188953432064
+Google sheet: 4700881477042176
+Google sheet: 4855174486163456
+Google sheet: 5221617270652928
+Google sheet: 5144428252626944
+Google sheet: 5689830387351552
+Google sheet: 4535135635636224
+Google sheet: 6042337680687104
+Google sheet: 6673013689942016
+Google sheet: 6194982152175616
+Google sheet: 5855998200905728
+Google sheet: 6251396950261760
+Google sheet: 6300746493591552
+Row: []
+Google sheet: 6339119979560960
+Not 16-digit: 
+Google sheet: 4654697962143744
+Google sheet: 5037954671181824
+Google sheet: 6540877511131136
+Row: ['星期三', '13/10']
+Google sheet: 6203475852656640
+Row: ['星期五', '15/10']
+Row: []
+Row: []
+Row: []
+Google sheet: 5399732349435904
+Google sheet: 4879887392440320
+Row: []
+Google sheet: 6455036214378496
+Google sheet: 5069810024185856
+Google sheet: 4628933896175616
+Not 16-digit: 
+Not 16-digit: 
+Google sheet: 5516556500074496
+Google sheet: 6661709671563264
+Google sheet: 6572424213692416
+Google sheet: 4825763590307840
+Google sheet: 6679809938817024
+Google sheet: 4794408282226688
+Google sheet: 6677111793385472
+Google sheet: 4818618241122304
+Google sheet: 6501688048484352
+Row: []
+Google sheet: 6436921350946816
+Google sheet: 4752113054908416
+Row: []
+Google sheet: 4918759698595840
+Google sheet: 6308238694940672
+Google sheet: 5713580071714816
+Google sheet: 5311026124947456
+Google sheet: 5808440262918144
+Row: ['星期一', '18/10']
+Google sheet: 4831998439981056
+Google sheet: 6300076109594624
+Google sheet: 5729282925133824
+Google sheet: 5076619980046336
+Google sheet: 4950922393419776
+Google sheet: 4899088043737088
+Row: []
+Google sheet: 5782037958098944
+Row: []
+Google sheet: 4827032300158976
+Row: []
+Row: ['星期二', '19/10']
+Row: []
+Google sheet: 4632989922361344
+Google sheet: 6637669263212544
+Google sheet: 4994862928756736
+Row: ['星期四', '21/10']
+Row: ['星期五', '22/10']
+Row: ['星期六', '23/10']
+Row: []
+Google sheet: 5927577270222848
+Google sheet: 6588391895465984
+Google sheet: 5160132465000448
+Google sheet: 6209691123318784
+Google sheet: 6503894252388352
+Google sheet: 5706867490816000
+Google sheet: 4508377267961856
+Google sheet: 4658142777573376
+Google sheet: 4896408990777344
+Google sheet: 6051713183252480
+Google sheet: 5442862645903360
+Google sheet: 4584385035763712
+Google sheet: 5839693599080448
+Google sheet: 6648962745499648
+Row: []
+Not 16-digit: 
+Google sheet: 6040039529250816
+Google sheet: 5238462702813184
+Google sheet: 5349219004186624
+Google sheet: 5662563107995648
+Google sheet: 6663086812561408
+Google sheet: 6425809263919104
+Google sheet: 5041859601760256
+Google sheet: 5982196788756480
+Google sheet: 5304733880418304
+Google sheet: 5866591284756480
+Google sheet: 6089734297354240
+Google sheet: 5357146775617536
+Google sheet: 5787725971193856
+Google sheet: 6594871927373824
+Row: []
+Google sheet: 4948688188342272
+Row: []
+Google sheet: 5227273138601984
+Google sheet: 5814914288582656
+Google sheet: 5860376483856384
+Google sheet: 5228996007690240
+Google sheet: 5639581409083392
+Google sheet: 5918087070220288
+Google sheet: 5637328967172096
+Google sheet: 6613313711636480
+Google sheet: 6317895039713280
+Google sheet: 4817584395517952
+Google sheet: 5514633764012032
+Google sheet: 5994261418999808
+Google sheet: 6680078156169216
+Row: ['星期三', '27/10']
+Row: ['星期四', '28/10']
+Google sheet: 4829627668365312
+Row: ['星期五', '29/10']
+Google sheet: 4961547672748032
+Google sheet: 4508923668332544
+Google sheet: 4812230366461952
+Google sheet: 4730335876218880
+Google sheet: 5305403358445568
+Google sheet: 5626968348426240
+Row: []
+Google sheet: 5104437073936384
+Not 16-digit: 
+Google sheet: 5968392159887360
+Google sheet: 6659538615926784
+Google sheet: 5739764658601984
+Google sheet: 5652956591554560
+Google sheet: 6619498447765504
+Google sheet: 5272406802432000
+Google sheet: 5809717864693760
+Google sheet: 6449028377214976
+Google sheet: 4861213730275328
+Google sheet: 6581098302799872
+Google sheet: 6670567555072000
+Google sheet: 5687684019388416
+Row: ['星期三', 44503]
+Row: ['星期四', 44504]
+Row: ['星期五', 44505]
+Google sheet: 5151254012624896
+Row: ['星期日', 44507]
+Google sheet: 5863633478352896
+Google sheet: 5486885708365824
+Row: ['星期三', 44510]
+Row: ['星期四', 44511]
+Google sheet: 5762126271610880
+Row: ['星期六', 44513]
+Row: ['星期日', 44514]
+Row: ['星期一', 44515]
+Row: ['星期二', 44516]
+Row: ['星期三', 44517]
+Row: ['星期四', 44518]
+Row: ['星期五', 44519]
+Row: ['星期六', 44520]
+Row: ['星期日', 44521]
+Row: ['星期一', 44522]
+Row: ['星期二', 44523]
+Row: ['星期三', 44524]
+Row: ['星期四', 44525]
+Row: ['星期五', 44526]
+Row: ['星期六', 44527]
+Row: ['星期日', 44528]
+Row: ['星期一', 44529]
+Row: ['星期二', 44530]
+Google sheet: 0 cells appended.
+Do not have new order.
+Duplicated items in Google sheet: 6619498447765504, 5608960439746560.
+
+--Check order list End--
+
+
+
+
+
+-----2021-10-30 20:32:49-----
+
+--Check order list Start--
+
+
+
+
+
+-----2021-10-30 20:33:06-----
+
+--Check order list Start--
+[CMS 1]: 6619498447765504
+[CMS 2]: 6581098302799872
+[CMS 3]: 5608960439746560
+[CMS 4]: 6449028377214976
+[CMS 5]: 5809717864693760
+[CMS 6]: 4730335876218880
+[CMS 7]: 5272406802432000
+[CMS 8]: 4508923668332544
+[CMS 9]: 4861213730275328
+[CMS 10]: 5652956591554560
+[CMS 11]: 4965516541296640
+[CMS 12]: 5863633478352896
+[CMS 13]: 5151254012624896
+[CMS 14]: 5486885708365824
+[CMS 15]: 4961547672748032
+[CMS 16]: 5687684019388416
+[CMS 17]: 5968392159887360
+[CMS 18]: 6050044387131392
+[CMS 19]: 6680078156169216
+[CMS 20]: 5994261418999808
+[CMS 21]: 5739764658601984
+[CMS 22]: 6659538615926784
+[CMS 23]: 5626968348426240
+[CMS 24]: 5514633764012032
+[CMS 25]: 4812230366461952
+[CMS 26]: 4817584395517952
+[CMS 27]: 5639581409083392
+[CMS 28]: 5305403358445568
+[CMS 29]: 5918087070220288
+[CMS 30]: 4829627668365312
+[CMS 31]: 5104437073936384
+[CMS 32]: 5138385502076928
+[CMS 33]: 5982117935841280
+[CMS 34]: 6317895039713280
+[CMS 35]: 5866591284756480
+[CMS 36]: 6594871927373824
+[CMS 37]: 4948688188342272
+[CMS 38]: 5227273138601984
+[CMS 39]: 5787725971193856
+[CMS 40]: 5357146775617536
+[CMS 41]: 6051713183252480
+[CMS 42]: 6648962745499648
+[CMS 43]: 4584385035763712
+[CMS 44]: 6089734297354240
+[CMS 45]: 5442862645903360
+[CMS 46]: 5982196788756480
+[CMS 47]: 5762126271610880
+[CMS 48]: 5839693599080448
+[CMS 49]: 5927577270222848
+[CMS 50]: 5160132465000448
+[CMS 51]: 6209691123318784
+[CMS 52]: 6503894252388352
+[CMS 53]: 5706867490816000
+[CMS 54]: 4508377267961856
+[CMS 55]: 4658142777573376
+[CMS 56]: 4896408990777344
+[CMS 57]: 6670567555072000
+[CMS 58]: 6613313711636480
+[CMS 59]: 5304733880418304
+[CMS 60]: 5662563107995648
+[CMS 61]: 6663086812561408
+[CMS 62]: 6425809263919104
+[CMS 63]: 6588391895465984
+[CMS 64]: 5041859601760256
+[CMS 65]: 5637328967172096
+[CMS 66]: 5349219004186624
+[CMS 67]: 6637669263212544
+[CMS 68]: 4827032300158976
+[CMS 69]: 4994862928756736
+[CMS 70]: 5782037958098944
+[CMS 71]: 5228996007690240
+[CMS 72]: 4741899958222848
+[CMS 73]: 4899088043737088
+[CMS 74]: 4831998439981056
+[CMS 75]: 6501688048484352
+[CMS 76]: 5713580071714816
+[CMS 77]: 5808440262918144
+[CMS 78]: 5311026124947456
+[CMS 79]: 5431269119885312
+[CMS 80]: 4818618241122304
+[CMS 81]: 6572424213692416
+[CMS 82]: 6661709671563264
+[CMS 83]: 4918759698595840
+[CMS 84]: 4632989922361344
+[CMS 85]: 4950922393419776
+[CMS 86]: 5860376483856384
+[CMS 87]: 6430086480920576
+[CMS 88]: 5516556500074496
+[CMS 89]: 6423512312053760
+[CMS 90]: 5238462702813184
+[CMS 91]: 4752113054908416
+[CMS 92]: 5076619980046336
+[CMS 93]: 6436921350946816
+[CMS 94]: 5729282925133824
+[CMS 95]: 4702596544724992
+[CMS 96]: 5849138064392192
+[CMS 97]: 5069810024185856
+[CMS 98]: 6679809938817024
+[CMS 99]: 6040039529250816
+[CMS 100]: 4794408282226688
+Range names: to_add, 10月, 11月
+Not 16-digit: .
+Not 16-digit: 
+Row: ['星期五', 44470]
+Row: ['星期六', 44471]
+Google sheet: 5655214318288896
+Google sheet: 6048836234641408
+Google sheet: 5986385824710656
+Google sheet: 5037952599195648
+Google sheet: 5686250087514112
+Google sheet: 5898785537523712
+Google sheet: 5618839007133696
+Google sheet: 6534730070753280
+Google sheet: 5608960439746560
+Google sheet: 4842217542909952
+Row: []
+Google sheet: 6719367023820800
+Google sheet: 5349292387729408
+Google sheet: 6639612568141824
+Google sheet: 5323029535129600
+Google sheet: 5090349144997888
+Google sheet: 6069423178907648
+Google sheet: 4933733699420160
+Google sheet: 4778501367529472
+Google sheet: 4575978727800832
+Google sheet: 6126380820594688
+Row: []
+Google sheet: 6742520185880576
+Google sheet: 4832769889927168
+Google sheet: 4844577660993536
+Google sheet: 5967335967031296
+Google sheet: 5702382186004480
+Google sheet: 5623408181248000
+Google sheet: 5060098952134656
+Google sheet: 5249194685235200
+Google sheet: 5439671250321408
+Google sheet: 4982564893884416
+Google sheet: 6048639496617984
+Google sheet: 4691712829161472
+Google sheet: 5613066092937216
+Row: ['星期六', 44449]
+Row: []
+Google sheet: 5495923376521216
+Google sheet: 6137103944646656
+Google sheet: 4772984314265600
+Google sheet: 4872890085408768
+Google sheet: 5972882556583936
+Google sheet: 4573637467308032
+Google sheet: 4839188953432064
+Google sheet: 4700881477042176
+Google sheet: 4855174486163456
+Google sheet: 5221617270652928
+Google sheet: 5144428252626944
+Google sheet: 5689830387351552
+Google sheet: 4535135635636224
+Google sheet: 6042337680687104
+Google sheet: 6673013689942016
+Google sheet: 6194982152175616
+Google sheet: 5855998200905728
+Google sheet: 6251396950261760
+Google sheet: 6300746493591552
+Row: []
+Google sheet: 6339119979560960
+Not 16-digit: 
+Google sheet: 4654697962143744
+Google sheet: 5037954671181824
+Google sheet: 6540877511131136
+Row: ['星期三', '13/10']
+Google sheet: 6203475852656640
+Row: ['星期五', '15/10']
+Row: []
+Row: []
+Row: []
+Google sheet: 5399732349435904
+Google sheet: 4879887392440320
+Row: []
+Google sheet: 6455036214378496
+Google sheet: 5069810024185856
+Google sheet: 4628933896175616
+Not 16-digit: 
+Not 16-digit: 
+Google sheet: 5516556500074496
+Google sheet: 6661709671563264
+Google sheet: 6572424213692416
+Google sheet: 4825763590307840
+Google sheet: 6679809938817024
+Google sheet: 4794408282226688
+Google sheet: 6677111793385472
+Google sheet: 4818618241122304
+Google sheet: 6501688048484352
+Row: []
+Google sheet: 6436921350946816
+Google sheet: 4752113054908416
+Row: []
+Google sheet: 4918759698595840
+Google sheet: 6308238694940672
+Google sheet: 5713580071714816
+Google sheet: 5311026124947456
+Google sheet: 5808440262918144
+Row: ['星期一', '18/10']
+Google sheet: 4831998439981056
+Google sheet: 6300076109594624
+Google sheet: 5729282925133824
+Google sheet: 5076619980046336
+Google sheet: 4950922393419776
+Google sheet: 4899088043737088
+Row: []
+Google sheet: 5782037958098944
+Row: []
+Google sheet: 4827032300158976
+Row: []
+Row: ['星期二', '19/10']
+Row: []
+Google sheet: 4632989922361344
+Google sheet: 6637669263212544
+Google sheet: 4994862928756736
+Row: ['星期四', '21/10']
+Row: ['星期五', '22/10']
+Row: ['星期六', '23/10']
+Row: []
+Google sheet: 5927577270222848
+Google sheet: 6588391895465984
+Google sheet: 5160132465000448
+Google sheet: 6209691123318784
+Google sheet: 6503894252388352
+Google sheet: 5706867490816000
+Google sheet: 4508377267961856
+Google sheet: 4658142777573376
+Google sheet: 4896408990777344
+Google sheet: 6051713183252480
+Google sheet: 5442862645903360
+Google sheet: 4584385035763712
+Google sheet: 5839693599080448
+Google sheet: 6648962745499648
+Row: []
+Not 16-digit: 
+Google sheet: 6040039529250816
+Google sheet: 5238462702813184
+Google sheet: 5349219004186624
+Google sheet: 5662563107995648
+Google sheet: 6663086812561408
+Google sheet: 6425809263919104
+Google sheet: 5041859601760256
+Google sheet: 5982196788756480
+Google sheet: 5304733880418304
+Google sheet: 5866591284756480
+Google sheet: 6089734297354240
+Google sheet: 5357146775617536
+Google sheet: 5787725971193856
+Google sheet: 6594871927373824
+Row: []
+Google sheet: 4948688188342272
+Row: []
+Google sheet: 5227273138601984
+Google sheet: 5814914288582656
+Google sheet: 5860376483856384
+Google sheet: 5228996007690240
+Google sheet: 5639581409083392
+Google sheet: 5918087070220288
+Google sheet: 5637328967172096
+Google sheet: 6613313711636480
+Google sheet: 6317895039713280
+Google sheet: 4817584395517952
+Google sheet: 5514633764012032
+Google sheet: 5994261418999808
+Google sheet: 6680078156169216
+Row: ['星期三', '27/10']
+Row: ['星期四', '28/10']
+Google sheet: 4829627668365312
+Row: ['星期五', '29/10']
+Google sheet: 4961547672748032
+Google sheet: 4508923668332544
+Google sheet: 4812230366461952
+Google sheet: 4730335876218880
+Google sheet: 5305403358445568
+Google sheet: 5626968348426240
+Row: []
+Google sheet: 5104437073936384
+Not 16-digit: 
+Google sheet: 5968392159887360
+Google sheet: 6659538615926784
+Google sheet: 5739764658601984
+Google sheet: 5652956591554560
+Google sheet: 6619498447765504
+Google sheet: 5272406802432000
+Google sheet: 5809717864693760
+Google sheet: 6449028377214976
+Google sheet: 4861213730275328
+Google sheet: 6581098302799872
+Google sheet: 6670567555072000
+Google sheet: 5687684019388416
+Row: ['星期三', 44503]
+Row: ['星期四', 44504]
+Row: ['星期五', 44505]
+Google sheet: 5151254012624896
+Row: ['星期日', 44507]
+Google sheet: 5863633478352896
+Google sheet: 5486885708365824
+Row: ['星期三', 44510]
+Row: ['星期四', 44511]
+Google sheet: 5762126271610880
+Row: ['星期六', 44513]
+Row: ['星期日', 44514]
+Row: ['星期一', 44515]
+Row: ['星期二', 44516]
+Row: ['星期三', 44517]
+Row: ['星期四', 44518]
+Row: ['星期五', 44519]
+Row: ['星期六', 44520]
+Row: ['星期日', 44521]
+Row: ['星期一', 44522]
+Row: ['星期二', 44523]
+Row: ['星期三', 44524]
+Row: ['星期四', 44525]
+Row: ['星期五', 44526]
+Row: ['星期六', 44527]
+Row: ['星期日', 44528]
+Row: ['星期一', 44529]
+Row: ['星期二', 44530]
+Google sheet: 0 cells appended.
+Do not have new order.
+--Check order list End--
+
+
+
+
+
+-----2021-10-30 20:44:42-----
+
+--Check order list Start--
+[CMS 1]: 5677257248079872
+[CMS 2]: 6619498447765504
+[CMS 3]: 6581098302799872
+[CMS 4]: 5608960439746560
+[CMS 5]: 6449028377214976
+[CMS 6]: 5809717864693760
+[CMS 7]: 4730335876218880
+[CMS 8]: 5272406802432000
+[CMS 9]: 4508923668332544
+[CMS 10]: 4861213730275328
+[CMS 11]: 5652956591554560
+[CMS 12]: 4965516541296640
+[CMS 13]: 5863633478352896
+[CMS 14]: 5151254012624896
+[CMS 15]: 5486885708365824
+[CMS 16]: 4961547672748032
+[CMS 17]: 5687684019388416
+[CMS 18]: 5968392159887360
+[CMS 19]: 6050044387131392
+[CMS 20]: 6680078156169216
+[CMS 21]: 5994261418999808
+[CMS 22]: 5739764658601984
+[CMS 23]: 6659538615926784
+[CMS 24]: 5626968348426240
+[CMS 25]: 5514633764012032
+[CMS 26]: 4812230366461952
+[CMS 27]: 4817584395517952
+[CMS 28]: 5639581409083392
+[CMS 29]: 5305403358445568
+[CMS 30]: 5918087070220288
+[CMS 31]: 4829627668365312
+[CMS 32]: 5104437073936384
+[CMS 33]: 5138385502076928
+[CMS 34]: 5982117935841280
+[CMS 35]: 6317895039713280
+[CMS 36]: 5866591284756480
+[CMS 37]: 6594871927373824
+[CMS 38]: 4948688188342272
+[CMS 39]: 5227273138601984
+[CMS 40]: 5787725971193856
+[CMS 41]: 5357146775617536
+[CMS 42]: 6051713183252480
+[CMS 43]: 6648962745499648
+[CMS 44]: 4584385035763712
+[CMS 45]: 6089734297354240
+[CMS 46]: 5442862645903360
+[CMS 47]: 5982196788756480
+[CMS 48]: 5762126271610880
+[CMS 49]: 5839693599080448
+[CMS 50]: 5927577270222848
+[CMS 51]: 5160132465000448
+[CMS 52]: 6209691123318784
+[CMS 53]: 6503894252388352
+[CMS 54]: 5706867490816000
+[CMS 55]: 4508377267961856
+[CMS 56]: 4658142777573376
+[CMS 57]: 4896408990777344
+[CMS 58]: 6670567555072000
+[CMS 59]: 6613313711636480
+[CMS 60]: 5304733880418304
+[CMS 61]: 5662563107995648
+[CMS 62]: 6663086812561408
+[CMS 63]: 6425809263919104
+[CMS 64]: 6588391895465984
+[CMS 65]: 5041859601760256
+[CMS 66]: 5637328967172096
+[CMS 67]: 5349219004186624
+[CMS 68]: 6637669263212544
+[CMS 69]: 4827032300158976
+[CMS 70]: 4994862928756736
+[CMS 71]: 5782037958098944
+[CMS 72]: 5228996007690240
+[CMS 73]: 4741899958222848
+[CMS 74]: 4899088043737088
+[CMS 75]: 4831998439981056
+[CMS 76]: 6501688048484352
+[CMS 77]: 5713580071714816
+[CMS 78]: 5808440262918144
+[CMS 79]: 5311026124947456
+[CMS 80]: 5431269119885312
+[CMS 81]: 4818618241122304
+[CMS 82]: 6572424213692416
+[CMS 83]: 6661709671563264
+[CMS 84]: 4918759698595840
+[CMS 85]: 4632989922361344
+[CMS 86]: 4950922393419776
+[CMS 87]: 5860376483856384
+[CMS 88]: 6430086480920576
+[CMS 89]: 5516556500074496
+[CMS 90]: 6423512312053760
+[CMS 91]: 5238462702813184
+[CMS 92]: 4752113054908416
+[CMS 93]: 5076619980046336
+[CMS 94]: 6436921350946816
+[CMS 95]: 5729282925133824
+[CMS 96]: 4702596544724992
+[CMS 97]: 5849138064392192
+[CMS 98]: 5069810024185856
+[CMS 99]: 6679809938817024
+[CMS 100]: 6040039529250816
+Range names: to_add, 10月, 11月
+Not 16-digit: .
+Not 16-digit: 
+Row: ['星期五', 44470]
+Row: ['星期六', 44471]
+Google sheet: 5655214318288896
+Google sheet: 6048836234641408
+Google sheet: 5986385824710656
+Google sheet: 5037952599195648
+Google sheet: 5686250087514112
+Google sheet: 5898785537523712
+Google sheet: 5618839007133696
+Google sheet: 6534730070753280
+Row: []
+Google sheet: 4842217542909952
+Row: []
+Google sheet: 6719367023820800
+Google sheet: 5349292387729408
+Google sheet: 6639612568141824
+Google sheet: 5323029535129600
+Google sheet: 5090349144997888
+Google sheet: 6069423178907648
+Google sheet: 4933733699420160
+Google sheet: 4778501367529472
+Google sheet: 4575978727800832
+Google sheet: 6126380820594688
+Row: []
+Google sheet: 6742520185880576
+Google sheet: 4832769889927168
+Google sheet: 4844577660993536
+Google sheet: 5967335967031296
+Google sheet: 5702382186004480
+Google sheet: 5623408181248000
+Google sheet: 5060098952134656
+Google sheet: 5249194685235200
+Google sheet: 5439671250321408
+Google sheet: 4982564893884416
+Google sheet: 6048639496617984
+Google sheet: 4691712829161472
+Google sheet: 5613066092937216
+Row: ['星期六', 44478]
+Row: []
+Google sheet: 5495923376521216
+Google sheet: 6137103944646656
+Google sheet: 4772984314265600
+Google sheet: 4872890085408768
+Google sheet: 5972882556583936
+Google sheet: 4573637467308032
+Google sheet: 4839188953432064
+Google sheet: 4700881477042176
+Google sheet: 4855174486163456
+Google sheet: 5221617270652928
+Google sheet: 5144428252626944
+Google sheet: 5689830387351552
+Google sheet: 4535135635636224
+Google sheet: 6042337680687104
+Google sheet: 6673013689942016
+Google sheet: 6194982152175616
+Google sheet: 5855998200905728
+Google sheet: 6251396950261760
+Google sheet: 6300746493591552
+Row: []
+Google sheet: 6339119979560960
+Not 16-digit: 
+Google sheet: 4654697962143744
+Google sheet: 5037954671181824
+Google sheet: 6540877511131136
+Row: ['星期三', 44482]
+Google sheet: 6203475852656640
+Row: ['星期五', 44484]
+Row: []
+Row: []
+Row: []
+Google sheet: 5399732349435904
+Google sheet: 4879887392440320
+Row: []
+Google sheet: 6455036214378496
+Google sheet: 5069810024185856
+Google sheet: 4628933896175616
+Not 16-digit: 
+Not 16-digit: 
+Google sheet: 5516556500074496
+Google sheet: 6661709671563264
+Google sheet: 6572424213692416
+Google sheet: 4825763590307840
+Google sheet: 6679809938817024
+Google sheet: 4794408282226688
+Google sheet: 6677111793385472
+Google sheet: 4818618241122304
+Google sheet: 6501688048484352
+Row: []
+Google sheet: 6436921350946816
+Google sheet: 4752113054908416
+Row: []
+Google sheet: 4918759698595840
+Google sheet: 6308238694940672
+Google sheet: 5713580071714816
+Google sheet: 5311026124947456
+Google sheet: 5808440262918144
+Row: ['星期一', '18/10']
+Google sheet: 4831998439981056
+Google sheet: 6300076109594624
+Google sheet: 5729282925133824
+Google sheet: 5076619980046336
+Google sheet: 4950922393419776
+Google sheet: 4899088043737088
+Row: []
+Google sheet: 5782037958098944
+Row: []
+Google sheet: 4827032300158976
+Row: []
+Row: ['星期二', '19/10']
+Row: []
+Google sheet: 4632989922361344
+Google sheet: 6637669263212544
+Google sheet: 4994862928756736
+Row: ['星期四', 44490]
+Row: ['星期五', 44491]
+Row: ['星期六', 44492]
+Row: []
+Google sheet: 5927577270222848
+Google sheet: 6588391895465984
+Google sheet: 5160132465000448
+Google sheet: 6209691123318784
+Google sheet: 6503894252388352
+Google sheet: 5706867490816000
+Google sheet: 4508377267961856
+Google sheet: 4658142777573376
+Google sheet: 4896408990777344
+Google sheet: 6051713183252480
+Google sheet: 5442862645903360
+Google sheet: 4584385035763712
+Google sheet: 5839693599080448
+Google sheet: 6648962745499648
+Row: []
+Not 16-digit: 
+Google sheet: 6040039529250816
+Google sheet: 5238462702813184
+Google sheet: 5349219004186624
+Google sheet: 5662563107995648
+Google sheet: 6663086812561408
+Google sheet: 6425809263919104
+Google sheet: 5041859601760256
+Google sheet: 5982196788756480
+Google sheet: 5304733880418304
+Google sheet: 5866591284756480
+Google sheet: 6089734297354240
+Google sheet: 5357146775617536
+Google sheet: 5787725971193856
+Google sheet: 6594871927373824
+Row: []
+Google sheet: 4948688188342272
+Row: []
+Google sheet: 5227273138601984
+Google sheet: 5814914288582656
+Google sheet: 5860376483856384
+Google sheet: 5228996007690240
+Google sheet: 5639581409083392
+Google sheet: 5918087070220288
+Google sheet: 5637328967172096
+Google sheet: 6613313711636480
+Google sheet: 6317895039713280
+Google sheet: 4817584395517952
+Google sheet: 5514633764012032
+Google sheet: 5994261418999808
+Google sheet: 6680078156169216
+Row: ['星期三', '27/10']
+Row: ['星期四', '28/10']
+Google sheet: 4829627668365312
+Row: ['星期五', '29/10']
+Google sheet: 4961547672748032
+Google sheet: 4508923668332544
+Google sheet: 4812230366461952
+Google sheet: 4730335876218880
+Google sheet: 5305403358445568
+Google sheet: 5626968348426240
+Row: []
+Google sheet: 5104437073936384
+Not 16-digit: 
+Not 16-digit: 
+Google sheet: 5968392159887360
+Google sheet: 6659538615926784
+Google sheet: 5739764658601984
+Google sheet: 5652956591554560
+Google sheet: 6619498447765504
+Google sheet: 5272406802432000
+Google sheet: 5809717864693760
+Google sheet: 6449028377214976
+Google sheet: 4861213730275328
+Google sheet: 6581098302799872
+Google sheet: 6670567555072000
+Google sheet: 5687684019388416
+Row: ['星期三', 44503]
+Row: ['星期四', 44504]
+Row: ['星期五', 44505]
+Google sheet: 5151254012624896
+Row: ['星期日', 44507]
+Google sheet: 5863633478352896
+Google sheet: 5486885708365824
+Row: ['星期三', 44510]
+Row: ['星期四', 44511]
+Google sheet: 5762126271610880
+Row: ['星期六', 44513]
+Row: ['星期日', 44514]
+Row: ['星期一', 44515]
+Row: ['星期二', 44516]
+Row: ['星期三', 44517]
+Row: ['星期四', 44518]
+Row: ['星期五', 44519]
+Row: ['星期六', 44520]
+Row: ['星期日', 44521]
+Row: ['星期一', 44522]
+Row: ['星期二', 44523]
+Row: ['星期三', 44524]
+Row: ['星期四', 44525]
+Row: ['星期五', 44526]
+Row: ['星期六', 44527]
+Row: ['星期日', 44528]
+Row: ['星期一', 44529]
+Row: ['星期二', 44530]
+Google sheet: 18 cells appended.
+Have new order, please check the google sheet "to_add" tab.
+--Check order list End--
+
+
+
+
+
+-----2021-10-30 20:56:03-----
+
+--Check order list Start--
+[CMS 1]: 5677257248079872
+[CMS 2]: 6619498447765504
+[CMS 3]: 6581098302799872
+[CMS 4]: 5608960439746560
+[CMS 5]: 6449028377214976
+[CMS 6]: 5809717864693760
+[CMS 7]: 4730335876218880
+[CMS 8]: 5272406802432000
+[CMS 9]: 4508923668332544
+[CMS 10]: 4861213730275328
+[CMS 11]: 5652956591554560
+[CMS 12]: 4965516541296640
+[CMS 13]: 5863633478352896
+[CMS 14]: 5151254012624896
+[CMS 15]: 5486885708365824
+[CMS 16]: 4961547672748032
+[CMS 17]: 5687684019388416
+[CMS 18]: 5968392159887360
+[CMS 19]: 6050044387131392
+[CMS 20]: 6680078156169216
+[CMS 21]: 5994261418999808
+[CMS 22]: 5739764658601984
+[CMS 23]: 6659538615926784
+[CMS 24]: 5626968348426240
+[CMS 25]: 5514633764012032
+[CMS 26]: 4812230366461952
+[CMS 27]: 4817584395517952
+[CMS 28]: 5639581409083392
+[CMS 29]: 5305403358445568
+[CMS 30]: 5918087070220288
+[CMS 31]: 4829627668365312
+[CMS 32]: 5104437073936384
+[CMS 33]: 5138385502076928
+[CMS 34]: 5982117935841280
+[CMS 35]: 6317895039713280
+[CMS 36]: 5866591284756480
+[CMS 37]: 6594871927373824
+[CMS 38]: 4948688188342272
+[CMS 39]: 5227273138601984
+[CMS 40]: 5787725971193856
+[CMS 41]: 5357146775617536
+[CMS 42]: 6051713183252480
+[CMS 43]: 6648962745499648
+[CMS 44]: 4584385035763712
+[CMS 45]: 6089734297354240
+[CMS 46]: 5442862645903360
+[CMS 47]: 5982196788756480
+[CMS 48]: 5762126271610880
+[CMS 49]: 5839693599080448
+[CMS 50]: 5927577270222848
+[CMS 51]: 5160132465000448
+[CMS 52]: 6209691123318784
+[CMS 53]: 6503894252388352
+[CMS 54]: 5706867490816000
+[CMS 55]: 4508377267961856
+[CMS 56]: 4658142777573376
+[CMS 57]: 4896408990777344
+[CMS 58]: 6670567555072000
+[CMS 59]: 6613313711636480
+[CMS 60]: 5304733880418304
+[CMS 61]: 5662563107995648
+[CMS 62]: 6663086812561408
+[CMS 63]: 6425809263919104
+[CMS 64]: 6588391895465984
+[CMS 65]: 5041859601760256
+[CMS 66]: 5637328967172096
+[CMS 67]: 5349219004186624
+[CMS 68]: 6637669263212544
+[CMS 69]: 4827032300158976
+[CMS 70]: 4994862928756736
+[CMS 71]: 5782037958098944
+[CMS 72]: 5228996007690240
+[CMS 73]: 4741899958222848
+[CMS 74]: 4899088043737088
+[CMS 75]: 4831998439981056
+[CMS 76]: 6501688048484352
+[CMS 77]: 5713580071714816
+[CMS 78]: 5808440262918144
+[CMS 79]: 5311026124947456
+[CMS 80]: 5431269119885312
+[CMS 81]: 4818618241122304
+[CMS 82]: 6572424213692416
+[CMS 83]: 6661709671563264
+[CMS 84]: 4918759698595840
+[CMS 85]: 4632989922361344
+[CMS 86]: 4950922393419776
+[CMS 87]: 5860376483856384
+[CMS 88]: 6430086480920576
+[CMS 89]: 5516556500074496
+[CMS 90]: 6423512312053760
+[CMS 91]: 5238462702813184
+[CMS 92]: 4752113054908416
+[CMS 93]: 5076619980046336
+[CMS 94]: 6436921350946816
+[CMS 95]: 5729282925133824
+[CMS 96]: 4702596544724992
+[CMS 97]: 5849138064392192
+[CMS 98]: 5069810024185856
+[CMS 99]: 6679809938817024
+[CMS 100]: 6040039529250816
+Range names: to_add, 10月, 11月
+Not 16-digit: .
+Google sheet: 5608960439746560
+Google sheet: 5677257248079872
+Not 16-digit: 
+Row: ['星期五', 44470]
+Row: ['星期六', 44471]
+Google sheet: 5655214318288896
+Google sheet: 6048836234641408
+Google sheet: 5986385824710656
+Google sheet: 5037952599195648
+Google sheet: 5686250087514112
+Google sheet: 5898785537523712
+Google sheet: 5618839007133696
+Google sheet: 6534730070753280
+Row: []
+Google sheet: 4842217542909952
+Row: []
+Google sheet: 6719367023820800
+Google sheet: 5349292387729408
+Google sheet: 6639612568141824
+Google sheet: 5323029535129600
+Google sheet: 5090349144997888
+Google sheet: 6069423178907648
+Google sheet: 4933733699420160
+Google sheet: 4778501367529472
+Google sheet: 4575978727800832
+Google sheet: 6126380820594688
+Row: []
+Google sheet: 6742520185880576
+Google sheet: 4832769889927168
+Google sheet: 4844577660993536
+Google sheet: 5967335967031296
+Google sheet: 5702382186004480
+Google sheet: 5623408181248000
+Google sheet: 5060098952134656
+Google sheet: 5249194685235200
+Google sheet: 5439671250321408
+Google sheet: 4982564893884416
+Google sheet: 6048639496617984
+Google sheet: 4691712829161472
+Google sheet: 5613066092937216
+Row: ['星期六', 44478]
+Row: []
+Google sheet: 5495923376521216
+Google sheet: 6137103944646656
+Google sheet: 4772984314265600
+Google sheet: 4872890085408768
+Google sheet: 5972882556583936
+Google sheet: 4573637467308032
+Google sheet: 4839188953432064
+Google sheet: 4700881477042176
+Google sheet: 4855174486163456
+Google sheet: 5221617270652928
+Google sheet: 5144428252626944
+Google sheet: 5689830387351552
+Google sheet: 4535135635636224
+Google sheet: 6042337680687104
+Google sheet: 6673013689942016
+Google sheet: 6194982152175616
+Google sheet: 5855998200905728
+Google sheet: 6251396950261760
+Google sheet: 6300746493591552
+Row: []
+Google sheet: 6339119979560960
+Not 16-digit: 
+Google sheet: 4654697962143744
+Google sheet: 5037954671181824
+Google sheet: 6540877511131136
+Row: ['星期三', 44482]
+Google sheet: 6203475852656640
+Row: ['星期五', 44484]
+Row: []
+Row: []
+Row: []
+Google sheet: 5399732349435904
+Google sheet: 4879887392440320
+Row: []
+Google sheet: 6455036214378496
+Google sheet: 5069810024185856
+Google sheet: 4628933896175616
+Not 16-digit: 
+Not 16-digit: 
+Google sheet: 5516556500074496
+Google sheet: 6661709671563264
+Google sheet: 6572424213692416
+Google sheet: 4825763590307840
+Google sheet: 6679809938817024
+Google sheet: 4794408282226688
+Google sheet: 6677111793385472
+Google sheet: 4818618241122304
+Google sheet: 6501688048484352
+Row: []
+Google sheet: 6436921350946816
+Google sheet: 4752113054908416
+Row: []
+Google sheet: 4918759698595840
+Google sheet: 6308238694940672
+Google sheet: 5713580071714816
+Google sheet: 5311026124947456
+Google sheet: 5808440262918144
+Row: ['星期一', '18/10']
+Google sheet: 4831998439981056
+Google sheet: 6300076109594624
+Google sheet: 5729282925133824
+Google sheet: 5076619980046336
+Google sheet: 4950922393419776
+Google sheet: 4899088043737088
+Row: []
+Google sheet: 5782037958098944
+Row: []
+Google sheet: 4827032300158976
+Row: []
+Row: ['星期二', '19/10']
+Row: []
+Google sheet: 4632989922361344
+Google sheet: 6637669263212544
+Google sheet: 4994862928756736
+Row: ['星期四', 44490]
+Row: ['星期五', 44491]
+Row: ['星期六', 44492]
+Row: []
+Google sheet: 5927577270222848
+Google sheet: 6588391895465984
+Google sheet: 5160132465000448
+Google sheet: 6209691123318784
+Google sheet: 6503894252388352
+Google sheet: 5706867490816000
+Google sheet: 4508377267961856
+Google sheet: 4658142777573376
+Google sheet: 4896408990777344
+Google sheet: 6051713183252480
+Google sheet: 5442862645903360
+Google sheet: 4584385035763712
+Google sheet: 5839693599080448
+Google sheet: 6648962745499648
+Row: []
+Not 16-digit: 
+Google sheet: 6040039529250816
+Google sheet: 5238462702813184
+Google sheet: 5349219004186624
+Google sheet: 5662563107995648
+Google sheet: 6663086812561408
+Google sheet: 6425809263919104
+Google sheet: 5041859601760256
+Google sheet: 5982196788756480
+Google sheet: 5304733880418304
+Google sheet: 5866591284756480
+Google sheet: 6089734297354240
+Google sheet: 5357146775617536
+Google sheet: 5787725971193856
+Google sheet: 6594871927373824
+Row: []
+Google sheet: 4948688188342272
+Row: []
+Google sheet: 5227273138601984
+Google sheet: 5814914288582656
+Google sheet: 5860376483856384
+Google sheet: 5228996007690240
+Google sheet: 5639581409083392
+Google sheet: 5918087070220288
+Google sheet: 5637328967172096
+Google sheet: 6613313711636480
+Google sheet: 6317895039713280
+Google sheet: 4817584395517952
+Google sheet: 5514633764012032
+Google sheet: 5994261418999808
+Google sheet: 6680078156169216
+Row: ['星期三', '27/10']
+Row: ['星期四', '28/10']
+Google sheet: 4829627668365312
+Row: ['星期五', '29/10']
+Google sheet: 4961547672748032
+Google sheet: 4508923668332544
+Google sheet: 4812230366461952
+Google sheet: 4730335876218880
+Google sheet: 5305403358445568
+Google sheet: 5626968348426240
+Row: []
+Google sheet: 5104437073936384
+Not 16-digit: 
+Not 16-digit: 
+Google sheet: 5968392159887360
+Google sheet: 6659538615926784
+Google sheet: 5739764658601984
+Google sheet: 5652956591554560
+Google sheet: 6619498447765504
+Google sheet: 5272406802432000
+Google sheet: 5809717864693760
+Google sheet: 6449028377214976
+Google sheet: 4861213730275328
+Google sheet: 6581098302799872
+Google sheet: 6670567555072000
+Google sheet: 5687684019388416
+Row: ['星期三', 44503]
+Row: ['星期四', 44504]
+Row: ['星期五', 44505]
+Google sheet: 5151254012624896
+Row: ['星期日', 44507]
+Google sheet: 5863633478352896
+Google sheet: 5486885708365824
+Row: ['星期三', 44510]
+Row: ['星期四', 44511]
+Google sheet: 5762126271610880
+Row: ['星期六', 44513]
+Row: ['星期日', 44514]
+Row: ['星期一', 44515]
+Row: ['星期二', 44516]
+Row: ['星期三', 44517]
+Row: ['星期四', 44518]
+Row: ['星期五', 44519]
+Row: ['星期六', 44520]
+Row: ['星期日', 44521]
+Row: ['星期一', 44522]
+Row: ['星期二', 44523]
+Row: ['星期三', 44524]
+Row: ['星期四', 44525]
+Row: ['星期五', 44526]
+Row: ['星期六', 44527]
+Row: ['星期日', 44528]
+Row: ['星期一', 44529]
+Row: ['星期二', 44530]
+Google sheet: 0 cells appended.
+Do not have new order.
+--Check order list End--
+--Check order list Start--
+[CMS 1]: 5677257248079872
+[CMS 2]: 6619498447765504
+[CMS 3]: 6581098302799872
+[CMS 4]: 5608960439746560
+[CMS 5]: 6449028377214976
+[CMS 6]: 5809717864693760
+[CMS 7]: 4730335876218880
+[CMS 8]: 5272406802432000
+[CMS 9]: 4508923668332544
+[CMS 10]: 4861213730275328
+[CMS 11]: 5652956591554560
+[CMS 12]: 4965516541296640
+[CMS 13]: 5863633478352896
+[CMS 14]: 5151254012624896
+[CMS 15]: 5486885708365824
+[CMS 16]: 4961547672748032
+[CMS 17]: 5687684019388416
+[CMS 18]: 5968392159887360
+[CMS 19]: 6050044387131392
+[CMS 20]: 6680078156169216
+[CMS 21]: 5994261418999808
+[CMS 22]: 5739764658601984
+[CMS 23]: 6659538615926784
+[CMS 24]: 5626968348426240
+[CMS 25]: 5514633764012032
+[CMS 26]: 4812230366461952
+[CMS 27]: 4817584395517952
+[CMS 28]: 5639581409083392
+[CMS 29]: 5305403358445568
+[CMS 30]: 5918087070220288
+[CMS 31]: 4829627668365312
+[CMS 32]: 5104437073936384
+[CMS 33]: 5138385502076928
+[CMS 34]: 5982117935841280
+[CMS 35]: 6317895039713280
+[CMS 36]: 5866591284756480
+[CMS 37]: 6594871927373824
+[CMS 38]: 4948688188342272
+[CMS 39]: 5227273138601984
+[CMS 40]: 5787725971193856
+[CMS 41]: 5357146775617536
+[CMS 42]: 6051713183252480
+[CMS 43]: 6648962745499648
+[CMS 44]: 4584385035763712
+[CMS 45]: 6089734297354240
+[CMS 46]: 5442862645903360
+[CMS 47]: 5982196788756480
+[CMS 48]: 5762126271610880
+[CMS 49]: 5839693599080448
+[CMS 50]: 5927577270222848
+[CMS 51]: 5160132465000448
+[CMS 52]: 6209691123318784
+[CMS 53]: 6503894252388352
+[CMS 54]: 5706867490816000
+[CMS 55]: 4508377267961856
+[CMS 56]: 4658142777573376
+[CMS 57]: 4896408990777344
+[CMS 58]: 6670567555072000
+[CMS 59]: 6613313711636480
+[CMS 60]: 5304733880418304
+[CMS 61]: 5662563107995648
+[CMS 62]: 6663086812561408
+[CMS 63]: 6425809263919104
+[CMS 64]: 6588391895465984
+[CMS 65]: 5041859601760256
+[CMS 66]: 5637328967172096
+[CMS 67]: 5349219004186624
+[CMS 68]: 6637669263212544
+[CMS 69]: 4827032300158976
+[CMS 70]: 4994862928756736
+[CMS 71]: 5782037958098944
+[CMS 72]: 5228996007690240
+[CMS 73]: 4741899958222848
+[CMS 74]: 4899088043737088
+[CMS 75]: 4831998439981056
+[CMS 76]: 6501688048484352
+[CMS 77]: 5713580071714816
+[CMS 78]: 5808440262918144
+[CMS 79]: 5311026124947456
+[CMS 80]: 5431269119885312
+[CMS 81]: 4818618241122304
+[CMS 82]: 6572424213692416
+[CMS 83]: 6661709671563264
+[CMS 84]: 4918759698595840
+[CMS 85]: 4632989922361344
+[CMS 86]: 4950922393419776
+[CMS 87]: 5860376483856384
+[CMS 88]: 6430086480920576
+[CMS 89]: 5516556500074496
+[CMS 90]: 6423512312053760
+[CMS 91]: 5238462702813184
+[CMS 92]: 4752113054908416
+[CMS 93]: 5076619980046336
+[CMS 94]: 6436921350946816
+[CMS 95]: 5729282925133824
+[CMS 96]: 4702596544724992
+[CMS 97]: 5849138064392192
+[CMS 98]: 5069810024185856
+[CMS 99]: 6679809938817024
+[CMS 100]: 6040039529250816
+Range names: to_add, 10月, 11月
+Not 16-digit: .
+Not 16-digit: 
+Row: ['星期五', 44470]
+Row: ['星期六', 44471]
+Google sheet: 5655214318288896
+Google sheet: 6048836234641408
+Google sheet: 5986385824710656
+Google sheet: 5037952599195648
+Google sheet: 5686250087514112
+Google sheet: 5898785537523712
+Google sheet: 5618839007133696
+Google sheet: 6534730070753280
+Row: []
+Google sheet: 4842217542909952
+Row: []
+Google sheet: 6719367023820800
+Google sheet: 5349292387729408
+Google sheet: 6639612568141824
+Google sheet: 5323029535129600
+Google sheet: 5090349144997888
+Google sheet: 6069423178907648
+Google sheet: 4933733699420160
+Google sheet: 4778501367529472
+Google sheet: 4575978727800832
+Google sheet: 6126380820594688
+Row: []
+Google sheet: 6742520185880576
+Google sheet: 4832769889927168
+Google sheet: 4844577660993536
+Google sheet: 5967335967031296
+Google sheet: 5702382186004480
+Google sheet: 5623408181248000
+Google sheet: 5060098952134656
+Google sheet: 5249194685235200
+Google sheet: 5439671250321408
+Google sheet: 4982564893884416
+Google sheet: 6048639496617984
+Google sheet: 4691712829161472
+Google sheet: 5613066092937216
+Row: ['星期六', 44478]
+Row: []
+Google sheet: 5495923376521216
+Google sheet: 6137103944646656
+Google sheet: 4772984314265600
+Google sheet: 4872890085408768
+Google sheet: 5972882556583936
+Google sheet: 4573637467308032
+Google sheet: 4839188953432064
+Google sheet: 4700881477042176
+Google sheet: 4855174486163456
+Google sheet: 5221617270652928
+Google sheet: 5144428252626944
+Google sheet: 5689830387351552
+Google sheet: 4535135635636224
+Google sheet: 6042337680687104
+Google sheet: 6673013689942016
+Google sheet: 6194982152175616
+Google sheet: 5855998200905728
+Google sheet: 6251396950261760
+Google sheet: 6300746493591552
+Row: []
+Google sheet: 6339119979560960
+Not 16-digit: 
+Google sheet: 4654697962143744
+Google sheet: 5037954671181824
+Google sheet: 6540877511131136
+Row: ['星期三', 44482]
+Google sheet: 6203475852656640
+Row: ['星期五', 44484]
+Row: []
+Row: []
+Row: []
+Google sheet: 5399732349435904
+Google sheet: 4879887392440320
+Row: []
+Google sheet: 6455036214378496
+Google sheet: 5069810024185856
+Google sheet: 4628933896175616
+Not 16-digit: 
+Not 16-digit: 
+Google sheet: 5516556500074496
+Google sheet: 6661709671563264
+Google sheet: 6572424213692416
+Google sheet: 4825763590307840
+Google sheet: 6679809938817024
+Google sheet: 4794408282226688
+Google sheet: 6677111793385472
+Google sheet: 4818618241122304
+Google sheet: 6501688048484352
+Row: []
+Google sheet: 6436921350946816
+Google sheet: 4752113054908416
+Row: []
+Google sheet: 4918759698595840
+Google sheet: 6308238694940672
+Google sheet: 5713580071714816
+Google sheet: 5311026124947456
+Google sheet: 5808440262918144
+Row: ['星期一', '18/10']
+Google sheet: 4831998439981056
+Google sheet: 6300076109594624
+Google sheet: 5729282925133824
+Google sheet: 5076619980046336
+Google sheet: 4950922393419776
+Google sheet: 4899088043737088
+Row: []
+Google sheet: 5782037958098944
+Row: []
+Google sheet: 4827032300158976
+Row: []
+Row: ['星期二', '19/10']
+Row: []
+Google sheet: 4632989922361344
+Google sheet: 6637669263212544
+Google sheet: 4994862928756736
+Row: ['星期四', 44490]
+Row: ['星期五', 44491]
+Row: ['星期六', 44492]
+Row: []
+Google sheet: 5927577270222848
+Google sheet: 6588391895465984
+Google sheet: 5160132465000448
+Google sheet: 6209691123318784
+Google sheet: 6503894252388352
+Google sheet: 5706867490816000
+Google sheet: 4508377267961856
+Google sheet: 4658142777573376
+Google sheet: 4896408990777344
+Google sheet: 6051713183252480
+Google sheet: 5442862645903360
+Google sheet: 4584385035763712
+Google sheet: 5839693599080448
+Google sheet: 6648962745499648
+Row: []
+Not 16-digit: 
+Google sheet: 6040039529250816
+Google sheet: 5238462702813184
+Google sheet: 5349219004186624
+Google sheet: 5662563107995648
+Google sheet: 6663086812561408
+Google sheet: 6425809263919104
+Google sheet: 5041859601760256
+Google sheet: 5982196788756480
+Google sheet: 5304733880418304
+Google sheet: 5866591284756480
+Google sheet: 6089734297354240
+Google sheet: 5357146775617536
+Google sheet: 5787725971193856
+Google sheet: 6594871927373824
+Row: []
+Google sheet: 4948688188342272
+Row: []
+Google sheet: 5227273138601984
+Google sheet: 5814914288582656
+Google sheet: 5860376483856384
+Google sheet: 5228996007690240
+Google sheet: 5639581409083392
+Google sheet: 5918087070220288
+Google sheet: 5637328967172096
+Google sheet: 6613313711636480
+Google sheet: 6317895039713280
+Google sheet: 4817584395517952
+Google sheet: 5514633764012032
+Google sheet: 5994261418999808
+Google sheet: 6680078156169216
+Row: ['星期三', '27/10']
+Row: ['星期四', '28/10']
+Google sheet: 4829627668365312
+Row: ['星期五', '29/10']
+Google sheet: 4961547672748032
+Google sheet: 4508923668332544
+Google sheet: 4812230366461952
+Google sheet: 4730335876218880
+Google sheet: 5305403358445568
+Google sheet: 5626968348426240
+Row: []
+Google sheet: 5104437073936384
+Not 16-digit: 
+Not 16-digit: 
+Google sheet: 5968392159887360
+Google sheet: 6659538615926784
+Google sheet: 5739764658601984
+Google sheet: 5652956591554560
+Google sheet: 6619498447765504
+Google sheet: 5272406802432000
+Google sheet: 5809717864693760
+Google sheet: 6449028377214976
+Google sheet: 4861213730275328
+Google sheet: 6581098302799872
+Google sheet: 6670567555072000
+Google sheet: 5687684019388416
+Row: ['星期三', 44503]
+Row: ['星期四', 44504]
+Row: ['星期五', 44505]
+Google sheet: 5151254012624896
+Row: ['星期日', 44507]
+Google sheet: 5863633478352896
+Google sheet: 5486885708365824
+Row: ['星期三', 44510]
+Row: ['星期四', 44511]
+Google sheet: 5762126271610880
+Row: ['星期六', 44513]
+Row: ['星期日', 44514]
+Row: ['星期一', 44515]
+Row: ['星期二', 44516]
+Row: ['星期三', 44517]
+Row: ['星期四', 44518]
+Row: ['星期五', 44519]
+Row: ['星期六', 44520]
+Row: ['星期日', 44521]
+Row: ['星期一', 44522]
+Row: ['星期二', 44523]
+Row: ['星期三', 44524]
+Row: ['星期四', 44525]
+Row: ['星期五', 44526]
+Row: ['星期六', 44527]
+Row: ['星期日', 44528]
+Row: ['星期一', 44529]
+Row: ['星期二', 44530]
+Google sheet: 18 cells appended.
+Have new order, please check the google sheet "to_add" tab.
+--Check order list End--
+
+
+
+
+
+-----2021-10-30 21:11:53-----
+
+--Check order list Start--
+[CMS 1]: 5677257248079872
+[CMS 2]: 6619498447765504
+[CMS 3]: 6581098302799872
+[CMS 4]: 5608960439746560
+[CMS 5]: 6449028377214976
+[CMS 6]: 5809717864693760
+[CMS 7]: 4730335876218880
+[CMS 8]: 5272406802432000
+[CMS 9]: 4508923668332544
+[CMS 10]: 4861213730275328
+[CMS 11]: 5652956591554560
+[CMS 12]: 4965516541296640
+[CMS 13]: 5863633478352896
+[CMS 14]: 5151254012624896
+[CMS 15]: 5486885708365824
+[CMS 16]: 4961547672748032
+[CMS 17]: 5687684019388416
+[CMS 18]: 5968392159887360
+[CMS 19]: 6050044387131392
+[CMS 20]: 6680078156169216
+[CMS 21]: 5994261418999808
+[CMS 22]: 5739764658601984
+[CMS 23]: 6659538615926784
+[CMS 24]: 5626968348426240
+[CMS 25]: 5514633764012032
+[CMS 26]: 4812230366461952
+[CMS 27]: 4817584395517952
+[CMS 28]: 5639581409083392
+[CMS 29]: 5305403358445568
+[CMS 30]: 5918087070220288
+[CMS 31]: 4829627668365312
+[CMS 32]: 5104437073936384
+[CMS 33]: 5138385502076928
+[CMS 34]: 5982117935841280
+[CMS 35]: 6317895039713280
+[CMS 36]: 5866591284756480
+[CMS 37]: 6594871927373824
+[CMS 38]: 4948688188342272
+[CMS 39]: 5227273138601984
+[CMS 40]: 5787725971193856
+[CMS 41]: 5357146775617536
+[CMS 42]: 6051713183252480
+[CMS 43]: 6648962745499648
+[CMS 44]: 4584385035763712
+[CMS 45]: 6089734297354240
+[CMS 46]: 5442862645903360
+[CMS 47]: 5982196788756480
+[CMS 48]: 5762126271610880
+[CMS 49]: 5839693599080448
+[CMS 50]: 5927577270222848
+[CMS 51]: 5160132465000448
+[CMS 52]: 6209691123318784
+[CMS 53]: 6503894252388352
+[CMS 54]: 5706867490816000
+[CMS 55]: 4508377267961856
+[CMS 56]: 4658142777573376
+[CMS 57]: 4896408990777344
+[CMS 58]: 6670567555072000
+[CMS 59]: 6613313711636480
+[CMS 60]: 5304733880418304
+[CMS 61]: 5662563107995648
+[CMS 62]: 6663086812561408
+[CMS 63]: 6425809263919104
+[CMS 64]: 6588391895465984
+[CMS 65]: 5041859601760256
+[CMS 66]: 5637328967172096
+[CMS 67]: 5349219004186624
+[CMS 68]: 6637669263212544
+[CMS 69]: 4827032300158976
+[CMS 70]: 4994862928756736
+[CMS 71]: 5782037958098944
+[CMS 72]: 5228996007690240
+[CMS 73]: 4741899958222848
+[CMS 74]: 4899088043737088
+[CMS 75]: 4831998439981056
+[CMS 76]: 6501688048484352
+[CMS 77]: 5713580071714816
+[CMS 78]: 5808440262918144
+[CMS 79]: 5311026124947456
+[CMS 80]: 5431269119885312
+[CMS 81]: 4818618241122304
+[CMS 82]: 6572424213692416
+[CMS 83]: 6661709671563264
+[CMS 84]: 4918759698595840
+[CMS 85]: 4632989922361344
+[CMS 86]: 4950922393419776
+[CMS 87]: 5860376483856384
+[CMS 88]: 6430086480920576
+[CMS 89]: 5516556500074496
+[CMS 90]: 6423512312053760
+[CMS 91]: 5238462702813184
+[CMS 92]: 4752113054908416
+[CMS 93]: 5076619980046336
+[CMS 94]: 6436921350946816
+[CMS 95]: 5729282925133824
+[CMS 96]: 4702596544724992
+[CMS 97]: 5849138064392192
+[CMS 98]: 5069810024185856
+[CMS 99]: 6679809938817024
+[CMS 100]: 6040039529250816
+Range names: to_add, 10月, 11月
+Not 16-digit: .
+Not 16-digit: 
+Row: ['星期五', 44470]
+Row: ['星期六', 44471]
+Google sheet: 5655214318288896
+Google sheet: 6048836234641408
+Google sheet: 5986385824710656
+Google sheet: 5037952599195648
+Google sheet: 5686250087514112
+Google sheet: 5898785537523712
+Google sheet: 5618839007133696
+Google sheet: 6534730070753280
+Row: []
+Google sheet: 4842217542909952
+Row: []
+Google sheet: 6719367023820800
+Google sheet: 5349292387729408
+Google sheet: 6639612568141824
+Google sheet: 5323029535129600
+Google sheet: 5090349144997888
+Google sheet: 6069423178907648
+Google sheet: 4933733699420160
+Google sheet: 4778501367529472
+Google sheet: 4575978727800832
+Google sheet: 6126380820594688
+Row: []
+Google sheet: 6742520185880576
+Google sheet: 4832769889927168
+Google sheet: 4844577660993536
+Google sheet: 5967335967031296
+Google sheet: 5702382186004480
+Google sheet: 5623408181248000
+Google sheet: 5060098952134656
+Google sheet: 5249194685235200
+Google sheet: 5439671250321408
+Google sheet: 4982564893884416
+Google sheet: 6048639496617984
+Google sheet: 4691712829161472
+Google sheet: 5613066092937216
+Row: ['星期六', 44478]
+Row: []
+Google sheet: 5495923376521216
+Google sheet: 6137103944646656
+Google sheet: 4772984314265600
+Google sheet: 4872890085408768
+Google sheet: 5972882556583936
+Google sheet: 4573637467308032
+Google sheet: 4839188953432064
+Google sheet: 4700881477042176
+Google sheet: 4855174486163456
+Google sheet: 5221617270652928
+Google sheet: 5144428252626944
+Google sheet: 5689830387351552
+Google sheet: 4535135635636224
+Google sheet: 6042337680687104
+Google sheet: 6673013689942016
+Google sheet: 6194982152175616
+Google sheet: 5855998200905728
+Google sheet: 6251396950261760
+Google sheet: 6300746493591552
+Row: []
+Google sheet: 6339119979560960
+Not 16-digit: 
+Google sheet: 4654697962143744
+Google sheet: 5037954671181824
+Google sheet: 6540877511131136
+Row: ['星期三', 44482]
+Google sheet: 6203475852656640
+Row: ['星期五', 44484]
+Row: []
+Row: []
+Row: []
+Google sheet: 5399732349435904
+Google sheet: 4879887392440320
+Row: []
+Google sheet: 6455036214378496
+Google sheet: 5069810024185856
+Google sheet: 4628933896175616
+Not 16-digit: 
+Not 16-digit: 
+Google sheet: 5516556500074496
+Google sheet: 6661709671563264
+Google sheet: 6572424213692416
+Google sheet: 4825763590307840
+Google sheet: 6679809938817024
+Google sheet: 4794408282226688
+Google sheet: 6677111793385472
+Google sheet: 4818618241122304
+Google sheet: 6501688048484352
+Row: []
+Google sheet: 6436921350946816
+Google sheet: 4752113054908416
+Row: []
+Google sheet: 4918759698595840
+Google sheet: 6308238694940672
+Google sheet: 5713580071714816
+Google sheet: 5311026124947456
+Google sheet: 5808440262918144
+Row: ['星期一', '18/10']
+Google sheet: 4831998439981056
+Google sheet: 6300076109594624
+Google sheet: 5729282925133824
+Google sheet: 5076619980046336
+Google sheet: 4950922393419776
+Google sheet: 4899088043737088
+Row: []
+Google sheet: 5782037958098944
+Row: []
+Google sheet: 4827032300158976
+Row: []
+Row: ['星期二', '19/10']
+Row: []
+Google sheet: 4632989922361344
+Google sheet: 6637669263212544
+Google sheet: 4994862928756736
+Row: ['星期四', 44490]
+Row: ['星期五', 44491]
+Row: ['星期六', 44492]
+Row: []
+Google sheet: 5927577270222848
+Google sheet: 6588391895465984
+Google sheet: 5160132465000448
+Google sheet: 6209691123318784
+Google sheet: 6503894252388352
+Google sheet: 5706867490816000
+Google sheet: 4508377267961856
+Google sheet: 4658142777573376
+Google sheet: 4896408990777344
+Google sheet: 6051713183252480
+Google sheet: 5442862645903360
+Google sheet: 4584385035763712
+Google sheet: 5839693599080448
+Google sheet: 6648962745499648
+Row: []
+Not 16-digit: 
+Google sheet: 6040039529250816
+Google sheet: 5238462702813184
+Google sheet: 5349219004186624
+Google sheet: 5662563107995648
+Google sheet: 6663086812561408
+Google sheet: 6425809263919104
+Google sheet: 5041859601760256
+Google sheet: 5982196788756480
+Google sheet: 5304733880418304
+Google sheet: 5866591284756480
+Google sheet: 6089734297354240
+Google sheet: 5357146775617536
+Google sheet: 5787725971193856
+Google sheet: 6594871927373824
+Row: []
+Google sheet: 4948688188342272
+Row: []
+Google sheet: 5227273138601984
+Google sheet: 5814914288582656
+Google sheet: 5860376483856384
+Google sheet: 5228996007690240
+Google sheet: 5639581409083392
+Google sheet: 5918087070220288
+Google sheet: 5637328967172096
+Google sheet: 6613313711636480
+Google sheet: 6317895039713280
+Google sheet: 4817584395517952
+Google sheet: 5514633764012032
+Google sheet: 5994261418999808
+Google sheet: 6680078156169216
+Row: ['星期三', '27/10']
+Row: ['星期四', '28/10']
+Google sheet: 4829627668365312
+Row: ['星期五', '29/10']
+Google sheet: 4961547672748032
+Google sheet: 4508923668332544
+Google sheet: 4812230366461952
+Google sheet: 4730335876218880
+Google sheet: 5305403358445568
+Google sheet: 5626968348426240
+Row: []
+Google sheet: 5104437073936384
+Not 16-digit: 
+Not 16-digit: 
+Google sheet: 5968392159887360
+Google sheet: 6659538615926784
+Google sheet: 5739764658601984
+Google sheet: 5652956591554560
+Google sheet: 6619498447765504
+Google sheet: 5272406802432000
+Google sheet: 5809717864693760
+Google sheet: 6449028377214976
+Google sheet: 4861213730275328
+Google sheet: 6581098302799872
+Google sheet: 6670567555072000
+Google sheet: 5687684019388416
+Row: ['星期三', 44503]
+Row: ['星期四', 44504]
+Row: ['星期五', 44505]
+Google sheet: 5151254012624896
+Row: ['星期日', 44507]
+Google sheet: 5863633478352896
+Google sheet: 5486885708365824
+Row: ['星期三', 44510]
+Row: ['星期四', 44511]
+Google sheet: 5762126271610880
+Row: ['星期六', 44513]
+Row: ['星期日', 44514]
+Row: ['星期一', 44515]
+Row: ['星期二', 44516]
+Row: ['星期三', 44517]
+Row: ['星期四', 44518]
+Row: ['星期五', 44519]
+Row: ['星期六', 44520]
+Row: ['星期日', 44521]
+Row: ['星期一', 44522]
+Row: ['星期二', 44523]
+Row: ['星期三', 44524]
+Row: ['星期四', 44525]
+Row: ['星期五', 44526]
+Row: ['星期六', 44527]
+Row: ['星期日', 44528]
+Row: ['星期一', 44529]
+Row: ['星期二', 44530]
+Google sheet: 18 cells appended.
+Have new order, please check the google sheet "to_add" tab.
+--Check order list End--
+
+
+
+
+
+-----2021-10-30 21:18:41-----
+
+--Check order list Start--
+[CMS 1]: 5677257248079872
+[CMS 2]: 6619498447765504
+[CMS 3]: 6581098302799872
+[CMS 4]: 5608960439746560
+[CMS 5]: 6449028377214976
+[CMS 6]: 5809717864693760
+[CMS 7]: 4730335876218880
+[CMS 8]: 5272406802432000
+[CMS 9]: 4508923668332544
+[CMS 10]: 4861213730275328
+[CMS 11]: 5652956591554560
+[CMS 12]: 4965516541296640
+[CMS 13]: 5863633478352896
+[CMS 14]: 5151254012624896
+[CMS 15]: 5486885708365824
+[CMS 16]: 4961547672748032
+[CMS 17]: 5687684019388416
+[CMS 18]: 5968392159887360
+[CMS 19]: 6050044387131392
+[CMS 20]: 6680078156169216
+[CMS 21]: 5994261418999808
+[CMS 22]: 5739764658601984
+[CMS 23]: 6659538615926784
+[CMS 24]: 5626968348426240
+[CMS 25]: 5514633764012032
+[CMS 26]: 4812230366461952
+[CMS 27]: 4817584395517952
+[CMS 28]: 5639581409083392
+[CMS 29]: 5305403358445568
+[CMS 30]: 5918087070220288
+[CMS 31]: 4829627668365312
+[CMS 32]: 5104437073936384
+[CMS 33]: 5138385502076928
+[CMS 34]: 5982117935841280
+[CMS 35]: 6317895039713280
+[CMS 36]: 5866591284756480
+[CMS 37]: 6594871927373824
+[CMS 38]: 4948688188342272
+[CMS 39]: 5227273138601984
+[CMS 40]: 5787725971193856
+[CMS 41]: 5357146775617536
+[CMS 42]: 6051713183252480
+[CMS 43]: 6648962745499648
+[CMS 44]: 4584385035763712
+[CMS 45]: 6089734297354240
+[CMS 46]: 5442862645903360
+[CMS 47]: 5982196788756480
+[CMS 48]: 5762126271610880
+[CMS 49]: 5839693599080448
+[CMS 50]: 5927577270222848
+[CMS 51]: 5160132465000448
+[CMS 52]: 6209691123318784
+[CMS 53]: 6503894252388352
+[CMS 54]: 5706867490816000
+[CMS 55]: 4508377267961856
+[CMS 56]: 4658142777573376
+[CMS 57]: 4896408990777344
+[CMS 58]: 6670567555072000
+[CMS 59]: 6613313711636480
+[CMS 60]: 5304733880418304
+[CMS 61]: 5662563107995648
+[CMS 62]: 6663086812561408
+[CMS 63]: 6425809263919104
+[CMS 64]: 6588391895465984
+[CMS 65]: 5041859601760256
+[CMS 66]: 5637328967172096
+[CMS 67]: 5349219004186624
+[CMS 68]: 6637669263212544
+[CMS 69]: 4827032300158976
+[CMS 70]: 4994862928756736
+[CMS 71]: 5782037958098944
+[CMS 72]: 5228996007690240
+[CMS 73]: 4741899958222848
+[CMS 74]: 4899088043737088
+[CMS 75]: 4831998439981056
+[CMS 76]: 6501688048484352
+[CMS 77]: 5713580071714816
+[CMS 78]: 5808440262918144
+[CMS 79]: 5311026124947456
+[CMS 80]: 5431269119885312
+[CMS 81]: 4818618241122304
+[CMS 82]: 6572424213692416
+[CMS 83]: 6661709671563264
+[CMS 84]: 4918759698595840
+[CMS 85]: 4632989922361344
+[CMS 86]: 4950922393419776
+[CMS 87]: 5860376483856384
+[CMS 88]: 6430086480920576
+[CMS 89]: 5516556500074496
+[CMS 90]: 6423512312053760
+[CMS 91]: 5238462702813184
+[CMS 92]: 4752113054908416
+[CMS 93]: 5076619980046336
+[CMS 94]: 6436921350946816
+[CMS 95]: 5729282925133824
+[CMS 96]: 4702596544724992
+[CMS 97]: 5849138064392192
+[CMS 98]: 5069810024185856
+[CMS 99]: 6679809938817024
+[CMS 100]: 6040039529250816
+Range names: to_add, 10月, 11月
+Not 16-digit: .
+Not 16-digit: 
+Row: ['星期五', 44470]
+Row: ['星期六', 44471]
+Google sheet: 5655214318288896
+Google sheet: 6048836234641408
+Google sheet: 5986385824710656
+Google sheet: 5037952599195648
+Google sheet: 5686250087514112
+Google sheet: 5898785537523712
+Google sheet: 5618839007133696
+Google sheet: 6534730070753280
+Row: []
+Google sheet: 4842217542909952
+Row: []
+Google sheet: 6719367023820800
+Google sheet: 5349292387729408
+Google sheet: 6639612568141824
+Google sheet: 5323029535129600
+Google sheet: 5090349144997888
+Google sheet: 6069423178907648
+Google sheet: 4933733699420160
+Google sheet: 4778501367529472
+Google sheet: 4575978727800832
+Google sheet: 6126380820594688
+Row: []
+Google sheet: 6742520185880576
+Google sheet: 4832769889927168
+Google sheet: 4844577660993536
+Google sheet: 5967335967031296
+Google sheet: 5702382186004480
+Google sheet: 5623408181248000
+Google sheet: 5060098952134656
+Google sheet: 5249194685235200
+Google sheet: 5439671250321408
+Google sheet: 4982564893884416
+Google sheet: 6048639496617984
+Google sheet: 4691712829161472
+Google sheet: 5613066092937216
+Row: ['星期六', 44478]
+Row: []
+Google sheet: 5495923376521216
+Google sheet: 6137103944646656
+Google sheet: 4772984314265600
+Google sheet: 4872890085408768
+Google sheet: 5972882556583936
+Google sheet: 4573637467308032
+Google sheet: 4839188953432064
+Google sheet: 4700881477042176
+Google sheet: 4855174486163456
+Google sheet: 5221617270652928
+Google sheet: 5144428252626944
+Google sheet: 5689830387351552
+Google sheet: 4535135635636224
+Google sheet: 6042337680687104
+Google sheet: 6673013689942016
+Google sheet: 6194982152175616
+Google sheet: 5855998200905728
+Google sheet: 6251396950261760
+Google sheet: 6300746493591552
+Row: []
+Google sheet: 6339119979560960
+Not 16-digit: 
+Google sheet: 4654697962143744
+Google sheet: 5037954671181824
+Google sheet: 6540877511131136
+Row: ['星期三', 44482]
+Google sheet: 6203475852656640
+Row: ['星期五', 44484]
+Row: []
+Row: []
+Row: []
+Google sheet: 5399732349435904
+Google sheet: 4879887392440320
+Row: []
+Google sheet: 6455036214378496
+Google sheet: 5069810024185856
+Google sheet: 4628933896175616
+Not 16-digit: 
+Not 16-digit: 
+Google sheet: 5516556500074496
+Google sheet: 6661709671563264
+Google sheet: 6572424213692416
+Google sheet: 4825763590307840
+Google sheet: 6679809938817024
+Google sheet: 4794408282226688
+Google sheet: 6677111793385472
+Google sheet: 4818618241122304
+Google sheet: 6501688048484352
+Row: []
+Google sheet: 6436921350946816
+Google sheet: 4752113054908416
+Row: []
+Google sheet: 4918759698595840
+Google sheet: 6308238694940672
+Google sheet: 5713580071714816
+Google sheet: 5311026124947456
+Google sheet: 5808440262918144
+Row: ['星期一', '18/10']
+Google sheet: 4831998439981056
+Google sheet: 6300076109594624
+Google sheet: 5729282925133824
+Google sheet: 5076619980046336
+Google sheet: 4950922393419776
+Google sheet: 4899088043737088
+Row: []
+Google sheet: 5782037958098944
+Row: []
+Google sheet: 4827032300158976
+Row: []
+Row: ['星期二', '19/10']
+Row: []
+Google sheet: 4632989922361344
+Google sheet: 6637669263212544
+Google sheet: 4994862928756736
+Row: ['星期四', 44490]
+Row: ['星期五', 44491]
+Row: ['星期六', 44492]
+Row: []
+Google sheet: 5927577270222848
+Google sheet: 6588391895465984
+Google sheet: 5160132465000448
+Google sheet: 6209691123318784
+Google sheet: 6503894252388352
+Google sheet: 5706867490816000
+Google sheet: 4508377267961856
+Google sheet: 4658142777573376
+Google sheet: 4896408990777344
+Google sheet: 6051713183252480
+Google sheet: 5442862645903360
+Google sheet: 4584385035763712
+Google sheet: 5839693599080448
+Google sheet: 6648962745499648
+Row: []
+Not 16-digit: 
+Google sheet: 6040039529250816
+Google sheet: 5238462702813184
+Google sheet: 5349219004186624
+Google sheet: 5662563107995648
+Google sheet: 6663086812561408
+Google sheet: 6425809263919104
+Google sheet: 5041859601760256
+Google sheet: 5982196788756480
+Google sheet: 5304733880418304
+Google sheet: 5866591284756480
+Google sheet: 6089734297354240
+Google sheet: 5357146775617536
+Google sheet: 5787725971193856
+Google sheet: 6594871927373824
+Row: []
+Google sheet: 4948688188342272
+Row: []
+Google sheet: 5227273138601984
+Google sheet: 5814914288582656
+Google sheet: 5860376483856384
+Google sheet: 5228996007690240
+Google sheet: 5639581409083392
+Google sheet: 5918087070220288
+Google sheet: 5637328967172096
+Google sheet: 6613313711636480
+Google sheet: 6317895039713280
+Google sheet: 4817584395517952
+Google sheet: 5514633764012032
+Google sheet: 5994261418999808
+Google sheet: 6680078156169216
+Row: ['星期三', '27/10']
+Row: ['星期四', '28/10']
+Google sheet: 4829627668365312
+Row: ['星期五', '29/10']
+Google sheet: 4961547672748032
+Google sheet: 4508923668332544
+Google sheet: 4812230366461952
+Google sheet: 4730335876218880
+Google sheet: 5305403358445568
+Google sheet: 5626968348426240
+Row: []
+Google sheet: 5104437073936384
+Not 16-digit: 
+Not 16-digit: 
+Google sheet: 5968392159887360
+Google sheet: 6659538615926784
+Google sheet: 5739764658601984
+Google sheet: 5652956591554560
+Google sheet: 6619498447765504
+Google sheet: 5272406802432000
+Google sheet: 5809717864693760
+Google sheet: 6449028377214976
+Google sheet: 4861213730275328
+Google sheet: 6581098302799872
+Google sheet: 6670567555072000
+Google sheet: 5687684019388416
+Row: ['星期三', 44503]
+Row: ['星期四', 44504]
+Row: ['星期五', 44505]
+Google sheet: 5151254012624896
+Row: ['星期日', 44507]
+Google sheet: 5863633478352896
+Google sheet: 5486885708365824
+Row: ['星期三', 44510]
+Row: ['星期四', 44511]
+Google sheet: 5762126271610880
+Row: ['星期六', 44513]
+Row: ['星期日', 44514]
+Row: ['星期一', 44515]
+Row: ['星期二', 44516]
+Row: ['星期三', 44517]
+Row: ['星期四', 44518]
+Row: ['星期五', 44519]
+Row: ['星期六', 44520]
+Row: ['星期日', 44521]
+Row: ['星期一', 44522]
+Row: ['星期二', 44523]
+Row: ['星期三', 44524]
+Row: ['星期四', 44525]
+Row: ['星期五', 44526]
+Row: ['星期六', 44527]
+Row: ['星期日', 44528]
+Row: ['星期一', 44529]
+Row: ['星期二', 44530]
+Google sheet: 18 cells appended.
+Have new order, please check the google sheet "to_add" tab.
+--Check order list End--
+
+
+
+
+
+-----2021-10-30 21:22:31-----
+
+--Check order list Start--
+[CMS 1]: 5677257248079872
+[CMS 2]: 6619498447765504
+[CMS 3]: 6581098302799872
+[CMS 4]: 5608960439746560
+[CMS 5]: 6449028377214976
+[CMS 6]: 5809717864693760
+[CMS 7]: 4730335876218880
+[CMS 8]: 5272406802432000
+[CMS 9]: 4508923668332544
+[CMS 10]: 4861213730275328
+[CMS 11]: 5652956591554560
+[CMS 12]: 4965516541296640
+[CMS 13]: 5863633478352896
+[CMS 14]: 5151254012624896
+[CMS 15]: 5486885708365824
+[CMS 16]: 4961547672748032
+[CMS 17]: 5687684019388416
+[CMS 18]: 5968392159887360
+[CMS 19]: 6050044387131392
+[CMS 20]: 6680078156169216
+[CMS 21]: 5994261418999808
+[CMS 22]: 5739764658601984
+[CMS 23]: 6659538615926784
+[CMS 24]: 5626968348426240
+[CMS 25]: 5514633764012032
+[CMS 26]: 4812230366461952
+[CMS 27]: 4817584395517952
+[CMS 28]: 5639581409083392
+[CMS 29]: 5305403358445568
+[CMS 30]: 5918087070220288
+[CMS 31]: 4829627668365312
+[CMS 32]: 5104437073936384
+[CMS 33]: 5138385502076928
+[CMS 34]: 5982117935841280
+[CMS 35]: 6317895039713280
+[CMS 36]: 5866591284756480
+[CMS 37]: 6594871927373824
+[CMS 38]: 4948688188342272
+[CMS 39]: 5227273138601984
+[CMS 40]: 5787725971193856
+[CMS 41]: 5357146775617536
+[CMS 42]: 6051713183252480
+[CMS 43]: 6648962745499648
+[CMS 44]: 4584385035763712
+[CMS 45]: 6089734297354240
+[CMS 46]: 5442862645903360
+[CMS 47]: 5982196788756480
+[CMS 48]: 5762126271610880
+[CMS 49]: 5839693599080448
+[CMS 50]: 5927577270222848
+[CMS 51]: 5160132465000448
+[CMS 52]: 6209691123318784
+[CMS 53]: 6503894252388352
+[CMS 54]: 5706867490816000
+[CMS 55]: 4508377267961856
+[CMS 56]: 4658142777573376
+[CMS 57]: 4896408990777344
+[CMS 58]: 6670567555072000
+[CMS 59]: 6613313711636480
+[CMS 60]: 5304733880418304
+[CMS 61]: 5662563107995648
+[CMS 62]: 6663086812561408
+[CMS 63]: 6425809263919104
+[CMS 64]: 6588391895465984
+[CMS 65]: 5041859601760256
+[CMS 66]: 5637328967172096
+[CMS 67]: 5349219004186624
+[CMS 68]: 6637669263212544
+[CMS 69]: 4827032300158976
+[CMS 70]: 4994862928756736
+[CMS 71]: 5782037958098944
+[CMS 72]: 5228996007690240
+[CMS 73]: 4741899958222848
+[CMS 74]: 4899088043737088
+[CMS 75]: 4831998439981056
+[CMS 76]: 6501688048484352
+[CMS 77]: 5713580071714816
+[CMS 78]: 5808440262918144
+[CMS 79]: 5311026124947456
+[CMS 80]: 5431269119885312
+[CMS 81]: 4818618241122304
+[CMS 82]: 6572424213692416
+[CMS 83]: 6661709671563264
+[CMS 84]: 4918759698595840
+[CMS 85]: 4632989922361344
+[CMS 86]: 4950922393419776
+[CMS 87]: 5860376483856384
+[CMS 88]: 6430086480920576
+[CMS 89]: 5516556500074496
+[CMS 90]: 6423512312053760
+[CMS 91]: 5238462702813184
+[CMS 92]: 4752113054908416
+[CMS 93]: 5076619980046336
+[CMS 94]: 6436921350946816
+[CMS 95]: 5729282925133824
+[CMS 96]: 4702596544724992
+[CMS 97]: 5849138064392192
+[CMS 98]: 5069810024185856
+[CMS 99]: 6679809938817024
+[CMS 100]: 6040039529250816
+Range names: to_add, 10月, 11月
+Not 16-digit: .
+Not 16-digit: 
+Row: ['星期五', 44470]
+Row: ['星期六', 44471]
+Google sheet: 5655214318288896
+Google sheet: 6048836234641408
+Google sheet: 5986385824710656
+Google sheet: 5037952599195648
+Google sheet: 5686250087514112
+Google sheet: 5898785537523712
+Google sheet: 5618839007133696
+Google sheet: 6534730070753280
+Row: []
+Google sheet: 4842217542909952
+Row: []
+Google sheet: 6719367023820800
+Google sheet: 5349292387729408
+Google sheet: 6639612568141824
+Google sheet: 5323029535129600
+Google sheet: 5090349144997888
+Google sheet: 6069423178907648
+Google sheet: 4933733699420160
+Google sheet: 4778501367529472
+Google sheet: 4575978727800832
+Google sheet: 6126380820594688
+Row: []
+Google sheet: 6742520185880576
+Google sheet: 4832769889927168
+Google sheet: 4844577660993536
+Google sheet: 5967335967031296
+Google sheet: 5702382186004480
+Google sheet: 5623408181248000
+Google sheet: 5060098952134656
+Google sheet: 5249194685235200
+Google sheet: 5439671250321408
+Google sheet: 4982564893884416
+Google sheet: 6048639496617984
+Google sheet: 4691712829161472
+Google sheet: 5613066092937216
+Row: ['星期六', 44478]
+Row: []
+Google sheet: 5495923376521216
+Google sheet: 6137103944646656
+Google sheet: 4772984314265600
+Google sheet: 4872890085408768
+Google sheet: 5972882556583936
+Google sheet: 4573637467308032
+Google sheet: 4839188953432064
+Google sheet: 4700881477042176
+Google sheet: 4855174486163456
+Google sheet: 5221617270652928
+Google sheet: 5144428252626944
+Google sheet: 5689830387351552
+Google sheet: 4535135635636224
+Google sheet: 6042337680687104
+Google sheet: 6673013689942016
+Google sheet: 6194982152175616
+Google sheet: 5855998200905728
+Google sheet: 6251396950261760
+Google sheet: 6300746493591552
+Row: []
+Google sheet: 6339119979560960
+Not 16-digit: 
+Google sheet: 4654697962143744
+Google sheet: 5037954671181824
+Google sheet: 6540877511131136
+Row: ['星期三', 44482]
+Google sheet: 6203475852656640
+Row: ['星期五', 44484]
+Row: []
+Row: []
+Row: []
+Google sheet: 5399732349435904
+Google sheet: 4879887392440320
+Row: []
+Google sheet: 6455036214378496
+Google sheet: 5069810024185856
+Google sheet: 4628933896175616
+Not 16-digit: 
+Not 16-digit: 
+Google sheet: 5516556500074496
+Google sheet: 6661709671563264
+Google sheet: 6572424213692416
+Google sheet: 4825763590307840
+Google sheet: 6679809938817024
+Google sheet: 4794408282226688
+Google sheet: 6677111793385472
+Google sheet: 4818618241122304
+Google sheet: 6501688048484352
+Row: []
+Google sheet: 6436921350946816
+Google sheet: 4752113054908416
+Row: []
+Google sheet: 4918759698595840
+Google sheet: 6308238694940672
+Google sheet: 5713580071714816
+Google sheet: 5311026124947456
+Google sheet: 5808440262918144
+Row: ['星期一', '18/10']
+Google sheet: 4831998439981056
+Google sheet: 6300076109594624
+Google sheet: 5729282925133824
+Google sheet: 5076619980046336
+Google sheet: 4950922393419776
+Google sheet: 4899088043737088
+Row: []
+Google sheet: 5782037958098944
+Row: []
+Google sheet: 4827032300158976
+Row: []
+Row: ['星期二', '19/10']
+Row: []
+Google sheet: 4632989922361344
+Google sheet: 6637669263212544
+Google sheet: 4994862928756736
+Row: ['星期四', 44490]
+Row: ['星期五', 44491]
+Row: ['星期六', 44492]
+Row: []
+Google sheet: 5927577270222848
+Google sheet: 6588391895465984
+Google sheet: 5160132465000448
+Google sheet: 6209691123318784
+Google sheet: 6503894252388352
+Google sheet: 5706867490816000
+Google sheet: 4508377267961856
+Google sheet: 4658142777573376
+Google sheet: 4896408990777344
+Google sheet: 6051713183252480
+Google sheet: 5442862645903360
+Google sheet: 4584385035763712
+Google sheet: 5839693599080448
+Google sheet: 6648962745499648
+Row: []
+Not 16-digit: 
+Google sheet: 6040039529250816
+Google sheet: 5238462702813184
+Google sheet: 5349219004186624
+Google sheet: 5662563107995648
+Google sheet: 6663086812561408
+Google sheet: 6425809263919104
+Google sheet: 5041859601760256
+Google sheet: 5982196788756480
+Google sheet: 5304733880418304
+Google sheet: 5866591284756480
+Google sheet: 6089734297354240
+Google sheet: 5357146775617536
+Google sheet: 5787725971193856
+Google sheet: 6594871927373824
+Row: []
+Google sheet: 4948688188342272
+Row: []
+Google sheet: 5227273138601984
+Google sheet: 5814914288582656
+Google sheet: 5860376483856384
+Google sheet: 5228996007690240
+Google sheet: 5639581409083392
+Google sheet: 5918087070220288
+Google sheet: 5637328967172096
+Google sheet: 6613313711636480
+Google sheet: 6317895039713280
+Google sheet: 4817584395517952
+Google sheet: 5514633764012032
+Google sheet: 5994261418999808
+Google sheet: 6680078156169216
+Row: ['星期三', '27/10']
+Row: ['星期四', '28/10']
+Google sheet: 4829627668365312
+Row: ['星期五', '29/10']
+Google sheet: 4961547672748032
+Google sheet: 4508923668332544
+Google sheet: 4812230366461952
+Google sheet: 4730335876218880
+Google sheet: 5305403358445568
+Google sheet: 5626968348426240
+Row: []
+Google sheet: 5104437073936384
+Not 16-digit: 
+Not 16-digit: 
+Google sheet: 5968392159887360
+Google sheet: 6659538615926784
+Google sheet: 5739764658601984
+Google sheet: 5652956591554560
+Google sheet: 6619498447765504
+Google sheet: 5272406802432000
+Google sheet: 5809717864693760
+Google sheet: 6449028377214976
+Google sheet: 4861213730275328
+Google sheet: 6581098302799872
+Google sheet: 6670567555072000
+Google sheet: 5687684019388416
+Row: ['星期三', 44503]
+Row: ['星期四', 44504]
+Row: ['星期五', 44505]
+Google sheet: 5151254012624896
+Row: ['星期日', 44507]
+Google sheet: 5863633478352896
+Google sheet: 5486885708365824
+Row: ['星期三', 44510]
+Row: ['星期四', 44511]
+Google sheet: 5762126271610880
+Row: ['星期六', 44513]
+Row: ['星期日', 44514]
+Row: ['星期一', 44515]
+Row: ['星期二', 44516]
+Row: ['星期三', 44517]
+Row: ['星期四', 44518]
+Row: ['星期五', 44519]
+Row: ['星期六', 44520]
+Row: ['星期日', 44521]
+Row: ['星期一', 44522]
+Row: ['星期二', 44523]
+Row: ['星期三', 44524]
+Row: ['星期四', 44525]
+Row: ['星期五', 44526]
+Row: ['星期六', 44527]
+Row: ['星期日', 44528]
+Row: ['星期一', 44529]
+Row: ['星期二', 44530]
+Google sheet: 18 cells appended.
+Have new order, please check the google sheet "to_add" tab.
+--Check order list End--
+
+
+
+
+
+-----2021-10-30 21:28:45-----
+
+--Check order list Start--
+[CMS 1]: 5677257248079872
+[CMS 2]: 6619498447765504
+[CMS 3]: 6581098302799872
+[CMS 4]: 5608960439746560
+[CMS 5]: 6449028377214976
+[CMS 6]: 5809717864693760
+[CMS 7]: 4730335876218880
+[CMS 8]: 5272406802432000
+[CMS 9]: 4508923668332544
+[CMS 10]: 4861213730275328
+[CMS 11]: 5652956591554560
+[CMS 12]: 4965516541296640
+[CMS 13]: 5863633478352896
+[CMS 14]: 5151254012624896
+[CMS 15]: 5486885708365824
+[CMS 16]: 4961547672748032
+[CMS 17]: 5687684019388416
+[CMS 18]: 5968392159887360
+[CMS 19]: 6050044387131392
+[CMS 20]: 6680078156169216
+[CMS 21]: 5994261418999808
+[CMS 22]: 5739764658601984
+[CMS 23]: 6659538615926784
+[CMS 24]: 5626968348426240
+[CMS 25]: 5514633764012032
+[CMS 26]: 4812230366461952
+[CMS 27]: 4817584395517952
+[CMS 28]: 5639581409083392
+[CMS 29]: 5305403358445568
+[CMS 30]: 5918087070220288
+[CMS 31]: 4829627668365312
+[CMS 32]: 5104437073936384
+[CMS 33]: 5138385502076928
+[CMS 34]: 5982117935841280
+[CMS 35]: 6317895039713280
+[CMS 36]: 5866591284756480
+[CMS 37]: 6594871927373824
+[CMS 38]: 4948688188342272
+[CMS 39]: 5227273138601984
+[CMS 40]: 5787725971193856
+[CMS 41]: 5357146775617536
+[CMS 42]: 6051713183252480
+[CMS 43]: 6648962745499648
+[CMS 44]: 4584385035763712
+[CMS 45]: 6089734297354240
+[CMS 46]: 5442862645903360
+[CMS 47]: 5982196788756480
+[CMS 48]: 5762126271610880
+[CMS 49]: 5839693599080448
+[CMS 50]: 5927577270222848
+[CMS 51]: 5160132465000448
+[CMS 52]: 6209691123318784
+[CMS 53]: 6503894252388352
+[CMS 54]: 5706867490816000
+[CMS 55]: 4508377267961856
+[CMS 56]: 4658142777573376
+[CMS 57]: 4896408990777344
+[CMS 58]: 6670567555072000
+[CMS 59]: 6613313711636480
+[CMS 60]: 5304733880418304
+[CMS 61]: 5662563107995648
+[CMS 62]: 6663086812561408
+[CMS 63]: 6425809263919104
+[CMS 64]: 6588391895465984
+[CMS 65]: 5041859601760256
+[CMS 66]: 5637328967172096
+[CMS 67]: 5349219004186624
+[CMS 68]: 6637669263212544
+[CMS 69]: 4827032300158976
+[CMS 70]: 4994862928756736
+[CMS 71]: 5782037958098944
+[CMS 72]: 5228996007690240
+[CMS 73]: 4741899958222848
+[CMS 74]: 4899088043737088
+[CMS 75]: 4831998439981056
+[CMS 76]: 6501688048484352
+[CMS 77]: 5713580071714816
+[CMS 78]: 5808440262918144
+[CMS 79]: 5311026124947456
+[CMS 80]: 5431269119885312
+[CMS 81]: 4818618241122304
+[CMS 82]: 6572424213692416
+[CMS 83]: 6661709671563264
+[CMS 84]: 4918759698595840
+[CMS 85]: 4632989922361344
+[CMS 86]: 4950922393419776
+[CMS 87]: 5860376483856384
+[CMS 88]: 6430086480920576
+[CMS 89]: 5516556500074496
+[CMS 90]: 6423512312053760
+[CMS 91]: 5238462702813184
+[CMS 92]: 4752113054908416
+[CMS 93]: 5076619980046336
+[CMS 94]: 6436921350946816
+[CMS 95]: 5729282925133824
+[CMS 96]: 4702596544724992
+[CMS 97]: 5849138064392192
+[CMS 98]: 5069810024185856
+[CMS 99]: 6679809938817024
+[CMS 100]: 6040039529250816
+Range names: to_add, 10月, 11月
+Not 16-digit: .
+Not 16-digit: 
+Row: ['星期五', 44470]
+Row: ['星期六', 44471]
+Google sheet: 5655214318288896
+Google sheet: 6048836234641408
+Google sheet: 5986385824710656
+Google sheet: 5037952599195648
+Google sheet: 5686250087514112
+Google sheet: 5898785537523712
+Google sheet: 5618839007133696
+Google sheet: 6534730070753280
+Row: []
+Google sheet: 4842217542909952
+Row: []
+Google sheet: 6719367023820800
+Google sheet: 5349292387729408
+Google sheet: 6639612568141824
+Google sheet: 5323029535129600
+Google sheet: 5090349144997888
+Google sheet: 6069423178907648
+Google sheet: 4933733699420160
+Google sheet: 4778501367529472
+Google sheet: 4575978727800832
+Google sheet: 6126380820594688
+Row: []
+Google sheet: 6742520185880576
+Google sheet: 4832769889927168
+Google sheet: 4844577660993536
+Google sheet: 5967335967031296
+Google sheet: 5702382186004480
+Google sheet: 5623408181248000
+Google sheet: 5060098952134656
+Google sheet: 5249194685235200
+Google sheet: 5439671250321408
+Google sheet: 4982564893884416
+Google sheet: 6048639496617984
+Google sheet: 4691712829161472
+Google sheet: 5613066092937216
+Row: ['星期六', 44478]
+Row: []
+Google sheet: 5495923376521216
+Google sheet: 6137103944646656
+Google sheet: 4772984314265600
+Google sheet: 4872890085408768
+Google sheet: 5972882556583936
+Google sheet: 4573637467308032
+Google sheet: 4839188953432064
+Google sheet: 4700881477042176
+Google sheet: 4855174486163456
+Google sheet: 5221617270652928
+Google sheet: 5144428252626944
+Google sheet: 5689830387351552
+Google sheet: 4535135635636224
+Google sheet: 6042337680687104
+Google sheet: 6673013689942016
+Google sheet: 6194982152175616
+Google sheet: 5855998200905728
+Google sheet: 6251396950261760
+Google sheet: 6300746493591552
+Row: []
+Google sheet: 6339119979560960
+Not 16-digit: 
+Google sheet: 4654697962143744
+Google sheet: 5037954671181824
+Google sheet: 6540877511131136
+Row: ['星期三', 44482]
+Google sheet: 6203475852656640
+Row: ['星期五', 44484]
+Row: []
+Row: []
+Row: []
+Google sheet: 5399732349435904
+Google sheet: 4879887392440320
+Row: []
+Google sheet: 6455036214378496
+Google sheet: 5069810024185856
+Google sheet: 4628933896175616
+Not 16-digit: 
+Not 16-digit: 
+Google sheet: 5516556500074496
+Google sheet: 6661709671563264
+Google sheet: 6572424213692416
+Google sheet: 4825763590307840
+Google sheet: 6679809938817024
+Google sheet: 4794408282226688
+Google sheet: 6677111793385472
+Google sheet: 4818618241122304
+Google sheet: 6501688048484352
+Row: []
+Google sheet: 6436921350946816
+Google sheet: 4752113054908416
+Row: []
+Google sheet: 4918759698595840
+Google sheet: 6308238694940672
+Google sheet: 5713580071714816
+Google sheet: 5311026124947456
+Google sheet: 5808440262918144
+Row: ['星期一', '18/10']
+Google sheet: 4831998439981056
+Google sheet: 6300076109594624
+Google sheet: 5729282925133824
+Google sheet: 5076619980046336
+Google sheet: 4950922393419776
+Google sheet: 4899088043737088
+Row: []
+Google sheet: 5782037958098944
+Row: []
+Google sheet: 4827032300158976
+Row: []
+Row: ['星期二', '19/10']
+Row: []
+Google sheet: 4632989922361344
+Google sheet: 6637669263212544
+Google sheet: 4994862928756736
+Row: ['星期四', 44490]
+Row: ['星期五', 44491]
+Row: ['星期六', 44492]
+Row: []
+Google sheet: 5927577270222848
+Google sheet: 6588391895465984
+Google sheet: 5160132465000448
+Google sheet: 6209691123318784
+Google sheet: 6503894252388352
+Google sheet: 5706867490816000
+Google sheet: 4508377267961856
+Google sheet: 4658142777573376
+Google sheet: 4896408990777344
+Google sheet: 6051713183252480
+Google sheet: 5442862645903360
+Google sheet: 4584385035763712
+Google sheet: 5839693599080448
+Google sheet: 6648962745499648
+Row: []
+Not 16-digit: 
+Google sheet: 6040039529250816
+Google sheet: 5238462702813184
+Google sheet: 5349219004186624
+Google sheet: 5662563107995648
+Google sheet: 6663086812561408
+Google sheet: 6425809263919104
+Google sheet: 5041859601760256
+Google sheet: 5982196788756480
+Google sheet: 5304733880418304
+Google sheet: 5866591284756480
+Google sheet: 6089734297354240
+Google sheet: 5357146775617536
+Google sheet: 5787725971193856
+Google sheet: 6594871927373824
+Row: []
+Google sheet: 4948688188342272
+Row: []
+Google sheet: 5227273138601984
+Google sheet: 5814914288582656
+Google sheet: 5860376483856384
+Google sheet: 5228996007690240
+Google sheet: 5639581409083392
+Google sheet: 5918087070220288
+Google sheet: 5637328967172096
+Google sheet: 6613313711636480
+Google sheet: 6317895039713280
+Google sheet: 4817584395517952
+Google sheet: 5514633764012032
+Google sheet: 5994261418999808
+Google sheet: 6680078156169216
+Row: ['星期三', '27/10']
+Row: ['星期四', '28/10']
+Google sheet: 4829627668365312
+Row: ['星期五', '29/10']
+Google sheet: 4961547672748032
+Google sheet: 4508923668332544
+Google sheet: 4812230366461952
+Google sheet: 4730335876218880
+Google sheet: 5305403358445568
+Google sheet: 5626968348426240
+Row: []
+Google sheet: 5104437073936384
+Not 16-digit: 
+Not 16-digit: 
+Google sheet: 5968392159887360
+Google sheet: 6659538615926784
+Google sheet: 5739764658601984
+Google sheet: 5652956591554560
+Google sheet: 6619498447765504
+Google sheet: 5272406802432000
+Google sheet: 5809717864693760
+Google sheet: 6449028377214976
+Google sheet: 4861213730275328
+Google sheet: 6581098302799872
+Google sheet: 6670567555072000
+Google sheet: 5687684019388416
+Row: ['星期三', 44503]
+Row: ['星期四', 44504]
+Row: ['星期五', 44505]
+Google sheet: 5151254012624896
+Row: ['星期日', 44507]
+Google sheet: 5863633478352896
+Google sheet: 5486885708365824
+Row: ['星期三', 44510]
+Row: ['星期四', 44511]
+Google sheet: 5762126271610880
+Row: ['星期六', 44513]
+Row: ['星期日', 44514]
+Row: ['星期一', 44515]
+Row: ['星期二', 44516]
+Row: ['星期三', 44517]
+Row: ['星期四', 44518]
+Row: ['星期五', 44519]
+Row: ['星期六', 44520]
+Row: ['星期日', 44521]
+Row: ['星期一', 44522]
+Row: ['星期二', 44523]
+Row: ['星期三', 44524]
+Row: ['星期四', 44525]
+Row: ['星期五', 44526]
+Row: ['星期六', 44527]
+Row: ['星期日', 44528]
+Row: ['星期一', 44529]
+Row: ['星期二', 44530]
+Google sheet: 18 cells appended.
+Have new order, please check the google sheet "to_add" tab.
+--Check order list End--

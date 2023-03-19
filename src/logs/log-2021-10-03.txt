@@ -1,0 +1,298 @@
+-----2021-10-03 17:19:35-----
+
+--Find bidder and price (before end auction) Start--
+
+
+
+
+
+-----2021-10-03 19:47:00-----
+
+--Post Auction Start--
+
+
+
+
+
+-----2021-10-03 19:55:45-----
+
+--Post Auction Start--
+
+
+
+
+
+-----2021-10-03 19:58:51-----
+
+--Post Auction Start--
+row 1: ['2021/10/3', 'a', '2021/10/6', '2100', '3999', '金火柴', '1', '300', '發燒友拍賣區', 'y']
+row 2: ['2021/10/3', 'a', '2021/10/6', '2100', '2231', '綠糖果腦', '4', '0', '發燒友拍賣區', 'y']
+row 3: ['2021/10/3', 'a', '2021/10/6', '2100', '2887', '彩頭綠火柴', '1', '80', '發燒友拍賣區', 'y']
+row 4: ['2021/10/3', 'a', '2021/10/6', '2100', '3899', '印尼 金豬腰', '1', '100', '環球水族HK - 拍賣區', 'y']
+row 5: ['2021/10/3', 'a', '2021/10/6', '2100', '4713', '金火柴', '1', '300', '環球水族HK - 拍賣區', 'y']
+row 6: ['2021/10/3', 'a', '2021/10/6', '2100', '4115', 'Fire Zoas ', '1', '40', '環球水族HK - 拍賣區', 'y']
+row 7: ['2021/10/3', 'a', '2021/10/6', '2100', '2402', '孔雀眼扣', '1', '40', '環球水族HK - 拍賣區', 'y']
+row 8: ['2021/10/3', 'a', '2021/10/6', '2100', '2627', '貓眼腦', '2', '40', '環球水族HK - 拍賣區', 'y']
+row 9: ['2021/10/3', 'a', '2021/10/6', '2100', '2637', '綠糖果腦', '3', '40', '環球水族HK - 拍賣區', 'y']
+row 10: ['2021/10/3', 'a', '2021/10/6', '2100', '4186', '彩頭綠火柴', '1', '60', '環球水族HK - 拍賣區', 'y']
+row 11: ['2021/10/3', 'a', '2021/10/6', '2100', '4752', '澳洲 極光片腦', '', '0', '環球水族HK - 拍賣區', 'y']
+row 12: ['2021/10/3', 'a', '2021/10/6', '2100', '3959', 'Green Bay Packer Zoas', '4', '60', '環球水族HK - 拍賣區', 'y']
+row 13: ['2021/10/3', 'a', '2021/10/6', '2100', '4457', 'Green Lemon Zoas', '4', '40', '環球水族HK - 拍賣區', 'y']
+row 14: ['2021/10/3', 'a', '2021/10/6', '2100', '4018', '澳洲 雙藍紅眼貓眼腦', '', '0', '環球水族HK - 拍賣區', 'y']
+row 15: ['2021/10/3', 'a', '2021/10/6', '2100', '4661', '鈕扣腦', '2', '0', '環球水族HK - 拍賣區', 'y']
+Google sheet: 151 cells appended.
+Copying Chrome profile.
+login band success.
+
+
+
+
+
+-----2021-10-03 20:02:28-----
+
+--Post Auction Start--
+row 1: ['2021/10/3', 'a', '2021/10/6', '2100', '3999', '金火柴', '1', '300', '發燒友拍賣區', 'y']
+row 2: ['2021/10/3', 'a', '2021/10/6', '2100', '2231', '綠糖果腦', '4', '0', '發燒友拍賣區', 'y']
+row 3: ['2021/10/3', 'a', '2021/10/6', '2100', '2887', '彩頭綠火柴', '1', '80', '發燒友拍賣區', 'y']
+row 4: ['2021/10/3', 'a', '2021/10/6', '2100', '3899', '印尼 金豬腰', '1', '100', '環球水族HK - 拍賣區', 'y']
+row 5: ['2021/10/3', 'a', '2021/10/6', '2100', '4713', '金火柴', '1', '300', '環球水族HK - 拍賣區', 'y']
+row 6: ['2021/10/3', 'a', '2021/10/6', '2100', '4115', 'Fire Zoas ', '1', '40', '環球水族HK - 拍賣區', 'y']
+row 7: ['2021/10/3', 'a', '2021/10/6', '2100', '2402', '孔雀眼扣', '1', '40', '環球水族HK - 拍賣區', 'y']
+row 8: ['2021/10/3', 'a', '2021/10/6', '2100', '2627', '貓眼腦', '2', '40', '環球水族HK - 拍賣區', 'y']
+row 9: ['2021/10/3', 'a', '2021/10/6', '2100', '2637', '綠糖果腦', '3', '40', '環球水族HK - 拍賣區', 'y']
+row 10: ['2021/10/3', 'a', '2021/10/6', '2100', '4186', '彩頭綠火柴', '1', '60', '環球水族HK - 拍賣區', 'y']
+row 11: ['2021/10/3', 'a', '2021/10/6', '2100', '4752', '澳洲 極光片腦', '', '0', '環球水族HK - 拍賣區', 'y']
+row 12: ['2021/10/3', 'a', '2021/10/6', '2100', '3959', 'Green Bay Packer Zoas', '4', '60', '環球水族HK - 拍賣區', 'y']
+row 13: ['2021/10/3', 'a', '2021/10/6', '2100', '4457', 'Green Lemon Zoas', '4', '40', '環球水族HK - 拍賣區', 'y']
+row 14: ['2021/10/3', 'a', '2021/10/6', '2100', '4018', '澳洲 雙藍紅眼貓眼腦', '', '0', '環球水族HK - 拍賣區', 'y']
+row 15: ['2021/10/3', 'a', '2021/10/6', '2100', '4661', '鈕扣腦', '2', '0', '環球水族HK - 拍賣區', 'y']
+Google sheet: 151 cells appended.
+Copying Chrome profile.
+
+
+
+
+
+-----2021-10-03 20:05:57-----
+
+--Post Auction Start--
+Path "C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-03 Auction Coral" already exists, trying to remove it
+
+
+
+
+
+-----2021-10-03 20:06:21-----
+
+--Post Auction Start--
+row 1: ['2021/10/3', 'a', '2021/10/6', '2100', '3999', '金火柴', '1', '300', '發燒友拍賣區', 'y']
+row 2: ['2021/10/3', 'a', '2021/10/6', '2100', '2231', '綠糖果腦', '4', '0', '發燒友拍賣區', 'y']
+row 3: ['2021/10/3', 'a', '2021/10/6', '2100', '2887', '彩頭綠火柴', '1', '80', '發燒友拍賣區', 'y']
+row 4: ['2021/10/3', 'a', '2021/10/6', '2100', '3899', '印尼 金豬腰', '1', '100', '環球水族HK - 拍賣區', 'y']
+row 5: ['2021/10/3', 'a', '2021/10/6', '2100', '4713', '金火柴', '1', '300', '環球水族HK - 拍賣區', 'y']
+row 6: ['2021/10/3', 'a', '2021/10/6', '2100', '4115', 'Fire Zoas ', '1', '40', '環球水族HK - 拍賣區', 'y']
+row 7: ['2021/10/3', 'a', '2021/10/6', '2100', '2402', '孔雀眼扣', '1', '40', '環球水族HK - 拍賣區', 'y']
+row 8: ['2021/10/3', 'a', '2021/10/6', '2100', '2627', '貓眼腦', '2', '40', '環球水族HK - 拍賣區', 'y']
+row 9: ['2021/10/3', 'a', '2021/10/6', '2100', '2637', '綠糖果腦', '3', '40', '環球水族HK - 拍賣區', 'y']
+row 10: ['2021/10/3', 'a', '2021/10/6', '2100', '4186', '彩頭綠火柴', '1', '60', '環球水族HK - 拍賣區', 'y']
+row 11: ['2021/10/3', 'a', '2021/10/6', '2100', '4752', '澳洲 極光片腦', '', '0', '環球水族HK - 拍賣區', 'y']
+row 12: ['2021/10/3', 'a', '2021/10/6', '2100', '3959', 'Green Bay Packer Zoas', '4', '60', '環球水族HK - 拍賣區', 'y']
+row 13: ['2021/10/3', 'a', '2021/10/6', '2100', '4457', 'Green Lemon Zoas', '4', '40', '環球水族HK - 拍賣區', 'y']
+row 14: ['2021/10/3', 'a', '2021/10/6', '2100', '4018', '澳洲 雙藍紅眼貓眼腦', '', '0', '環球水族HK - 拍賣區', 'y']
+row 15: ['2021/10/3', 'a', '2021/10/6', '2100', '4661', '鈕扣腦', '2', '0', '環球水族HK - 拍賣區', 'y']
+Google sheet: 151 cells appended.
+Copying Chrome profile.
+login band success.
+[發燒友拍賣區 Post 1]
+金火柴 起標價：$300
+拍賣連結： https://band.us/band/75420559/post/4748
+
+發燒友拍賣區: Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-03 Auction Coral\Picture\01.jpg
+Finished 發燒友拍賣區 post 1.
+
+
+[發燒友拍賣區 Post 2]
+綠糖果腦 起標價：$0
+拍賣連結： https://band.us/band/75420559/post/4749
+
+發燒友拍賣區: Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-03 Auction Coral\Picture\02.jpg
+Finished 發燒友拍賣區 post 2.
+
+
+[發燒友拍賣區 Post 3]
+彩頭綠火柴 起標價：$80
+拍賣連結： https://band.us/band/75420559/post/4750
+
+發燒友拍賣區: Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-03 Auction Coral\Picture\03.jpg
+Finished 發燒友拍賣區 post 3.
+
+
+firstPostCode: 1220
+
+[Post 1]
+印尼 金豬腰 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/1221
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-03 Auction Coral\Picture\04.jpg
+Finished post 1.
+
+
+[Post 2]
+金火柴 起標價：$300
+拍賣連結： https://band.us/band/78427905/post/1222
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-03 Auction Coral\Picture\05.jpg
+Finished post 2.
+
+
+[Post 3]
+Fire Zoas 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/1223
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-03 Auction Coral\Picture\06.jpg
+Finished post 3.
+
+
+[Post 4]
+孔雀眼扣 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/1224
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-03 Auction Coral\Picture\07.jpg
+Finished post 4.
+
+
+[Post 5]
+貓眼腦 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/1225
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-03 Auction Coral\Picture\08.jpg
+Finished post 5.
+
+
+[Post 6]
+綠糖果腦 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/1226
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-03 Auction Coral\Picture\09.jpg
+Finished post 6.
+
+
+[Post 7]
+彩頭綠火柴 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/1227
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-03 Auction Coral\Picture\10.jpg
+Finished post 7.
+
+
+[Post 8]
+澳洲 極光片腦 起標價：$0
+拍賣連結： https://band.us/band/78427905/post/1228
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-03 Auction Coral\Picture\11.JPG
+Finished post 8.
+
+
+[Post 9]
+Green Bay Packer Zoas 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/1229
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-03 Auction Coral\Picture\12.JPG
+Finished post 9.
+
+
+[Post 10]
+Green Lemon Zoas 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/1230
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-03 Auction Coral\Picture\13.JPG
+Finished post 10.
+
+
+[Post 11]
+澳洲 雙藍紅眼貓眼腦 起標價：$0
+拍賣連結： https://band.us/band/78427905/post/1231
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-03 Auction Coral\Picture\14.JPG
+Finished post 11.
+
+
+[Post 12]
+鈕扣腦 起標價：$0
+拍賣連結： https://band.us/band/78427905/post/1232
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-03 Auction Coral\Picture\15.JPG
+Finished post 12.
+
+
+Finished posting to band.
+Opening https://web.whatsapp.com/
+login whatsapp success.
+Finding group "拍賣通知專區"
+Finding input box.
+
+❗最新珊瑚拍賣❗
+Generating msg for post 1.
+金火柴 起標價：$300
+拍賣連結： https://band.us/band/75420559/post/4748
+Generating msg for post 2.
+綠糖果腦 起標價：$0
+拍賣連結： https://band.us/band/75420559/post/4749
+Generating msg for post 3.
+彩頭綠火柴 起標價：$80
+拍賣連結： https://band.us/band/75420559/post/4750
+Generating msg for post 4.
+印尼 金豬腰 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/1221
+Generating msg for post 5.
+金火柴 起標價：$300
+拍賣連結： https://band.us/band/78427905/post/1222
+Generating msg for post 6.
+Fire Zoas 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/1223
+Generating msg for post 7.
+孔雀眼扣 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/1224
+Generating msg for post 8.
+貓眼腦 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/1225
+Generating msg for post 9.
+綠糖果腦 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/1226
+Generating msg for post 10.
+彩頭綠火柴 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/1227
+Generating msg for post 11.
+澳洲 極光片腦 起標價：$0
+拍賣連結： https://band.us/band/78427905/post/1228
+Generating msg for post 12.
+Green Bay Packer Zoas 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/1229
+Generating msg for post 13.
+Green Lemon Zoas 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/1230
+Generating msg for post 14.
+澳洲 雙藍紅眼貓眼腦 起標價：$0
+拍賣連結： https://band.us/band/78427905/post/1231
+Generating msg for post 15.
+鈕扣腦 起標價：$0
+拍賣連結： https://band.us/band/78427905/post/1232
+Sent message.
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-03 Auction Coral\Picture\01.jpg
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-03 Auction Coral\Picture\02.jpg
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-03 Auction Coral\Picture\03.jpg
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-03 Auction Coral\Picture\04.jpg
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-03 Auction Coral\Picture\05.jpg
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-03 Auction Coral\Picture\06.jpg
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-03 Auction Coral\Picture\07.jpg
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-03 Auction Coral\Picture\08.jpg
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-03 Auction Coral\Picture\09.jpg
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-03 Auction Coral\Picture\10.jpg
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-03 Auction Coral\Picture\11.JPG
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-03 Auction Coral\Picture\12.JPG
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-03 Auction Coral\Picture\13.JPG
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-03 Auction Coral\Picture\14.JPG
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-03 Auction Coral\Picture\15.JPG
+Sent photos.
+--Post Auction End--
+Program end.

@@ -1,0 +1,2004 @@
+-----2021-12-27 15:25:38-----
+
+[CMS 1]: 6484298325688320
+[CMS 2]: 5561602347761664
+[CMS 3]: 6644110468448256
+[CMS 4]: 5713169596153856
+[CMS 5]: 6630381840367616
+[CMS 6]: 4967610887307264
+[CMS 7]: 5327428449861632
+[CMS 8]: 5636028493856768
+[CMS 9]: 4947588857069568
+[CMS 10]: 6313255984300032
+[CMS 11]: 5380939514511360
+[CMS 12]: 5931776586416128
+[CMS 13]: 6696919373053952
+[CMS 14]: 4789956846419968
+[CMS 15]: 5324115755008000
+[CMS 16]: 4601546965909504
+[CMS 17]: 6575602787287040
+[CMS 18]: 6307161761251328
+[CMS 19]: 5313750220537856
+[CMS 20]: 5462908160049152
+[CMS 21]: 6456830835425280
+[CMS 22]: 4815528108621824
+[CMS 23]: 5177624553979904
+[CMS 24]: 4735671546806272
+[CMS 25]: 5440705796374528
+[CMS 26]: 4943480116871168
+[CMS 27]: 6737298105434112
+[CMS 28]: 4733539363979264
+[CMS 29]: 5699814865108992
+[CMS 30]: 4910776826593280
+[CMS 31]: 6122776869076992
+[CMS 32]: 5130467323019264
+[CMS 33]: 5177527917215744
+[CMS 34]: 5091209409331200
+[CMS 35]: 4712688304390144
+[CMS 36]: 5561280896303104
+[CMS 37]: 5319796158758912
+[CMS 38]: 5541642292559872
+[CMS 39]: 5144898413133824
+[CMS 40]: 4701208729223168
+[CMS 41]: 6041936692641792
+[CMS 42]: 6739152524673024
+[CMS 43]: 6319391579963392
+[CMS 44]: 6220043181490176
+[CMS 45]: 5248602780860416
+[CMS 46]: 6006784297926656
+[CMS 47]: 4698624098435072
+[CMS 48]: 6231671469899776
+[CMS 49]: 5833310568841216
+[CMS 50]: 5311086434844672
+[CMS 51]: 6492861114744832
+[CMS 52]: 6378976567230464
+[CMS 53]: 5711593578037248
+[CMS 54]: 5969090658304000
+[CMS 55]: 6331616097075200
+[CMS 56]: 6049771954503680
+[CMS 57]: 4736179359580160
+[CMS 58]: 5647694094794752
+[CMS 59]: 4902008382423040
+[CMS 60]: 5227899092336640
+[CMS 61]: 6539236695212032
+[CMS 62]: 6267258226737152
+[CMS 63]: 5277193371516928
+[CMS 64]: 5816680858124288
+[CMS 65]: 6568065388118016
+[CMS 66]: 5421651308183552
+[CMS 67]: 5163821938376704
+[CMS 68]: 6099331636658176
+[CMS 69]: 6049220856512512
+[CMS 70]: 5604254661345280
+[CMS 71]: 5168517075828736
+[CMS 72]: 4651240463138816
+[CMS 73]: 5747722675159040
+[CMS 74]: 6728538842595328
+[CMS 75]: 5604155407335424
+[CMS 76]: 5879597095845888
+[CMS 77]: 5161777198399488
+[CMS 78]: 4973578777919488
+[CMS 79]: 5758492641198080
+[CMS 80]: 6526348706316288
+[CMS 81]: 6508809603383296
+[CMS 82]: 4754808444682240
+[CMS 83]: 6514566403063808
+[CMS 84]: 5526782108368896
+[CMS 85]: 6317510216515584
+[CMS 86]: 5120533499871232
+[CMS 87]: 5665297085366272
+[CMS 88]: 6556465272848384
+[CMS 89]: 5510598604488704
+[CMS 90]: 6375784332787712
+[CMS 91]: 6189702660096000
+[CMS 92]: 5452013908393984
+[CMS 93]: 5479283729498112
+[CMS 94]: 6542778420035584
+[CMS 95]: 5687326564024320
+[CMS 96]: 4984659793543168
+[CMS 97]: 6274334655119360
+[CMS 98]: 6605513207971840
+[CMS 99]: 4881589839462400
+[CMS 100]: 5552885443198976
+Range names: to_add, 2021年12月, 2022年01月
+Not 16-digit: .
+Google sheet: 6049220856512512
+Google sheet: 6737298105434112
+Google sheet: 4733539363979264
+Google sheet: 6006784297926656
+Google sheet: 5168517075828736
+Google sheet: 6189702660096000
+Google sheet: 5747722675159040
+Google sheet: 4943480116871168
+Google sheet: 5833310568841216
+Google sheet: 5440705796374528
+Google sheet: 4712688304390144
+Google sheet: 5327428449861632
+Google sheet: 6696919373053952
+Google sheet: 5324115755008000
+Google sheet: 4789956846419968
+Google sheet: 4947588857069568
+Google sheet: 5931776586416128
+Google sheet: 4601546965909504
+Google sheet: 5636028493856768
+Google sheet: 6313255984300032
+Google sheet: 6575602787287040
+Google sheet: 5679060375175168
+Google sheet: 4967610887307264
+Google sheet: 6630381840367616
+Google sheet: 6644110468448256
+Google sheet: 5713169596153856
+Not 16-digit: 訂單編號
+Row: ['星期三', 44531]
+Row: ['星期四', 44532]
+Not 16-digit: 
+Row: ['星期六', 44534]
+Google sheet: 6655533672169472
+Google sheet: 4897114871169024
+Google sheet: 5910968677826560
+Google sheet: 6617450385899520
+Google sheet: 6686674869420032
+Google sheet: 5149541776097280
+Google sheet: 4631092649918464
+Google sheet: 5142359248601088
+Google sheet: 5356297965928448
+Google sheet: 5017956326178816
+Google sheet: 4717324709003264
+Google sheet: 6584091240693760
+Google sheet: 4725632920584192
+Google sheet: 4552542785765376
+Google sheet: 5468920510283776
+Google sheet: 6131480888737792
+Row: []
+Row: []
+Row: []
+Row: ['星期日', 44535]
+Google sheet: 5053662389993472
+Google sheet: 4522623775145984
+Google sheet: 5177473089273856
+Google sheet: 5886293071495168
+Google sheet: 5708184938479616
+Google sheet: 5880747194974208
+Google sheet: 6702040786010112
+Google sheet: 6161467276656640
+Not 16-digit: 
+Google sheet: 5157538468331520
+Not 16-digit: 
+Google sheet: 4830387810467840
+Google sheet: 6401960749170688
+Google sheet: 6203212332924928
+Google sheet: 6632959995150336
+Google sheet: 5375831644962816
+Row: []
+Row: ['星期一', 44536]
+Google sheet: 6130771682263040
+Google sheet: 4880160219332608
+Google sheet: 6046968280383488
+Google sheet: 4796794904117248
+Google sheet: 6337747552960512
+Google sheet: 6380747826003968
+Google sheet: 6730313414868992
+Google sheet: 5585791872008192
+Google sheet: 4689557019820032
+Google sheet: 5203247510978560
+Google sheet: 5461964810747904
+Google sheet: 6063461546196992
+Google sheet: 4986919940390912
+Google sheet: 4920830472617984
+Google sheet: 4642672640917504
+Google sheet: 5518676754300928
+Not 16-digit: 
+Google sheet: 5710896673456128
+Google sheet: 6033180818800640
+Google sheet: 6234860134989824
+Google sheet: 5671911938981888
+Row: ['星期二', 44537]
+Google sheet: 5078417721655296
+Google sheet: 6305981383442432
+Google sheet: 5738938930167808
+Google sheet: 6188532751269888
+Row: []
+Row: []
+Google sheet: 5758864491413504
+Google sheet: 5865846208593920
+Google sheet: 6396166636961792
+Not 16-digit: 
+Row: []
+Not 16-digit: 
+Row: []
+Row: ['星期三', 44538]
+Row: ['星期四', 44539]
+Row: ['星期五', 44540]
+Row: ['星期六', 44541]
+Google sheet: 5626137251282944
+Google sheet: 5571827524042752
+Not 16-digit: 換貨
+Google sheet: 5069268166246400
+Not 16-digit: 換貨
+Google sheet: 6141434542555136
+Google sheet: 5569460460191744
+Google sheet: 5767502811496448
+Google sheet: 5535379357827072
+Google sheet: 4539088276422656
+Google sheet: 4913525337227264
+Google sheet: 4844381464035328
+Google sheet: 5102609179475968
+Not 16-digit: 換貨
+Row: ['星期日', 44542]
+Google sheet: 4534780680077312
+Google sheet: 5169323388829696
+Google sheet: 5671802819969024
+Google sheet: 5664142666104832
+Google sheet: 4989739062132736
+Row: ['星期一', 44543]
+Google sheet: 5843543114514432
+Google sheet: 5895890511462400
+Google sheet: 4666166627926016
+Not 16-digit: 換貨
+Google sheet: 5848609296875520
+Google sheet: 6663436936282112
+Google sheet: 5665297085366272
+Google sheet: 5510598604488704
+Row: ['星期二', 44544]
+Google sheet: 6526348706316288
+Google sheet: 6556465272848384
+Google sheet: 5120533499871232
+Google sheet: 5526782108368896
+Google sheet: 5479283729498112
+Google sheet: 5758492641198080
+Google sheet: 6375784332787712
+Google sheet: 6542778420035584
+Google sheet: 4881589839462400
+Google sheet: 5552885443198976
+Google sheet: 6181572475748352
+Google sheet: 4754808444682240
+Google sheet: 5687326564024320
+Google sheet: 5469759840845824
+Google sheet: 5562778833256448
+Row: []
+Google sheet: 5979024984768512
+Google sheet: 4678867987070976
+Google sheet: 6317510216515584
+Google sheet: 5639856840638464
+Google sheet: 5357619654033408
+Google sheet: 4893928206761984
+Google sheet: 5960150952312832
+Google sheet: 6508809603383296
+Google sheet: 6024609821491200
+Google sheet: 5506751509168128
+Google sheet: 6190018071756800
+Google sheet: 4720314622803968
+Row: ['星期三', 44545]
+Row: ['星期四', 44546]
+Row: ['星期五', 44547]
+Row: ['星期六', 44548]
+Google sheet: 5604254661345280
+Row: []
+Google sheet: 4984659793543168
+Google sheet: 6605513207971840
+Google sheet: 5976934006784000
+Google sheet: 6231671469899776
+Google sheet: 6016561723867136
+Google sheet: 6274334655119360
+Google sheet: 6220043181490176
+Row: []
+Google sheet: 5161777198399488
+Google sheet: 6378976567230464
+Google sheet: 6514566403063808
+Google sheet: 6539236695212032
+Google sheet: 6099331636658176
+Google sheet: 5163821938376704
+Google sheet: 5421651308183552
+Google sheet: 6568065388118016
+Google sheet: 5816680858124288
+Google sheet: 5277193371516928
+Google sheet: 6267258226737152
+Not 16-digit: 
+Row: []
+Row: []
+Row: []
+Row: []
+Row: []
+Row: []
+Row: []
+Row: ['星期日', 44549]
+Row: []
+Google sheet: 6492861114744832
+Google sheet: 5227899092336640
+Google sheet: 6331616097075200
+Google sheet: 5969090658304000
+Google sheet: 5879597095845888
+Google sheet: 4581741261094912
+Google sheet: 4698624098435072
+Google sheet: 5452013908393984
+Google sheet: 6256461417152512
+Google sheet: 5168517075828736
+Google sheet: 6045097889234944
+Row: []
+Row: ['星期一', 44550]
+Google sheet: 5319796158758912
+Google sheet: 5647694094794752
+Google sheet: 5144898413133824
+Google sheet: 4736179359580160
+Google sheet: 6739152524673024
+Google sheet: 5604155407335424
+Google sheet: 6122776869076992
+Google sheet: 6319391579963392
+Row: []
+Row: []
+Row: ['星期二', 44551]
+Google sheet: 4712688304390144
+Google sheet: 5699814865108992
+Google sheet: 5091209409331200
+Google sheet: 5177527917215744
+Google sheet: 6049771954503680
+Row: []
+Row: []
+Row: []
+Google sheet: 6041395962970112
+Row: []
+Row: []
+Row: []
+Row: []
+Row: ['星期三', 44552]
+Row: ['星期四', 44553]
+Row: ['星期五', 44554]
+Google sheet: 4902008382423040
+Google sheet: 5311086434844672
+Row: []
+Row: ['星期六', 44555]
+Row: ['星期日', 44556]
+Google sheet: 5931776586416128
+Google sheet: 5541642292559872
+Not 16-digit: 
+Google sheet: 5177624553979904
+Google sheet: 4735671546806272
+Row: ['星期一', 44557]
+Google sheet: 4967610887307264
+Google sheet: 6644110468448256
+Google sheet: 4947588857069568
+Google sheet: 6696919373053952
+Google sheet: 6307161761251328
+Google sheet: 5327428449861632
+Row: []
+Google sheet: 5711593578037248
+Google sheet: 5248602780860416
+Row: ['星期二', 44558]
+Google sheet: 6630381840367616
+Google sheet: 5636028493856768
+Google sheet: 6456830835425280
+Google sheet: 5313750220537856
+Google sheet: 4910776826593280
+Google sheet: 5130467323019264
+Google sheet: 6737298105434112
+Google sheet: 6728538842595328
+Google sheet: 4943480116871168
+Row: ['星期三', 44559]
+Row: ['星期四', 44560]
+Row: ['星期五', 44561]
+Row: []
+Google sheet: 6493044712013824
+Google sheet: 6396953274482688
+Google sheet: 6730337628585984
+Google sheet: 6476676604231680
+Google sheet: 4973578777919488
+Not 16-digit: 
+Not 16-digit: 
+Not 16-digit: 
+Not 16-digit: 
+Not 16-digit: 
+Google sheet: 5292590225293312
+Not 16-digit: 訂單編號
+Row: ['星期六', 44562]
+Google sheet: 5462908160049152
+Google sheet: 5440705796374528
+Google sheet: 6049220856512512
+Google sheet: 5324115755008000
+Google sheet: 4733539363979264
+Google sheet: 6006784297926656
+Row: ['星期日', 44563]
+Google sheet: 4601546965909504
+Google sheet: 5168517075828736
+Google sheet: 6313255984300032
+Row: []
+Row: ['星期一', 44564]
+Google sheet: 5713169596153856
+Google sheet: 4789956846419968
+Row: ['星期二', 44565]
+Google sheet: 6189702660096000
+Google sheet: 4712688304390144
+Google sheet: 5747722675159040
+Row: []
+Row: []
+Row: ['星期三', 44566]
+Row: ['星期四', 44567]
+Row: ['星期五', 44568]
+Row: ['星期六', 44569]
+Google sheet: 4815528108621824
+Row: ['星期日', 44570]
+Row: ['星期一', 44571]
+Row: ['星期二', 44572]
+Row: ['星期三', 44573]
+Row: ['星期四', 44574]
+Row: ['星期五', 44575]
+Row: ['星期六', 44576]
+Row: ['星期日', 44577]
+Row: ['星期一', 44578]
+Row: ['星期二', 44579]
+Row: ['星期三', 44580]
+Row: ['星期四', 44581]
+Row: ['星期五', 44582]
+Row: ['星期六', 44583]
+Row: ['星期日', 44584]
+Row: ['星期一', 44585]
+Row: ['星期二', 44586]
+Row: ['星期三', 44587]
+Row: ['星期四', 44588]
+Row: ['星期五', 44589]
+Row: ['星期六', 44590]
+Row: ['星期日', 44591]
+Row: ['星期一', 44592]
+login whatsapp success.
+
+
+
+
+
+-----2021-12-27 15:29:10-----
+
+[CMS 1]: 6484298325688320
+[CMS 2]: 5561602347761664
+[CMS 3]: 6644110468448256
+[CMS 4]: 5713169596153856
+[CMS 5]: 6630381840367616
+[CMS 6]: 4967610887307264
+[CMS 7]: 5327428449861632
+[CMS 8]: 5636028493856768
+[CMS 9]: 4947588857069568
+[CMS 10]: 6313255984300032
+[CMS 11]: 5380939514511360
+[CMS 12]: 5931776586416128
+[CMS 13]: 6696919373053952
+[CMS 14]: 4789956846419968
+[CMS 15]: 5324115755008000
+[CMS 16]: 4601546965909504
+[CMS 17]: 6575602787287040
+[CMS 18]: 6307161761251328
+[CMS 19]: 5313750220537856
+[CMS 20]: 5462908160049152
+[CMS 21]: 6456830835425280
+[CMS 22]: 4815528108621824
+[CMS 23]: 5177624553979904
+[CMS 24]: 4735671546806272
+[CMS 25]: 5440705796374528
+[CMS 26]: 4943480116871168
+[CMS 27]: 6737298105434112
+[CMS 28]: 4733539363979264
+[CMS 29]: 5699814865108992
+[CMS 30]: 4910776826593280
+[CMS 31]: 6122776869076992
+[CMS 32]: 5130467323019264
+[CMS 33]: 5177527917215744
+[CMS 34]: 5091209409331200
+[CMS 35]: 4712688304390144
+[CMS 36]: 5561280896303104
+[CMS 37]: 5319796158758912
+[CMS 38]: 5541642292559872
+[CMS 39]: 5144898413133824
+[CMS 40]: 4701208729223168
+[CMS 41]: 6041936692641792
+[CMS 42]: 6739152524673024
+[CMS 43]: 6319391579963392
+[CMS 44]: 6220043181490176
+[CMS 45]: 5248602780860416
+[CMS 46]: 6006784297926656
+[CMS 47]: 4698624098435072
+[CMS 48]: 6231671469899776
+[CMS 49]: 5833310568841216
+[CMS 50]: 5311086434844672
+[CMS 51]: 6492861114744832
+[CMS 52]: 6378976567230464
+[CMS 53]: 5711593578037248
+[CMS 54]: 5969090658304000
+[CMS 55]: 6331616097075200
+[CMS 56]: 6049771954503680
+[CMS 57]: 4736179359580160
+[CMS 58]: 5647694094794752
+[CMS 59]: 4902008382423040
+[CMS 60]: 5227899092336640
+[CMS 61]: 6539236695212032
+[CMS 62]: 6267258226737152
+[CMS 63]: 5277193371516928
+[CMS 64]: 5816680858124288
+[CMS 65]: 6568065388118016
+[CMS 66]: 5421651308183552
+[CMS 67]: 5163821938376704
+[CMS 68]: 6099331636658176
+[CMS 69]: 6049220856512512
+[CMS 70]: 5604254661345280
+[CMS 71]: 5168517075828736
+[CMS 72]: 4651240463138816
+[CMS 73]: 5747722675159040
+[CMS 74]: 6728538842595328
+[CMS 75]: 5604155407335424
+[CMS 76]: 5879597095845888
+[CMS 77]: 5161777198399488
+[CMS 78]: 4973578777919488
+[CMS 79]: 5758492641198080
+[CMS 80]: 6526348706316288
+[CMS 81]: 6508809603383296
+[CMS 82]: 4754808444682240
+[CMS 83]: 6514566403063808
+[CMS 84]: 5526782108368896
+[CMS 85]: 6317510216515584
+[CMS 86]: 5120533499871232
+[CMS 87]: 5665297085366272
+[CMS 88]: 6556465272848384
+[CMS 89]: 5510598604488704
+[CMS 90]: 6375784332787712
+[CMS 91]: 6189702660096000
+[CMS 92]: 5452013908393984
+[CMS 93]: 5479283729498112
+[CMS 94]: 6542778420035584
+[CMS 95]: 5687326564024320
+[CMS 96]: 4984659793543168
+[CMS 97]: 6274334655119360
+[CMS 98]: 6605513207971840
+[CMS 99]: 4881589839462400
+[CMS 100]: 5552885443198976
+Range names: to_add, 2022年01月, 2021年12月
+Not 16-digit: .
+Google sheet: 6049220856512512
+Google sheet: 6737298105434112
+Google sheet: 4733539363979264
+Google sheet: 6006784297926656
+Google sheet: 5168517075828736
+Google sheet: 6189702660096000
+Google sheet: 5747722675159040
+Google sheet: 4943480116871168
+Google sheet: 5833310568841216
+Google sheet: 5440705796374528
+Google sheet: 4712688304390144
+Google sheet: 5327428449861632
+Google sheet: 6696919373053952
+Google sheet: 5324115755008000
+Google sheet: 4789956846419968
+Google sheet: 4947588857069568
+Google sheet: 5931776586416128
+Google sheet: 4601546965909504
+Google sheet: 5636028493856768
+Google sheet: 6313255984300032
+Google sheet: 6575602787287040
+Google sheet: 5679060375175168
+Google sheet: 4967610887307264
+Google sheet: 6630381840367616
+Google sheet: 6644110468448256
+Google sheet: 5713169596153856
+Not 16-digit: 訂單編號
+Row: ['星期六', 44562]
+Google sheet: 5462908160049152
+Google sheet: 5440705796374528
+Google sheet: 6049220856512512
+Google sheet: 5324115755008000
+Google sheet: 4733539363979264
+Google sheet: 6006784297926656
+Row: ['星期日', 44563]
+Google sheet: 4601546965909504
+Google sheet: 5168517075828736
+Google sheet: 6313255984300032
+Row: []
+Row: ['星期一', 44564]
+Google sheet: 5713169596153856
+Google sheet: 4789956846419968
+Row: ['星期二', 44565]
+Google sheet: 6189702660096000
+Google sheet: 4712688304390144
+Google sheet: 5747722675159040
+Row: []
+Row: []
+Row: ['星期三', 44566]
+Row: ['星期四', 44567]
+Row: ['星期五', 44568]
+Row: ['星期六', 44569]
+Google sheet: 4815528108621824
+Row: ['星期日', 44570]
+Row: ['星期一', 44571]
+Row: ['星期二', 44572]
+Row: ['星期三', 44573]
+Row: ['星期四', 44574]
+Row: ['星期五', 44575]
+Row: ['星期六', 44576]
+Row: ['星期日', 44577]
+Row: ['星期一', 44578]
+Row: ['星期二', 44579]
+Row: ['星期三', 44580]
+Row: ['星期四', 44581]
+Row: ['星期五', 44582]
+Row: ['星期六', 44583]
+Row: ['星期日', 44584]
+Row: ['星期一', 44585]
+Row: ['星期二', 44586]
+Row: ['星期三', 44587]
+Row: ['星期四', 44588]
+Row: ['星期五', 44589]
+Row: ['星期六', 44590]
+Row: ['星期日', 44591]
+Row: ['星期一', 44592]
+Not 16-digit: 訂單編號
+Row: ['星期三', 44531]
+Row: ['星期四', 44532]
+Not 16-digit: 
+Row: ['星期六', 44534]
+Google sheet: 6655533672169472
+Google sheet: 4897114871169024
+Google sheet: 5910968677826560
+Google sheet: 6617450385899520
+Google sheet: 6686674869420032
+Google sheet: 5149541776097280
+Google sheet: 4631092649918464
+Google sheet: 5142359248601088
+Google sheet: 5356297965928448
+Google sheet: 5017956326178816
+Google sheet: 4717324709003264
+Google sheet: 6584091240693760
+Google sheet: 4725632920584192
+Google sheet: 4552542785765376
+Google sheet: 5468920510283776
+Google sheet: 6131480888737792
+Row: []
+Row: []
+Row: []
+Row: ['星期日', 44535]
+Google sheet: 5053662389993472
+Google sheet: 4522623775145984
+Google sheet: 5177473089273856
+Google sheet: 5886293071495168
+Google sheet: 5708184938479616
+Google sheet: 5880747194974208
+Google sheet: 6702040786010112
+Google sheet: 6161467276656640
+Not 16-digit: 
+Google sheet: 5157538468331520
+Not 16-digit: 
+Google sheet: 4830387810467840
+Google sheet: 6401960749170688
+Google sheet: 6203212332924928
+Google sheet: 6632959995150336
+Google sheet: 5375831644962816
+Row: []
+Row: ['星期一', 44536]
+Google sheet: 6130771682263040
+Google sheet: 4880160219332608
+Google sheet: 6046968280383488
+Google sheet: 4796794904117248
+Google sheet: 6337747552960512
+Google sheet: 6380747826003968
+Google sheet: 6730313414868992
+Google sheet: 5585791872008192
+Google sheet: 4689557019820032
+Google sheet: 5203247510978560
+Google sheet: 5461964810747904
+Google sheet: 6063461546196992
+Google sheet: 4986919940390912
+Google sheet: 4920830472617984
+Google sheet: 4642672640917504
+Google sheet: 5518676754300928
+Not 16-digit: 
+Google sheet: 5710896673456128
+Google sheet: 6033180818800640
+Google sheet: 6234860134989824
+Google sheet: 5671911938981888
+Row: ['星期二', 44537]
+Google sheet: 5078417721655296
+Google sheet: 6305981383442432
+Google sheet: 5738938930167808
+Google sheet: 6188532751269888
+Row: []
+Row: []
+Google sheet: 5758864491413504
+Google sheet: 5865846208593920
+Google sheet: 6396166636961792
+Not 16-digit: 
+Row: []
+Not 16-digit: 
+Row: []
+Row: ['星期三', 44538]
+Row: ['星期四', 44539]
+Row: ['星期五', 44540]
+Row: ['星期六', 44541]
+Google sheet: 5626137251282944
+Google sheet: 5571827524042752
+Not 16-digit: 換貨
+Google sheet: 5069268166246400
+Not 16-digit: 換貨
+Google sheet: 6141434542555136
+Google sheet: 5569460460191744
+Google sheet: 5767502811496448
+Google sheet: 5535379357827072
+Google sheet: 4539088276422656
+Google sheet: 4913525337227264
+Google sheet: 4844381464035328
+Google sheet: 5102609179475968
+Not 16-digit: 換貨
+Row: ['星期日', 44542]
+Google sheet: 4534780680077312
+Google sheet: 5169323388829696
+Google sheet: 5671802819969024
+Google sheet: 5664142666104832
+Google sheet: 4989739062132736
+Row: ['星期一', 44543]
+Google sheet: 5843543114514432
+Google sheet: 5895890511462400
+Google sheet: 4666166627926016
+Not 16-digit: 換貨
+Google sheet: 5848609296875520
+Google sheet: 6663436936282112
+Google sheet: 5665297085366272
+Google sheet: 5510598604488704
+Row: ['星期二', 44544]
+Google sheet: 6526348706316288
+Google sheet: 6556465272848384
+Google sheet: 5120533499871232
+Google sheet: 5526782108368896
+Google sheet: 5479283729498112
+Google sheet: 5758492641198080
+Google sheet: 6375784332787712
+Google sheet: 6542778420035584
+Google sheet: 4881589839462400
+Google sheet: 5552885443198976
+Google sheet: 6181572475748352
+Google sheet: 4754808444682240
+Google sheet: 5687326564024320
+Google sheet: 5469759840845824
+Google sheet: 5562778833256448
+Row: []
+Google sheet: 5979024984768512
+Google sheet: 4678867987070976
+Google sheet: 6317510216515584
+Google sheet: 5639856840638464
+Google sheet: 5357619654033408
+Google sheet: 4893928206761984
+Google sheet: 5960150952312832
+Google sheet: 6508809603383296
+Google sheet: 6024609821491200
+Google sheet: 5506751509168128
+Google sheet: 6190018071756800
+Google sheet: 4720314622803968
+Row: ['星期三', 44545]
+Row: ['星期四', 44546]
+Row: ['星期五', 44547]
+Row: ['星期六', 44548]
+Google sheet: 5604254661345280
+Row: []
+Google sheet: 4984659793543168
+Google sheet: 6605513207971840
+Google sheet: 5976934006784000
+Google sheet: 6231671469899776
+Google sheet: 6016561723867136
+Google sheet: 6274334655119360
+Google sheet: 6220043181490176
+Row: []
+Google sheet: 5161777198399488
+Google sheet: 6378976567230464
+Google sheet: 6514566403063808
+Google sheet: 6539236695212032
+Google sheet: 6099331636658176
+Google sheet: 5163821938376704
+Google sheet: 5421651308183552
+Google sheet: 6568065388118016
+Google sheet: 5816680858124288
+Google sheet: 5277193371516928
+Google sheet: 6267258226737152
+Not 16-digit: 
+Row: []
+Row: []
+Row: []
+Row: []
+Row: []
+Row: []
+Row: []
+Row: ['星期日', 44549]
+Row: []
+Google sheet: 6492861114744832
+Google sheet: 5227899092336640
+Google sheet: 6331616097075200
+Google sheet: 5969090658304000
+Google sheet: 5879597095845888
+Google sheet: 4581741261094912
+Google sheet: 4698624098435072
+Google sheet: 5452013908393984
+Google sheet: 6256461417152512
+Google sheet: 5168517075828736
+Google sheet: 6045097889234944
+Row: []
+Row: ['星期一', 44550]
+Google sheet: 5319796158758912
+Google sheet: 5647694094794752
+Google sheet: 5144898413133824
+Google sheet: 4736179359580160
+Google sheet: 6739152524673024
+Google sheet: 5604155407335424
+Google sheet: 6122776869076992
+Google sheet: 6319391579963392
+Row: []
+Row: []
+Row: ['星期二', 44551]
+Google sheet: 4712688304390144
+Google sheet: 5699814865108992
+Google sheet: 5091209409331200
+Google sheet: 5177527917215744
+Google sheet: 6049771954503680
+Row: []
+Row: []
+Row: []
+Google sheet: 6041395962970112
+Row: []
+Row: []
+Row: []
+Row: []
+Row: ['星期三', 44552]
+Row: ['星期四', 44553]
+Row: ['星期五', 44554]
+Google sheet: 4902008382423040
+Google sheet: 5311086434844672
+Row: []
+Row: ['星期六', 44555]
+Row: ['星期日', 44556]
+Google sheet: 5931776586416128
+Google sheet: 5541642292559872
+Not 16-digit: 
+Google sheet: 5177624553979904
+Google sheet: 4735671546806272
+Row: ['星期一', 44557]
+Google sheet: 4967610887307264
+Google sheet: 6644110468448256
+Google sheet: 4947588857069568
+Google sheet: 6696919373053952
+Google sheet: 6307161761251328
+Google sheet: 5327428449861632
+Row: []
+Google sheet: 5711593578037248
+Google sheet: 5248602780860416
+Row: ['星期二', 44558]
+Google sheet: 6630381840367616
+Google sheet: 5636028493856768
+Google sheet: 6456830835425280
+Google sheet: 5313750220537856
+Google sheet: 4910776826593280
+Google sheet: 5130467323019264
+Google sheet: 6737298105434112
+Google sheet: 6728538842595328
+Google sheet: 4943480116871168
+Row: ['星期三', 44559]
+Row: ['星期四', 44560]
+Row: ['星期五', 44561]
+Row: []
+Google sheet: 6493044712013824
+Google sheet: 6396953274482688
+Google sheet: 6730337628585984
+Google sheet: 6476676604231680
+Google sheet: 4973578777919488
+Not 16-digit: 
+Not 16-digit: 
+Not 16-digit: 
+Not 16-digit: 
+Not 16-digit: 
+Google sheet: 5292590225293312
+login whatsapp success.
+Google sheet: 18 cells appended.
+Have new order, please check the google sheet "to_add" tab.
+Duplicated items in Google sheet: 6049220856512512, 6737298105434112, 4733539363979264, 6006784297926656, 5168517075828736, 6189702660096000, 5747722675159040, 4943480116871168, 5440705796374528, 4712688304390144, 5327428449861632, 6696919373053952, 5324115755008000, 4789956846419968, 4947588857069568, 5931776586416128, 4601546965909504, 5636028493856768, 6313255984300032, 4967610887307264, 6630381840367616, 6644110468448256, 5713169596153856.
+
+login whatsapp success.
+commentDocumentPath: C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-12-25 Auction Coral\comment.docx
+Connected Dropbox api.
+Copying Chrome profile.
+Bid 1: $140
+Bid 2: $0
+Bid 3: $0
+Bid 4: $0
+Bid 5: $40
+Bid 6: $100
+Bid 7: $300
+Bid 8: $300
+Bid 9: $40
+Bid 10: $80
+Bid 11: $80
+Bid 12: $80
+Bid 13: $0
+Bid 14: $40
+Bid 15: $300
+Bid 16: $0
+Bid 17: $140
+Bid 18: $140
+Bid 19: $120
+Bid 20: $120
+Uploading CSV...
+User pressed <enter> to continue.
+
+
+
+
+
+-----2021-12-27 18:05:18-----
+
+commentDocumentPath: C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-12-25 Auction Coral\comment.docx
+Connected Dropbox api.
+Copying Chrome profile.
+Bid 1: $140
+Bid 2: $0
+Bid 3: $0
+Bid 4: $0
+Bid 5: $40
+Bid 6: $100
+Bid 7: $300
+Bid 8: $300
+Bid 9: $40
+Bid 10: $80
+Bid 11: $80
+Bid 12: $80
+Bid 13: $0
+Bid 14: $40
+Bid 15: $300
+Bid 16: $0
+Bid 17: $140
+Bid 18: $140
+Bid 19: $120
+Bid 20: $120
+Uploading CSV...
+User pressed <enter> to continue.
+https://wwa.boutir.com/i/RMHOCUgAA
+https://wwa.boutir.com/i/SXGHKUgAA
+https://wwa.boutir.com/i/W-QlaUgAA
+https://wwa.boutir.com/i/XnGHKUgAA
+https://wwa.boutir.com/i/WiBDcUgAA
+https://wwa.boutir.com/i/TeoyYUgAA
+https://wwa.boutir.com/i/S-QlaUgAA
+https://wwa.boutir.com/i/QsVa8UgAA
+https://wwa.boutir.com/i/QR74kUgAA
+https://wwa.boutir.com/i/RGf7SUgAA
+https://wwa.boutir.com/i/VIzkSUgAA
+Opening: https://band.us/band/78427905/post/2584
+Opening: https://band.us/band/78427905/post/2588
+Opening: https://band.us/band/78427905/post/2589
+Opening: https://band.us/band/78427905/post/2590
+Opening: https://band.us/band/78427905/post/2591
+Opening: https://band.us/band/78427905/post/2592
+Opening: https://band.us/band/78427905/post/2593
+Opening: https://band.us/band/78427905/post/2594
+Opening: https://band.us/band/78427905/post/2595
+Opening: https://band.us/band/78427905/post/2597
+Opening: https://band.us/band/78427905/post/2598
+Opening: https://band.us/band/78427905/post/2600
+
+
+
+
+
+-----2021-12-27 20:08:35-----
+
+row 1: ['2021/12/27', 'a', '2021/12/28', '2100', '3529 CAA2682 CAA4552', 'Zoas / Zoas / Zoas', '1', '120', '環球水族HK - 拍賣區', 'y']
+row 2: ['2021/12/27', 'a', '2021/12/28', '2100', '4708', '光纖', '', '40', '環球水族HK - 拍賣區', 'y']
+row 3: ['2021/12/27', 'a', '2021/12/28', '2100', '2837', 'Zoas', '2', '100', '環球水族HK - 拍賣區', 'y']
+row 4: ['2021/12/27', 'a', '2021/12/28', '2100', '2319', '金鳳梨', '', '60', '環球水族HK - 拍賣區', 'y']
+row 5: ['2021/12/27', 'a', '2021/12/28', '2100', '4579', '綠綫星花', '5', '60', '環球水族HK - 拍賣區', 'y']
+row 6: ['2021/12/27', 'a', '2021/12/28', '2100', '2927', '金彈弓', '', '200', '環球水族HK - 拍賣區', 'y']
+row 7: ['2021/12/27', 'a', '2021/12/28', '2100', '3750', '馬卡龍寶石花', '', '200', '環球水族HK - 拍賣區', 'y']
+row 8: ['2021/12/27', 'a', '2021/12/28', '2100', '2836', '五彩種片腦', '', '400', '環球水族HK - 拍賣區', 'y']
+row 9: ['2021/12/27', 'a', '2021/12/28', '2100', '3443 CAA4384 CAA2879', 'Zoas / Zoas / Fire Zoas', '', '120', '環球水族HK - 拍賣區', 'y']
+row 10: ['2021/12/27', 'a', '2021/12/28', '2100', '1805', '菇', '', '60', '環球水族HK - 拍賣區', 'y']
+row 11: ['2021/12/27', 'a', '2021/12/28', '2100', '4656 CAA2685', 'Fire Zoas / Zoas', '', '60', '環球水族HK - 拍賣區', 'y']
+row 12: ['2021/12/27', 'a', '2021/12/28', '2100', '3336', '粉彩腦', '', '60', '環球水族HK - 拍賣區', 'y']
+row 13: ['2021/12/27', 'a', '2021/12/28', '2100', '4128', '菇', '', '40', '環球水族HK - 拍賣區', 'y']
+row 14: ['2021/12/27', 'a', '2021/12/28', '2100', '1596', '千手', '', '40', '環球水族HK - 拍賣區', 'y']
+row 15: ['2021/12/27', 'a', '2021/12/28', '2100', '2838', '綠糖果腦', '', '40', '環球水族HK - 拍賣區', 'y']
+row 16: ['2021/12/27', 'a', '2021/12/28', '2100', '3387 CAA1074', 'Zoas / Zoas', '', '140', '環球水族HK - 拍賣區', 'y']
+row 17: ['2021/12/27', 'a', '2021/12/28', '2100', '4365', '菇', '2', '100', '環球水族HK - 拍賣區', 'y']
+row 18: ['2021/12/27', 'a', '2021/12/28', '2100', '3999', '綠火柴', '1', '100', '環球水族HK - 拍賣區', 'y']
+row 19: ['2021/12/27', 'a', '2021/12/28', '2100', '4480', '彩頭綠火柴', '3', '240', '環球水族HK - 拍賣區', 'y']
+row 20: ['2021/12/27', 'a', '2021/12/28', '2100', '2522', '粉塵螢光綠豬腰', '2', '200', '環球水族HK - 拍賣區', 'y']
+row 21: ['2021/12/27', 'a', '2021/12/28', '2100', '3365', 'Fire Zoas', '4', '40', '環球水族HK - 拍賣區', 'y']
+row 22: ['2021/12/27', 'a', '2021/12/28', '2100', '3027', '糖果腦', '3', '100', '環球水族HK - 拍賣區', 'y']
+row 23: ['2021/12/27', 'a', '2021/12/28', '2100', '2731', '腦', '2', '100', '環球水族HK - 拍賣區', 'y']
+row 24: ['2021/12/27', 'a', '2021/12/28', '2100', '3708', '馬卡龍寶石花', '', '80', '環球水族HK - 拍賣區', 'y']
+row 25: ['2021/12/27', 'a', '2021/12/28', '2100', '2629 CAA4373 CAA4760', 'Zoas / Green Death Zoas / Fire Zoas', '', '100', '環球水族HK - 拍賣區', 'y']
+row 26: ['2021/12/27', 'a', '2021/12/28', '2100', '4217', '藍寶石花', '', '80', '環球水族HK - 拍賣區', 'y']
+row 27: ['2021/12/27', 'a', '2021/12/28', '2100', '', '幻彩紅奶嘴', '2.5', '300', '環球水族HK - 拍賣區', 'y']
+Google sheet: 271 cells appended.
+login band success.
+firstPostCode: 2624
+
+[Post 1]
+Zoas / Zoas / Zoas 起標價：$120
+拍賣連結： https://band.us/band/78427905/post/2625
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-12-27 Auction Coral\Picture\012.JPG
+Finished post 3.
+
+
+[Post 2]
+光纖 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/2626
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-12-27 Auction Coral\Picture\010.JPG
+Finished post 1.
+
+
+[Post 3]
+Zoas 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/2627
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-12-27 Auction Coral\Picture\010.JPG
+Finished post 1.
+
+
+[Post 4]
+金鳳梨 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/2628
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-12-27 Auction Coral\Picture\010.JPG
+Finished post 1.
+
+
+[Post 5]
+綠綫星花 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/2629
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-12-27 Auction Coral\Picture\010.JPG
+Finished post 1.
+
+
+[Post 6]
+金彈弓 起標價：$200
+拍賣連結： https://band.us/band/78427905/post/2630
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-12-27 Auction Coral\Picture\010.JPG
+Finished post 1.
+
+
+[Post 7]
+馬卡龍寶石花 起標價：$200
+拍賣連結： https://band.us/band/78427905/post/2631
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-12-27 Auction Coral\Picture\010.JPG
+Finished post 1.
+
+
+[Post 8]
+五彩種片腦 起標價：$400
+拍賣連結： https://band.us/band/78427905/post/2632
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-12-27 Auction Coral\Picture\010.JPG
+Finished post 1.
+
+
+[Post 9]
+Zoas / Zoas / Fire Zoas 起標價：$120
+拍賣連結： https://band.us/band/78427905/post/2633
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-12-27 Auction Coral\Picture\012.JPG
+Finished post 3.
+
+
+[Post 10]
+菇 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/2634
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-12-27 Auction Coral\Picture\010.JPG
+Finished post 1.
+
+
+[Post 11]
+Fire Zoas / Zoas 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/2635
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-12-27 Auction Coral\Picture\011.JPG
+Finished post 2.
+
+
+[Post 12]
+粉彩腦 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/2636
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-12-27 Auction Coral\Picture\010.JPG
+Finished post 1.
+
+
+[Post 13]
+菇 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/2637
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-12-27 Auction Coral\Picture\010.JPG
+Finished post 1.
+
+
+[Post 14]
+千手 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/2638
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-12-27 Auction Coral\Picture\010.JPG
+Finished post 1.
+
+
+[Post 15]
+綠糖果腦 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/2639
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-12-27 Auction Coral\Picture\010.JPG
+Finished post 1.
+
+
+[Post 16]
+Zoas / Zoas 起標價：$140
+拍賣連結： https://band.us/band/78427905/post/2640
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-12-27 Auction Coral\Picture\011.JPG
+Finished post 2.
+
+
+[Post 17]
+菇 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/2641
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-12-27 Auction Coral\Picture\010.JPG
+Finished post 1.
+
+
+[Post 18]
+綠火柴 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/2642
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-12-27 Auction Coral\Picture\010.JPG
+Finished post 1.
+
+
+[Post 19]
+彩頭綠火柴 起標價：$240
+拍賣連結： https://band.us/band/78427905/post/2643
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-12-27 Auction Coral\Picture\010.JPG
+Finished post 1.
+
+
+[Post 20]
+粉塵螢光綠豬腰 起標價：$200
+拍賣連結： https://band.us/band/78427905/post/2644
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-12-27 Auction Coral\Picture\010.JPG
+Finished post 1.
+
+
+[Post 21]
+Fire Zoas 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/2645
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-12-27 Auction Coral\Picture\010.JPG
+Finished post 1.
+
+
+[Post 22]
+糖果腦 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/2646
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-12-27 Auction Coral\Picture\010.JPG
+Finished post 1.
+
+
+[Post 23]
+腦 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/2647
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-12-27 Auction Coral\Picture\010.JPG
+Finished post 1.
+
+
+[Post 24]
+馬卡龍寶石花 起標價：$80
+拍賣連結： https://band.us/band/78427905/post/2648
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-12-27 Auction Coral\Picture\010.JPG
+Finished post 1.
+
+
+[Post 25]
+Zoas / Green Death Zoas / Fire Zoas 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/2649
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-12-27 Auction Coral\Picture\012.JPG
+Finished post 3.
+
+
+[Post 26]
+藍寶石花 起標價：$80
+拍賣連結： https://band.us/band/78427905/post/2650
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-12-27 Auction Coral\Picture\010.JPG
+Finished post 1.
+
+
+[Post 27]
+幻彩紅奶嘴 起標價：$300
+拍賣連結： https://band.us/band/78427905/post/2651
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-12-27 Auction Coral\Picture\010.JPG
+Finished post 1.
+
+
+Finished posting to band.
+Opening https://web.whatsapp.com/
+login whatsapp success.
+Finding group "拍賣通知專區"
+Finding input box.
+
+❗最新珊瑚拍賣❗
+Generating msg for post 1.
+Zoas / Zoas / Zoas 起標價：$120
+拍賣連結： https://band.us/band/78427905/post/2625
+Generating msg for post 2.
+光纖 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/2626
+Generating msg for post 3.
+Zoas 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/2627
+Generating msg for post 4.
+金鳳梨 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/2628
+Generating msg for post 5.
+綠綫星花 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/2629
+Generating msg for post 6.
+金彈弓 起標價：$200
+拍賣連結： https://band.us/band/78427905/post/2630
+Generating msg for post 7.
+馬卡龍寶石花 起標價：$200
+拍賣連結： https://band.us/band/78427905/post/2631
+Generating msg for post 8.
+五彩種片腦 起標價：$400
+拍賣連結： https://band.us/band/78427905/post/2632
+Generating msg for post 9.
+Zoas / Zoas / Fire Zoas 起標價：$120
+拍賣連結： https://band.us/band/78427905/post/2633
+Generating msg for post 10.
+菇 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/2634
+Generating msg for post 11.
+Fire Zoas / Zoas 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/2635
+Generating msg for post 12.
+粉彩腦 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/2636
+Generating msg for post 13.
+菇 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/2637
+Generating msg for post 14.
+千手 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/2638
+Generating msg for post 15.
+綠糖果腦 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/2639
+Generating msg for post 16.
+Zoas / Zoas 起標價：$140
+拍賣連結： https://band.us/band/78427905/post/2640
+Generating msg for post 17.
+菇 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/2641
+Generating msg for post 18.
+綠火柴 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/2642
+Generating msg for post 19.
+彩頭綠火柴 起標價：$240
+拍賣連結： https://band.us/band/78427905/post/2643
+Generating msg for post 20.
+粉塵螢光綠豬腰 起標價：$200
+拍賣連結： https://band.us/band/78427905/post/2644
+Generating msg for post 21.
+Fire Zoas 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/2645
+Generating msg for post 22.
+糖果腦 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/2646
+Generating msg for post 23.
+腦 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/2647
+Generating msg for post 24.
+馬卡龍寶石花 起標價：$80
+拍賣連結： https://band.us/band/78427905/post/2648
+Generating msg for post 25.
+Zoas / Green Death Zoas / Fire Zoas 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/2649
+Generating msg for post 26.
+藍寶石花 起標價：$80
+拍賣連結： https://band.us/band/78427905/post/2650
+Generating msg for post 27.
+幻彩紅奶嘴 起標價：$300
+拍賣連結： https://band.us/band/78427905/post/2651
+Sent message.
+login whatsapp success.
+Sent photos.
+[CMS 1]: 5965148012544000
+[CMS 2]: 5179204900618240
+[CMS 3]: 6120212471611392
+[CMS 4]: 6064823633838080
+[CMS 5]: 6484298325688320
+[CMS 6]: 5561602347761664
+[CMS 7]: 6644110468448256
+[CMS 8]: 5713169596153856
+[CMS 9]: 6630381840367616
+[CMS 10]: 4967610887307264
+[CMS 11]: 5327428449861632
+[CMS 12]: 5636028493856768
+[CMS 13]: 4947588857069568
+[CMS 14]: 6313255984300032
+[CMS 15]: 5380939514511360
+[CMS 16]: 5931776586416128
+[CMS 17]: 6696919373053952
+[CMS 18]: 4789956846419968
+[CMS 19]: 5324115755008000
+[CMS 20]: 4601546965909504
+[CMS 21]: 6575602787287040
+[CMS 22]: 6307161761251328
+[CMS 23]: 5313750220537856
+[CMS 24]: 5462908160049152
+[CMS 25]: 6456830835425280
+[CMS 26]: 4815528108621824
+[CMS 27]: 5177624553979904
+[CMS 28]: 4735671546806272
+[CMS 29]: 5440705796374528
+[CMS 30]: 4943480116871168
+[CMS 31]: 6737298105434112
+[CMS 32]: 4733539363979264
+[CMS 33]: 5699814865108992
+[CMS 34]: 4910776826593280
+[CMS 35]: 6122776869076992
+[CMS 36]: 5130467323019264
+[CMS 37]: 5177527917215744
+[CMS 38]: 5091209409331200
+[CMS 39]: 4712688304390144
+[CMS 40]: 5561280896303104
+[CMS 41]: 5319796158758912
+[CMS 42]: 5541642292559872
+[CMS 43]: 5144898413133824
+[CMS 44]: 4701208729223168
+[CMS 45]: 6041936692641792
+[CMS 46]: 6739152524673024
+[CMS 47]: 6319391579963392
+[CMS 48]: 6220043181490176
+[CMS 49]: 5248602780860416
+[CMS 50]: 6006784297926656
+[CMS 51]: 4698624098435072
+[CMS 52]: 6231671469899776
+[CMS 53]: 5833310568841216
+[CMS 54]: 5311086434844672
+[CMS 55]: 6492861114744832
+[CMS 56]: 6378976567230464
+[CMS 57]: 5711593578037248
+[CMS 58]: 5969090658304000
+[CMS 59]: 6331616097075200
+[CMS 60]: 6049771954503680
+[CMS 61]: 4736179359580160
+[CMS 62]: 5647694094794752
+[CMS 63]: 4902008382423040
+[CMS 64]: 5227899092336640
+[CMS 65]: 6539236695212032
+[CMS 66]: 6267258226737152
+[CMS 67]: 5277193371516928
+[CMS 68]: 5816680858124288
+[CMS 69]: 6568065388118016
+[CMS 70]: 5421651308183552
+[CMS 71]: 5163821938376704
+[CMS 72]: 6099331636658176
+[CMS 73]: 6049220856512512
+[CMS 74]: 5604254661345280
+[CMS 75]: 5168517075828736
+[CMS 76]: 4651240463138816
+[CMS 77]: 5747722675159040
+[CMS 78]: 6728538842595328
+[CMS 79]: 5604155407335424
+[CMS 80]: 5879597095845888
+[CMS 81]: 5161777198399488
+[CMS 82]: 4973578777919488
+[CMS 83]: 5758492641198080
+[CMS 84]: 6526348706316288
+[CMS 85]: 6508809603383296
+[CMS 86]: 4754808444682240
+[CMS 87]: 6514566403063808
+[CMS 88]: 5526782108368896
+[CMS 89]: 6317510216515584
+[CMS 90]: 5120533499871232
+[CMS 91]: 5665297085366272
+[CMS 92]: 6556465272848384
+[CMS 93]: 5510598604488704
+[CMS 94]: 6375784332787712
+[CMS 95]: 6189702660096000
+[CMS 96]: 5452013908393984
+[CMS 97]: 5479283729498112
+[CMS 98]: 6542778420035584
+[CMS 99]: 5687326564024320
+[CMS 100]: 4984659793543168
+Range names: to_add, 2022年01月, 2021年12月
+Not 16-digit: .
+Google sheet: 6049220856512512
+Google sheet: 6737298105434112
+Google sheet: 4733539363979264
+Google sheet: 6006784297926656
+Google sheet: 5168517075828736
+Google sheet: 6189702660096000
+Google sheet: 5747722675159040
+Google sheet: 4943480116871168
+Google sheet: 5833310568841216
+Google sheet: 5440705796374528
+Google sheet: 4712688304390144
+Google sheet: 5327428449861632
+Google sheet: 6696919373053952
+Google sheet: 5324115755008000
+Google sheet: 4789956846419968
+Google sheet: 4947588857069568
+Google sheet: 5931776586416128
+Google sheet: 4601546965909504
+Google sheet: 5636028493856768
+Google sheet: 6313255984300032
+Google sheet: 6575602787287040
+Google sheet: 5679060375175168
+Google sheet: 4967610887307264
+Google sheet: 6630381840367616
+Google sheet: 6644110468448256
+Google sheet: 5713169596153856
+Google sheet: 5561602347761664
+Google sheet: 6484298325688320
+Not 16-digit: 訂單編號
+Row: ['星期六', 44562]
+Row: []
+Google sheet: 5440705796374528
+Google sheet: 6049220856512512
+Google sheet: 5324115755008000
+Google sheet: 4733539363979264
+Google sheet: 6006784297926656
+Row: ['星期日', 44563]
+Google sheet: 6484298325688320
+Google sheet: 4601546965909504
+Google sheet: 5168517075828736
+Google sheet: 6313255984300032
+Row: []
+Row: ['星期一', 44564]
+Google sheet: 5561602347761664
+Google sheet: 5711593578037248
+Google sheet: 5248602780860416
+Google sheet: 5713169596153856
+Google sheet: 4789956846419968
+Row: ['星期二', 44565]
+Google sheet: 6189702660096000
+Google sheet: 4712688304390144
+Google sheet: 5747722675159040
+Row: []
+Row: []
+Row: ['星期三', 44566]
+Row: ['星期四', 44567]
+Row: ['星期五', 44568]
+Row: ['星期六', 44569]
+Google sheet: 4815528108621824
+Row: ['星期日', 44570]
+Row: ['星期一', 44571]
+Row: ['星期二', 44572]
+Row: ['星期三', 44573]
+Row: ['星期四', 44574]
+Row: ['星期五', 44575]
+Row: ['星期六', 44576]
+Row: ['星期日', 44577]
+Row: ['星期一', 44578]
+Row: ['星期二', 44579]
+Row: ['星期三', 44580]
+Row: ['星期四', 44581]
+Row: ['星期五', 44582]
+Row: ['星期六', 44583]
+Row: ['星期日', 44584]
+Row: ['星期一', 44585]
+Row: ['星期二', 44586]
+Row: ['星期三', 44587]
+Row: ['星期四', 44588]
+Row: ['星期五', 44589]
+Row: ['星期六', 44590]
+Row: ['星期日', 44591]
+Row: ['星期一', 44592]
+Not 16-digit: 訂單編號
+Row: ['星期三', 44531]
+Row: ['星期四', 44532]
+Not 16-digit: 
+Row: ['星期六', 44534]
+Google sheet: 6655533672169472
+Google sheet: 4897114871169024
+Google sheet: 5910968677826560
+Google sheet: 6617450385899520
+Google sheet: 6686674869420032
+Google sheet: 5149541776097280
+Google sheet: 4631092649918464
+Google sheet: 5142359248601088
+Google sheet: 5356297965928448
+Google sheet: 5017956326178816
+Google sheet: 4717324709003264
+Google sheet: 6584091240693760
+Google sheet: 4725632920584192
+Google sheet: 4552542785765376
+Google sheet: 5468920510283776
+Google sheet: 6131480888737792
+Row: []
+Row: []
+Row: []
+Row: ['星期日', 44535]
+Google sheet: 5053662389993472
+Google sheet: 4522623775145984
+Google sheet: 5177473089273856
+Google sheet: 5886293071495168
+Google sheet: 5708184938479616
+Google sheet: 5880747194974208
+Google sheet: 6702040786010112
+Google sheet: 6161467276656640
+Not 16-digit: 
+Google sheet: 5157538468331520
+Not 16-digit: 
+Google sheet: 4830387810467840
+Google sheet: 6401960749170688
+Google sheet: 6203212332924928
+Google sheet: 6632959995150336
+Google sheet: 5375831644962816
+Row: []
+Row: ['星期一', 44536]
+Google sheet: 6130771682263040
+Google sheet: 4880160219332608
+Google sheet: 6046968280383488
+Google sheet: 4796794904117248
+Google sheet: 6337747552960512
+Google sheet: 6380747826003968
+Google sheet: 6730313414868992
+Google sheet: 5585791872008192
+Google sheet: 4689557019820032
+Google sheet: 5203247510978560
+Google sheet: 5461964810747904
+Google sheet: 6063461546196992
+Google sheet: 4986919940390912
+Google sheet: 4920830472617984
+Google sheet: 4642672640917504
+Google sheet: 5518676754300928
+Not 16-digit: 
+Google sheet: 5710896673456128
+Google sheet: 6033180818800640
+Google sheet: 6234860134989824
+Google sheet: 5671911938981888
+Row: ['星期二', 44537]
+Google sheet: 5078417721655296
+Google sheet: 6305981383442432
+Google sheet: 5738938930167808
+Google sheet: 6188532751269888
+Row: []
+Row: []
+Google sheet: 5758864491413504
+Google sheet: 5865846208593920
+Google sheet: 6396166636961792
+Not 16-digit: 
+Row: []
+Not 16-digit: 
+Row: []
+Row: ['星期三', 44538]
+Row: ['星期四', 44539]
+Row: ['星期五', 44540]
+Row: ['星期六', 44541]
+Google sheet: 5626137251282944
+Google sheet: 5571827524042752
+Not 16-digit: 換貨
+Google sheet: 5069268166246400
+Not 16-digit: 換貨
+Google sheet: 6141434542555136
+Google sheet: 5569460460191744
+Google sheet: 5767502811496448
+Google sheet: 5535379357827072
+Google sheet: 4539088276422656
+Google sheet: 4913525337227264
+Google sheet: 4844381464035328
+Google sheet: 5102609179475968
+Not 16-digit: 換貨
+Row: ['星期日', 44542]
+Google sheet: 4534780680077312
+Google sheet: 5169323388829696
+Google sheet: 5671802819969024
+Google sheet: 5664142666104832
+Google sheet: 4989739062132736
+Row: ['星期一', 44543]
+Google sheet: 5843543114514432
+Google sheet: 5895890511462400
+Google sheet: 4666166627926016
+Not 16-digit: 換貨
+Google sheet: 5848609296875520
+Google sheet: 6663436936282112
+Google sheet: 5665297085366272
+Google sheet: 5510598604488704
+Row: ['星期二', 44544]
+Google sheet: 6526348706316288
+Google sheet: 6556465272848384
+Google sheet: 5120533499871232
+Google sheet: 5526782108368896
+Google sheet: 5479283729498112
+Google sheet: 5758492641198080
+Google sheet: 6375784332787712
+Google sheet: 6542778420035584
+Google sheet: 4881589839462400
+Google sheet: 5552885443198976
+Google sheet: 6181572475748352
+Google sheet: 4754808444682240
+Google sheet: 5687326564024320
+Google sheet: 5469759840845824
+Google sheet: 5562778833256448
+Row: []
+Google sheet: 5979024984768512
+Google sheet: 4678867987070976
+Google sheet: 6317510216515584
+Google sheet: 5639856840638464
+Google sheet: 5357619654033408
+Google sheet: 4893928206761984
+Google sheet: 5960150952312832
+Google sheet: 6508809603383296
+Google sheet: 6024609821491200
+Google sheet: 5506751509168128
+Google sheet: 6190018071756800
+Google sheet: 4720314622803968
+Row: ['星期三', 44545]
+Row: ['星期四', 44546]
+Row: ['星期五', 44547]
+Row: ['星期六', 44548]
+Google sheet: 5604254661345280
+Row: []
+Google sheet: 4984659793543168
+Google sheet: 6605513207971840
+Google sheet: 5976934006784000
+Google sheet: 6231671469899776
+Google sheet: 6016561723867136
+Google sheet: 6274334655119360
+Google sheet: 6220043181490176
+Row: []
+Google sheet: 5161777198399488
+Google sheet: 6378976567230464
+Google sheet: 6514566403063808
+Google sheet: 6539236695212032
+Google sheet: 6099331636658176
+Google sheet: 5163821938376704
+Google sheet: 5421651308183552
+Google sheet: 6568065388118016
+Google sheet: 5816680858124288
+Google sheet: 5277193371516928
+Google sheet: 6267258226737152
+Not 16-digit: 
+Row: []
+Row: []
+Row: []
+Row: []
+Row: []
+Row: []
+Row: []
+Row: ['星期日', 44549]
+Row: []
+Google sheet: 6492861114744832
+Google sheet: 5227899092336640
+Google sheet: 6331616097075200
+Google sheet: 5969090658304000
+Google sheet: 5879597095845888
+Google sheet: 4581741261094912
+Google sheet: 4698624098435072
+Google sheet: 5452013908393984
+Google sheet: 6256461417152512
+Google sheet: 5168517075828736
+Google sheet: 6045097889234944
+Row: []
+Row: ['星期一', 44550]
+Google sheet: 5319796158758912
+Google sheet: 5647694094794752
+Google sheet: 5144898413133824
+Google sheet: 4736179359580160
+Google sheet: 6739152524673024
+Google sheet: 5604155407335424
+Google sheet: 6122776869076992
+Google sheet: 6319391579963392
+Row: []
+Row: []
+Row: ['星期二', 44551]
+Google sheet: 4712688304390144
+Google sheet: 5699814865108992
+Google sheet: 5091209409331200
+Google sheet: 5177527917215744
+Google sheet: 6049771954503680
+Row: []
+Row: []
+Row: []
+Google sheet: 6041395962970112
+Row: []
+Row: []
+Row: []
+Row: []
+Row: ['星期三', 44552]
+Row: ['星期四', 44553]
+Row: ['星期五', 44554]
+Google sheet: 4902008382423040
+Google sheet: 5311086434844672
+Row: []
+Row: ['星期六', 44555]
+Row: ['星期日', 44556]
+Google sheet: 5931776586416128
+Google sheet: 5541642292559872
+Not 16-digit: 
+Google sheet: 5177624553979904
+Google sheet: 4735671546806272
+Row: ['星期一', 44557]
+Google sheet: 4967610887307264
+Not 16-digit: 
+Google sheet: 6644110468448256
+Google sheet: 4947588857069568
+Google sheet: 6696919373053952
+Google sheet: 6307161761251328
+Google sheet: 5327428449861632
+Not 16-digit: 
+Google sheet: 5462908160049152
+Row: []
+Row: []
+Row: ['星期二', 44558]
+Google sheet: 6630381840367616
+Google sheet: 5636028493856768
+Google sheet: 6456830835425280
+Google sheet: 5313750220537856
+Google sheet: 4910776826593280
+Google sheet: 5130467323019264
+Google sheet: 6737298105434112
+Google sheet: 6728538842595328
+Google sheet: 4943480116871168
+Row: ['星期三', 44559]
+Row: ['星期四', 44560]
+Row: ['星期五', 44561]
+Row: []
+Google sheet: 6493044712013824
+Google sheet: 6396953274482688
+Google sheet: 6730337628585984
+Google sheet: 6476676604231680
+Google sheet: 4973578777919488
+Not 16-digit: 
+Not 16-digit: 
+Not 16-digit: 
+Not 16-digit: 
+Not 16-digit: 
+Google sheet: 5292590225293312
+login whatsapp success.
+Google sheet: 37 cells appended.
+Have new order, please check the google sheet "to_add" tab.
+Duplicated items in Google sheet: 6049220856512512, 6737298105434112, 4733539363979264, 6006784297926656, 5168517075828736, 6189702660096000, 5747722675159040, 4943480116871168, 5440705796374528, 4712688304390144, 5327428449861632, 6696919373053952, 5324115755008000, 4789956846419968, 4947588857069568, 5931776586416128, 4601546965909504, 5636028493856768, 6313255984300032, 4967610887307264, 6630381840367616, 6644110468448256, 5713169596153856, 5561602347761664, 6484298325688320.
+
+login whatsapp success.
+Row: ['.', '日期', '訂單編號', '客人名稱', '聯絡電話', '交收方式', '備註', '金額', '付款方式', '通知確認訂單', '確認訂單', '下單後推薦 msg', '當日通知', '完成交收', '多謝幫襯msg', '邀請客人成爲會員', '邀請客人留言', '給優惠碼(如客人已留言)', '售後慰問(first)', '售後慰問(second)', '售後慰問(end)']
+Row: ['', '', '6655533672169472', 'Billy liu', 96284231, '門市', '#4401 3134 4577 2517 0222 3451 4255', 200, 'payme']
+Row: ['', '', '4897114871169024', '威仔', 64766234, '門市', '#3926 3993', 340]
+Row: ['', '', '5910968677826560', '鍾生', 66813230, '門市', '拍賣品 請勿購買 2吋幻彩紅奶嘴', 320]
+Row: ['', '', '6617450385899520', 'Ray Lee', 91073931, '門市', '#2067', 180]
+Row: ['', '', '6686674869420032', '', '', '', '#3927', 400]
+Row: ['', '', 5149541776097280.0, '', '', '', '膠水*2', 80]
+Row: ['', '', '4631092649918464', 'Louis Cheng', 92542586, '門市', '拍賣品 請勿購買 5吋紫點綠海葵', 120]
+Row: ['', '', '5142359248601088', '', '', '門市', '#1140', 60]
+Row: ['', '', '5356297965928448', 'winghungchan', 95126583, '魚街', '#1768', 60]
+Row: ['', '', '5017956326178816', '', '', '魚街', '#4049 4190', 180]
+Row: ['', '', '4717324709003264', '', '', '魚街', '#4493 2870', 180]
+Row: ['', '', '6584091240693760', '', '', '魚街', '#2562 3420', 160]
+Row: ['', '', '4725632920584192', '', '', '魚街', '', 40]
+Row: ['', '', '4552542785765376', '', '', '魚街', '#2864 2411', 480]
+Row: ['', '', '5468920510283776', '', '', '魚街', '#3160 2567 4204', 320]
+Row: ['', '', '6131480888737792', 'BBchow', 92535460, '魚街', '#3282', 140]
+Row: []
+Row: []
+Row: []
+Row: ['', '', '5053662389993472', 'KK Chan', 65969784, '魚街', '#3541 4090', 260]
+Row: ['', '', '4522623775145984', 'B', 61289362, '魚街', '#3385 3786 3294 2762 3108 2291 4104 3675', 860]
+Row: ['', '', '5177473089273856', 'Kaischan', 56237299, '魚街', '#0922', 100]
+Row: ['', '', '5886293071495168', 'Kelsey Yung', 51115200, '魚街', '#2612', 60]
+Row: ['', '', '5708184938479616', 'sung yu san', 96269919, '魚街', '#2462', 60]
+Row: ['', '', '5880747194974208', '', '', '魚街', '#4554', 100]
+Row: ['', '', '6702040786010112', '', '', '魚街', '#4413', 100]
+Row: ['', '', '6161467276656640', '', '', '魚街', '#3563', 80]
+Row: ['', '', '', '', '', '', '#4988', 100]
+Row: ['', '', '5157538468331520', 'Jackie KW', 94841912, '魚街', '拍賣品 請勿購買 2吋紫點雪花綠奶嘴', 120]
+Row: ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '3703 to 4975']
+Row: ['', '', '4830387810467840', 'Thomas Chan', 51877690, '魚街', '拍賣品 請勿購買 3吋紫點雪花綠海葵', 140]
+Row: ['', '', '6401960749170688', '', '', '魚街', '#4321 拍賣品 請勿購買 2吋橙點綠海葵', 220, -140]
+Row: ['', '', '6203212332924928', 'Jason Chan', 94785194, '魚街', '# 3119', 180, '=sum(H39:H41)', '=740+160']
+Row: ['', '', '6632959995150336', '', '', '魚街', '#2134 2366', 180]
+Row: ['', '', '5375831644962816', '', '', '魚街', '#2149 2242', 380]
+Row: []
+Row: ['', '', '6130771682263040', 'Frankie CHAU', 93088181, '門市', '#3360', 120]
+Row: ['', '', '4880160219332608', 'Terry Fung', 68480857, '門市', '#2759', 60, 'payme']
+Row: ['', '', '6046968280383488', '', '', '門市', '#4853', 100]
+Row: ['', '', '4796794904117248', '', '', '門市', '#2815', 80]
+Row: ['', '', '6337747552960512', '', '', '門市', '#4154', 80]
+Row: ['', '', '6380747826003968', 'Raymond yu', 96680029, '門市', '#4208', 380]
+Row: ['', '', '6730313414868992', 'Patrick law', 55421109, '門市', '#2753 4160', 80]
+Row: ['', '', '5585791872008192', '', '', '門市', '#2497', 60]
+Row: ['', '', '4689557019820032', '', '', '門市', '#1550 2672', 120]
+Row: ['', '', '5203247510978560', 'Jerry', 94747668, '門市', '#2564', 300]
+Row: ['', '', '5461964810747904', 'Man Lau', 61091902, '門市', '#4853', 100]
+Row: ['', '', '6063461546196992', 'Kevin Lo', 92818044, '門市', '【現貨】假綿羊蝦 隨機發貨/ 門店自選 [養定開口] 公子小丑 隨機發貨/門市自選', 187.5, 'payme']
+Row: ['', '', '4986919940390912', 'Ken Li', 66760598, '門市', '4399 D(22', 130]
+Row: ['', '', '4920830472617984', '', '', '門市', '#4805', 160]
+Row: ['', '', '4642672640917504', 'Tin wong', 68471333, '門市', '#4678 3393', 100]
+Row: ['', '', '5518676754300928', 'Bear Bear', 96678497, '門市', '#4701', 40]
+Row: ['', '', '', 'alex tang', '', '送貨']
+Row: ['', '', '#5710896673456128', 'ray', '', '', '', 420]
+Row: ['', '', 6033180818800640.0, '', '', '', '', 200]
+Row: ['', '', '6234860134989824', 'Bee Yung', 64080883, '門市', '#3632', 300]
+Row: ['', '', '5671911938981888', '', '', '', '', 200]
+Row: ['', '', '5078417721655296', 'River', 94163626, '魚街', '#4455 3548 2250', 300]
+Row: ['', '', '`6305981383442432', '', '', '', 'CAA0388 CAA2989 CAA3417', 120]
+Row: ['', '', '5738938930167808', 'Ben Li', 61221449, '魚街', '#3514 4210', 260]
+Row: ['', '', '6188532751269888', 'Sunny Chan', 91050494, '魚街', 'caa3844', 60]
+Row: []
+Row: []
+Row: ['', '', '5758864491413504', 'kochiyuen', 91021804, '魚街', '#2686 2160 3165', 420]
+Row: ['', '', '5865846208593920', 'Thomas Lee', 94776929, '魚街', '3734 D(26,1)', 240]
+Row: ['', '', '6396166636961792', '', '', '魚街', '3892 D(13,5)', 340]
+Row: ['', '', '', 'nathan', '', '送貨', '6點']
+Row: []
+Row: ['', '', '', '', '', '', '', '', '', '', '', 'payme']
+Row: []
+Row: ['', '', '5626137251282944', 'B', 61289362, '門市', '#2965', 60]
+Row: ['', '', '5571827524042752', 'Siu Kin Wai', 91643541, '門市', '#4560 2019 4818 4214 2209 3888 3097', 500]
+Row: ['', '', '換貨', 'Jason Chan', 94785194, '門市', '#4506', '換貨']
+Row: ['', '', '5069268166246400', '', '', '門市', '#2156 4976', 260]
+Row: ['', '', '換貨', 'Jackie KW', 94841912, '門市', '拍賣品 請勿購買 2吋紫點雪花綠奶嘴', '換貨']
+Row: ['', '', '6141434542555136', 'Frankie. Shek', 60295552, '送貨', '#4882 3556 2289 4234 4711 4809 3308 3578 3576 4825 3670 2032', 800, '', '本地送貨 - 買滿$800免費送貨(必需先支付貨款全數) · Free delivery for purchases over $800! (Have to pay in full first)']
+Row: ['', '', '5569460460191744', '', '', '送貨', '#3381 3465 4892 2704 2355 3864', 320, '', '本地送貨 - 買滿$800免費送貨(必需先支付貨款全數) · Free delivery for purchases over $800! (Have to pay in full first)']
+Row: ['', '', '5767502811496448', '蔡蔡', 51168645, '門市', '#3547', 100]
+Row: ['', '', '5535379357827072', '', '', '門市', '#2764', 100]
+Row: ['', '', '4539088276422656', '', '', '門市', '#3020', 140]
+Row: ['', '', '4913525337227264', '', '', '門市', '#3240', 120]
+Row: ['', '', '4844381464035328', '', '', '門市', '膠水', 20]
+Row: ['', '', '5102609179475968', 'Eason', 54196665, '門市', '#3060', 140, 'payme']
+Row: ['', '', '換貨', '', '', '門市', '#4935', '換貨']
+Row: ['', '', '4534780680077312', 'Thomas Chan', 51877690, '魚街', '#2263 3590 4448 3800 4520 3625 4321', 240]
+Row: ['', '', '5169323388829696', 'Dison kwan', 51888348, '魚街', '#4023 4099 4194', 380]
+Row: ['', '', '5671802819969024', 'Kaischan', 56237299, '魚街', '#1252', 100]
+Row: ['', '', '5664142666104832', 'pongki poon', 69337678, '魚街', '#3410', 60]
+Row: ['', '', '4989739062132736', 'Don Ma', 98792096, '魚街', '#4277', 340]
+Row: ['', '', '5843543114514432', 'winghungchan', 95126583, '門市', '#4252 2901', 260]
+Row: ['', '', '5895890511462400', 'Alec Wong', 91217649, '門市', '#4324 4265 2157 3427 2082', 500]
+Row: ['', '', '4666166627926016', 'Raymond yu', 96680029, '門市', '#4080 3407 4272', 540]
+Row: ['', '', '換貨', 'Ken Li', 66760598, '門市', '#4020', '換貨']
+Row: ['', '', '5848609296875520', 'Lai ka kui', 97306070, '門市', '#3166', 160, 'payme']
+Row: ['', '', '6663436936282112', '', '', '門市', '#3334 2514 2368', 380, 'payme']
+Row: ['', '', '5665297085366272', 'bb chow', 92535460, '門市', '#3304', 320]
+Row: ['', '', '5510598604488704', 'Aaron wong', 61470823, '門市', '#2020', 100, 'payme']
+Row: ['', '', '6526348706316288', 'Sagittarius Cheung', 60373272, '魚街', '#2932', 100]
+Row: ['', '', '6556465272848384', 'Andy Ho', 92519780, '魚街', '#0842', 60]
+Row: ['', '', '5120533499871232', 'Peter Wong', 60227282, '魚街', '#2531 3607 2664 3193 3244', 160]
+Row: ['', '', '5526782108368896', '', '', '魚街', '#3069 0351 2405 3766', 160]
+Row: ['', '', '5479283729498112', 'Michael fung', 92343573, '魚街', '#3399 3897 \t\r\n多少少咸水，因為等2天先落缸', 180]
+Row: ['', '', '5758492641198080', '', '', '魚街', '#3430', 100]
+Row: ['', '', '6375784332787712', 'Lee Wei Quan', 51753548, '魚街', '#2888', 120]
+Row: ['', '', '6542778420035584', 'Yeung', 61871189, '魚街', '#3947 4295', 300, 'payme']
+Row: ['', '', '4881589839462400', 'Jackson', 62174193, '魚街', '#2378 3720 1622 4701 3537', 180]
+Row: ['', '', '5552885443198976', '', '', '魚街', '#4840', 200]
+Row: ['', '', '6181572475748352', 'Romero Seto', 69080205, '魚街', '#4489', 140]
+Row: ['', '', '4754808444682240', '', '', '魚街', '#4241', 120]
+Row: ['', '', '5687326564024320', '', '', '魚街', '#3791', 220]
+Row: ['', '', '5469759840845824', '', '', '魚街', '#3004', 120]
+Row: ['', '', '5562778833256448', '', '', '魚街', '#3117', 180]
+Row: []
+Row: ['', '', '5979024984768512', '', '', '魚街', '#4220', 180]
+Row: ['', '', '4678867987070976', 'Park Kwok', 62748886, '魚街', '#3714 4692 4072 3148 3210 3024', 200]
+Row: ['', '', '6317510216515584', '', '', '魚街', '#3642', 40]
+Row: ['', '', '5639856840638464', '銘裕', 93818286, '魚街', '#2386', 40]
+Row: ['', '', '5357619654033408', '', '', '魚街', '#4473', 40]
+Row: ['', '', '4893928206761984', '', '', '魚街', '#4633 3696', 100]
+Row: ['', '', '5960150952312832', '飛英姐', 64638882, '魚街', '#2459 拍賣品 請勿購買 2吋紫點雪花綠葵 1798 3653 3033 拍賣品 請勿購買 紫點雪花綠海葵 約3吋', 400]
+Row: ['', '', '6508809603383296', '', '', '魚街', '[現貨] 食苔螺 隨機發貨/ 門店自選 買五送一 3025 [現貨] ReefTech CA Solution Ultra 鈣提升液 超濃縮裝', 60]
+Row: ['', '', '6024609821491200', 'Lee', 60880068, '魚街', '拍賣品 請勿購買 1.5吋瑩光綠海葵 ', 80, 'payme']
+Row: ['', '', '5506751509168128', '', '', '魚街', '拍賣品 請勿購買 2寸紫點雪花綠奶嘴', 80, 'payme']
+Row: ['', '', '6190018071756800', 'Leung Chi Shing', 96392377, '魚街', '#4720 4333', 340]
+Row: ['', '', '4720314622803968', 'Fan Chan', 94351408, '魚街', '#2587 3258 3255 0904 2708 4762 3550 2471 4953', 1060]
+Row: ['', '', '5604254661345280', 'pongki poon', 69337678, '門市', '#2439 4819 3247', 160]
+Row: []
+Row: ['', '', '4984659793543168', 'Lam Lim Hung', 92704601, '門市', '#3736', 60, 'payme']
+Row: ['', '', '6605513207971840', '', '', '門市', '#3689 3726', 100, 'payme']
+Row: ['', '', '5976934006784000', '', '', '門市', '#4065', 100, 'payme']
+Row: ['', '', '6231671469899776', '', '', '門市', '', 221]
+Row: ['', '', '6016561723867136', 'Tin wong', 68471333, '門市', '#4263', 80]
+Row: ['', '', '6274334655119360', '', '', '門市', '#3542 2683', 200]
+Row: ['', '', '6220043181490176', '', '', '門市', '', 40]
+Row: []
+Row: ['', '', '5161777198399488', 'Terry Fung', 68480857, '門市', '#3222', 80, 'payme']
+Row: ['', '', '6378976567230464', '', '', '門市', '#2977', 80, 'payme']
+Row: ['', '', '6514566403063808', '黎偉豪', 51275157, '門市', '#3912 1321 2923 4899 2952 3683 3737', 220]
+Row: ['', '', '6539236695212032', '曾', '', '門市', '#2871', 80, 'bank']
+Row: ['', '', '6099331636658176', '', '', '門市', '#2663', 100, 'bank']
+Row: ['', '', '5163821938376704', '', '', '門市', '#4697', 40, 'bank']
+Row: ['', '', '5421651308183552', '', '', '門市', '#4883', 60, 'bank']
+Row: ['', '', '6568065388118016', '', '', '門市', '#2314', 80, 'bank']
+Row: ['', '', '5816680858124288', '', '', '門市', '#3331', 60, 'bank']
+Row: ['', '', '5277193371516928', '', '', '門市', '#3485 0932 4865', 120, 'bank']
+Row: ['', '', '6267258226737152', '', '', '門市', '#4740', 80]
+Row: ['', '', '', 'angus', '', '', '', 300]
+Row: []
+Row: []
+Row: []
+Row: []
+Row: []
+Row: []
+Row: []
+Row: []
+Row: ['', '', '6492861114744832', 'Kenneth Wu', 95197053, '魚街', '#2365', 160, '.']
+Row: ['', '', '5227899092336640', 'KELSEY YUNG', 51115200, '魚街', '#3179', 40, '.']
+Row: ['', '', '6331616097075200', 'Hei', 91691264, '魚街', '#3386 2532 4766 2872', 380, '.']
+Row: ['', '', '5969090658304000', 'AlohaChun', 68511788, '魚街', '#4452 2367', 260]
+Row: ['', '', '5879597095845888', 'Tse', 67309697, '魚街', '拍賣品 請勿購買 3.5吋紫點綠奶嘴', 120, '.']
+Row: ['', '', '4581741261094912', 'Chris', 93399241, '魚街', '#3823 2805 3925 4075 4628 4009', 200]
+Row: ['', '', '4698624098435072', '', '', '魚街', '#4643 2862 4764 2679 1590', 140]
+Row: ['', '', '5452013908393984', '', '', '魚街', '#2841 3552 4941 4474', 160]
+Row: ['', '', '6256461417152512', 'sung yu san', 96269919, '魚街', '#2344', 120]
+Row: ['', '', '5168517075828736', '', '', '魚街', '#4482', 100]
+Row: ['', '', '6045097889234944', '', '', '魚街', '#3059', 60]
+Row: []
+Row: ['', '', '5319796158758912', 'Ken Lo', 90213390, '門市', '#2854', 100]
+Row: ['', '', '5647694094794752', 'Ray', 54034030, '門市', '#2822 2668 3184 2648 4670 2018 2293 4629', 260]
+Row: ['', '', '5144898413133824', '', '', '門市', '#1928', 140]
+Row: ['', '', '4736179359580160', 'Carmen', 60879662, '門市', '#3757', 140]
+Row: ['', '', '6739152524673024', '', '', '門市', '#3114 2991 4051', 300]
+Row: ['', '', '5604155407335424', 'Porter David', 98002209, '門市', '#2752', 100]
+Row: ['', '', '6122776869076992', '', '', '門市', '#3829 4175 2674 2931 3854', 400]
+Row: ['', '', '6319391579963392', '', '', '門市', '#2208 3979 4521 4963', 300]
+Row: []
+Row: []
+Row: ['', '', '4712688304390144', 'Chris Tai', 94622157, '魚街', '#3741', 100]
+Row: ['', '', '5699814865108992', 'Nathan', 66855911, '魚街', '#3886', 400]
+Row: ['', '', '5091209409331200', 'Nicole Ho', 93125910, '魚街', '#4470', 60, 'payme']
+Row: ['', '', '5177527917215744', 'Kwan dison', 51888348, '魚街', '#4336', 600, '退130']
+Row: ['', '', '6049771954503680', 'River', 94163626, '魚街', '#1933 2846 2650 3827 3044 4717', 180]
+Row: []
+Row: []
+Row: []
+Row: ['', '', '6041395962970112', 'lee', 60880068, '魚街', '#0871 2276 3329 2711 2104 1170', 280, 'payme']
+Row: []
+Row: []
+Row: []
+Row: []
+Row: ['', '', '4902008382423040', 'Simon Pang', 98313435, '送貨', '#4605', 140, 'payme']
+Row: ['', '', '5311086434844672', '', '', '送貨', '#3200 2652', 120, 'payme']
+Row: []
+Row: ['', '', '5931776586416128', 'Keung kwan', 92588581, '魚街', '#1471 2948 2323 3819', 140]
+Row: ['', '', '5541642292559872', '飛英姐', 64638882, '魚街', '#4156 0880 2161 2689', 619]
+Row: ['', '', '', '', '', '', '[現貨] ReefTech CA Solution Ultra 鈣提升液 超濃縮裝']
+Row: ['', '', '5177624553979904', 'Carmen', 60879662, '魚街', '#3390', 300]
+Row: ['', '', '4735671546806272', '', '', '魚街', '#4069', 40]
+Row: ['', '', '6064823633838080', 'Kennis Chan', 96126129, '門市', '#4690', 80]
+Row: ['', '', '4967610887307264', 'Lok Leung', 53720892, '門市', '#3040', 200]
+Row: ['', '', '', '', '', '', '', 20]
+Row: ['', '', '6644110468448256', 'Lok', 69703511, '門市', '#2274 3414', 160, 'payme']
+Row: ['', '', '4947588857069568', 'Tin wong', 68471333, '門市', '#4096 2199', 180]
+Row: ['', '', '6696919373053952', '', '', '門市', '#4034 2970 2552', 220]
+Row: ['', '', '6307161761251328', 'Pong WU', 91246194, '門市', '#1477 2443', 160, 'payme']
+Row: ['', '', '5327428449861632', '', '', '門市', '#3567 4010 2551 2047 4303', 180, 'payme']
+Row: ['', '', 6064823633838080.0, '', '', '', '', 80]
+Row: ['', '', '5462908160049152', 'LAU KAI YIP', 97160744, '門市', '#3164', 100, 'payme']
+Row: []
+Row: []
+Row: ['', '', '5965148012544000', 'Fan Chan', 94351408, '魚街', '#3504 4952 2493 3648 4512 4755 5000 1727 4270 2766 2478 4613 3738 3474 2851', 2, 40]
+Row: ['', '', '6630381840367616', 'Sagittarius Cheung', 60373272, '魚街', '#2611 3526', 140]
+Row: ['', '', '5636028493856768', 'Felix Wong', 96638055, '魚街', '#3311 4460', 140]
+Row: ['', '', '6456830835425280', 'Jackson', 62174193, '魚街', '#1265 2312 3151', 180]
+Row: ['', '', '5313750220537856', '力', 62256625, '魚街', '#4393', 60, 'payme']
+Row: ['', '', '6120212471611392', '', '', '魚街', '#2924', 300, 'payme']
+Row: ['', '', '4910776826593280', 'Romero Seto', 69080205, '魚街', '#4573', 140]
+Row: ['', '', '5130467323019264', 'Lam', 92704601, '魚街', '#3131 2921', 180]
+Row: ['', '', '6737298105434112', '', '', '魚街', '#2463', 60]
+Row: ['', '', '6728538842595328', 'Ben Li', 61221449, '魚街', '#3220', 100]
+Row: ['', '', '4943480116871168', 'Patrick', 91917349, '魚街', '#2802 3477 4410 4564 3769', 520]
+Row: []
+Row: ['滿800先發貨', '待定', '6493044712013824', 'Medivh', 64393751, '送貨', '[養定開口] 公子小丑 隨機發貨/門市自選', 75, 'payme', '本地送貨 - 買滿$800免費送貨(必需先支付貨款全數) · Free delivery for purchases over $800! (Have to pay in full first)', '', '', '', '', '', '', '=sum(H255:H258)']
+Row: ['', '', '6396953274482688', 'Medivh', 64393751, '送貨', '4003 B(8,2)', 270, 'payme', '本地送貨 - 買滿$800免費送貨(必需先支付貨款全數) · Free delivery for purchases over $800! (Have to pay in full first)']
+Row: ['', '', '6730337628585984', 'Medivh', 64393751, '送貨', '【現貨】假綿羊蝦 隨機發貨/ 門店自選', 37.5, 'payme', '本地送貨 - 買滿$800免費送貨(必需先支付貨款全數) · Free delivery for purchases over $800! (Have to pay in full first)']
+Row: ['', '', '6476676604231680', 'Medivh', 64393751, '送貨', '#3226 3555 4338 3605', 440, 'payme', '本地送貨 - 買滿$800免費送貨(必需先支付貨款全數) · Free delivery for purchases over $800! (Have to pay in full first)']
+Row: ['', '待定', '4973578777919488', 'Lai Chun Hon Angus', 90157553, '送貨', "拍賣品 請勿購買 馬卡龍寶石花 可參考(frag座2.5cm) CAA4706',", 780, 'payme', '本地送貨 - 買滿$800免費送貨(必需先支付貨款全數) · Free delivery for purchases over $800! (Have to pay in full first)']
+Row: ['', '', '', '', '', '', "拍賣品 請勿購買 馬卡龍寶石花 / 馬卡龍寶石花 / 馬卡龍寶石花 可參考(frag座2.5cm) CAA2217 CAA2915 '"]
+Row: ['', '', '', '', '', '', "CAA2880',"]
+Row: ['', '', '', '', '', '', "拍賣品 請勿購買 2頭Sakura Zoas CAA3549',"]
+Row: ['', '', '', '', '', '', "拍賣品 請勿購買 馬卡龍寶石花 可參考(frag座2.5cm) CAA2667',"]
+Row: ['', '', '', '', '', '', '拍賣品 請勿購買 2頭雙色豬腰 CAA4536']
+Row: ['', '', '5292590225293312', 'Tang Ho Yin', 70744466, '門市', '#4641', 460]
+login whatsapp success.

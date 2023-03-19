@@ -1,0 +1,1064 @@
+-----2021-10-08 16:25:49-----
+
+--Find bidder and price (before end auction) Start--
+Copying Chrome profile.
+--Find bidder and price (before end auction) End--
+--End auction Start--
+commentDocumentPath: C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-03 Auction Coral\comment.docx
+Removed folder: C:\Users\world\World Wide Aquarium Dropbox\SHKS WWA\Temporary Store for Posting
+Created folder: C:\Users\world\World Wide Aquarium Dropbox\SHKS WWA\Temporary Store for Posting
+Trying to copy photo folder.
+Trying to connect Dropbox api.
+Connected Dropbox api.
+Link of photo 1: https://www.dropbox.com/s/qqhgy61hpsfcfvk/01.jpg?dl=0
+Link of photo 2: https://www.dropbox.com/s/2di4flo8x9h1hm3/02.jpg?dl=0
+Link of photo 3: https://www.dropbox.com/s/f7i9xgsch580c3f/03.jpg?dl=0
+Link of photo 4: https://www.dropbox.com/s/8fx7i70ysqdz7dj/04.jpg?dl=0
+Link of photo 5: https://www.dropbox.com/s/cknadpnp659vppc/05.jpg?dl=0
+Link of photo 6: https://www.dropbox.com/s/3fmk1vd6dox1lxr/06.jpg?dl=0
+Link of photo 7: https://www.dropbox.com/s/rqjlw57095v9l9a/07.jpg?dl=0
+Link of photo 8: https://www.dropbox.com/s/tmi0ul4i63oum2t/08.jpg?dl=0
+Link of photo 9: https://www.dropbox.com/s/x7t2im8h38hxwna/09.jpg?dl=0
+Link of photo 10: https://www.dropbox.com/s/x3uoly7hkntt30z/10.jpg?dl=0
+
+
+
+
+
+-----2021-10-08 16:35:13-----
+
+--End auction Start--
+commentDocumentPath: C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-03 Auction Coral\comment.docx
+Removed folder: C:\Users\world\World Wide Aquarium Dropbox\SHKS WWA\Temporary Store for Posting
+Created folder: C:\Users\world\World Wide Aquarium Dropbox\SHKS WWA\Temporary Store for Posting
+Trying to copy photo folder.
+Trying to connect Dropbox api.
+Connected Dropbox api.
+Link of photo 1: https://www.dropbox.com/s/qqhgy61hpsfcfvk/01.jpg?dl=0
+Link of photo 2: https://www.dropbox.com/s/2di4flo8x9h1hm3/02.jpg?dl=0
+Link of photo 3: https://www.dropbox.com/s/f7i9xgsch580c3f/03.jpg?dl=0
+Link of photo 4: https://www.dropbox.com/s/8fx7i70ysqdz7dj/04.jpg?dl=0
+Link of photo 5: https://www.dropbox.com/s/cknadpnp659vppc/05.jpg?dl=0
+Link of photo 6: https://www.dropbox.com/s/3fmk1vd6dox1lxr/06.jpg?dl=0
+Link of photo 7: https://www.dropbox.com/s/rqjlw57095v9l9a/07.jpg?dl=0
+Link of photo 8: https://www.dropbox.com/s/tmi0ul4i63oum2t/08.jpg?dl=0
+Link of photo 9: https://www.dropbox.com/s/x7t2im8h38hxwna/09.jpg?dl=0
+Link of photo 10: https://www.dropbox.com/s/x3uoly7hkntt30z/10.jpg?dl=0
+Link of photo 11: https://www.dropbox.com/s/sbt85jmzl5frdhq/11.jpg?dl=0
+Link of photo 12: https://www.dropbox.com/s/wrzid2tv8ye3eqx/12.JPG?dl=0
+Link of photo 13: https://www.dropbox.com/s/viwoojpnralnttg/13.JPG?dl=0
+Path in dropbox "/Temporary Store for Posting/14.JPG" not found. Try again in 5 seconds...
+Path in dropbox "/Temporary Store for Posting/14.JPG" not found. Try again in 5 seconds...
+Path in dropbox "/Temporary Store for Posting/14.JPG" not found. Try again in 5 seconds...
+Path in dropbox "/Temporary Store for Posting/14.JPG" not found. Try again in 5 seconds...
+Path in dropbox "/Temporary Store for Posting/14.JPG" not found. Try again in 5 seconds...
+Path in dropbox "/Temporary Store for Posting/14.JPG" not found. Try again in 5 seconds...
+Path in dropbox "/Temporary Store for Posting/14.JPG" not found. Try again in 5 seconds...
+Link of photo 14: https://www.dropbox.com/s/xkmo9mocjjp7v34/14.JPG?dl=0
+Link of photo 15: https://www.dropbox.com/s/d7yzuylctly0d0q/15.JPG?dl=0
+Bid 1: $0
+Bid 2: $80
+Bid 3: $100
+Bid 4: $120
+Bid 5: $0
+Bid 6: $60
+Bid 7: $60
+Bid 8: $80
+Bid 9: $60
+Bid 10: $120
+Bid 11: $220
+Bid 12: $0
+Bid 13: $100
+Bid 14: $20
+Bid 15: $60
+
+
+
+
+
+-----2021-10-08 16:59:09-----
+
+
+
+
+
+
+-----2021-10-08 19:27:50-----
+
+--Post Auction Start--
+row 1: ['2021/10/8', 'a', '2021/10/11', '2100', '0031', '越南 綠寶石花frag', '', '40', '環球水族HK - 拍賣區', 'y']
+row 2: ['2021/10/8', 'a', '2021/10/11', '2100', '3821', '印尼 綠火柴', '1', '60', '環球水族HK - 拍賣區', 'y']
+row 3: ['2021/10/8', 'a', '2021/10/11', '2100', '0568', 'Lemon Zoa', '6', '100', '環球水族HK - 拍賣區', 'y']
+row 4: ['2021/10/8', 'a', '2021/10/11', '2100', '1924', '扣', '', '40', '環球水族HK - 拍賣區', 'y']
+row 5: ['2021/10/8', 'a', '2021/10/11', '2100', '3462', '菇', '', '40', '環球水族HK - 拍賣區', 'y']
+row 6: ['2021/10/8', 'a', '2021/10/11', '2100', '3783', 'Fire Zoa', '1', '0', '環球水族HK - 拍賣區', 'y']
+row 7: ['2021/10/8', 'a', '2021/10/11', '2100', '3330', '龜殼腦', '5', '60', '環球水族HK - 拍賣區', 'y']
+row 8: ['2021/10/8', 'a', '2021/10/11', '2100', '3803', '鈕扣腦', '3', '60', '環球水族HK - 拍賣區', 'y']
+row 9: ['2021/10/8', 'a', '2021/10/11', '2100', '2838', '澳洲 綠糖果腦', '2', '0', '環球水族HK - 拍賣區', 'y']
+row 10: ['2021/10/8', 'a', '2021/10/11', '2100', '0932', '橙花綠底瓦片', '', '40', '環球水族HK - 拍賣區', 'y']
+row 11: ['2021/10/8', 'a', '2021/10/11', '2100', '3143', '澳洲 極光片腦', '', '0', '環球水族HK - 拍賣區', 'y']
+row 12: ['2021/10/8', 'a', '2021/10/11', '2100', '2235', 'Green Bay Packers Zoa', '5', '60', '環球水族HK - 拍賣區', 'y']
+row 13: ['2021/10/8', 'a', '2021/10/11', '2100', '', '雪花綠奶嘴', '2', '60', '環球水族HK - 拍賣區', 'y']
+row 14: ['2021/10/8', 'a', '2021/10/11', '2100', '', '雪花綠奶嘴', '2', '60', '環球水族HK - 拍賣區', 'y']
+row 15: ['2021/10/8', 'a', '2021/10/11', '2100', '', '雪花綠奶嘴', '1', '60', '環球水族HK - 拍賣區', 'y']
+
+
+
+
+
+-----2021-10-08 19:50:55-----
+
+--Post Auction Start--
+Path "C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-08 Auction Coral" already exists, trying to remove it
+
+
+
+
+
+-----2021-10-08 19:51:52-----
+
+--Post Auction Start--
+row 1: ['2021/10/8', 'a', '2021/10/11', '2100', '0031', '越南 綠寶石花frag', '', '40', '環球水族HK - 拍賣區', 'y']
+row 2: ['2021/10/8', 'a', '2021/10/11', '2100', '3821', '印尼 綠火柴', '1', '60', '環球水族HK - 拍賣區', 'y']
+row 3: ['2021/10/8', 'a', '2021/10/11', '2100', '0568', 'Lemon Zoa', '6', '100', '環球水族HK - 拍賣區', 'y']
+row 4: ['2021/10/8', 'a', '2021/10/11', '2100', '1924', '扣', '', '40', '環球水族HK - 拍賣區', 'y']
+row 5: ['2021/10/8', 'a', '2021/10/11', '2100', '3462', '菇', '', '40', '環球水族HK - 拍賣區', 'y']
+row 6: ['2021/10/8', 'a', '2021/10/11', '2100', '3783', 'Fire Zoa', '1', '0', '環球水族HK - 拍賣區', 'y']
+row 7: ['2021/10/8', 'a', '2021/10/11', '2100', '3330', '龜殼腦', '5', '60', '環球水族HK - 拍賣區', 'y']
+row 8: ['2021/10/8', 'a', '2021/10/11', '2100', '3803', '鈕扣腦', '3', '60', '環球水族HK - 拍賣區', 'y']
+row 9: ['2021/10/8', 'a', '2021/10/11', '2100', '2838', '澳洲 綠糖果腦', '2', '0', '環球水族HK - 拍賣區', 'y']
+row 10: ['2021/10/8', 'a', '2021/10/11', '2100', '0932', '橙花綠底瓦片', '', '40', '環球水族HK - 拍賣區', 'y']
+row 11: ['2021/10/8', 'a', '2021/10/11', '2100', '3143', '澳洲 極光片腦', '', '0', '環球水族HK - 拍賣區', 'y']
+row 12: ['2021/10/8', 'a', '2021/10/11', '2100', '2235', 'Green Bay Packers Zoa', '5', '60', '環球水族HK - 拍賣區', 'y']
+row 13: ['2021/10/8', 'a', '2021/10/11', '2100', '', '雪花綠奶嘴', '2', '60', '環球水族HK - 拍賣區', 'y']
+row 14: ['2021/10/8', 'a', '2021/10/11', '2100', '', '雪花綠奶嘴', '2', '60', '環球水族HK - 拍賣區', 'y']
+row 15: ['2021/10/8', 'a', '2021/10/11', '2100', '', '雪花綠奶嘴', '1', '60', '環球水族HK - 拍賣區', 'y']
+
+
+
+
+
+-----2021-10-08 19:53:30-----
+
+--Post Auction Start--
+row 1: ['2021/10/8', 'a', '2021/10/11', '2100', '0031', '越南 綠寶石花frag', '', '40', '環球水族HK - 拍賣區', 'y']
+row 2: ['2021/10/8', 'a', '2021/10/11', '2100', '3821', '印尼 綠火柴', '1', '60', '環球水族HK - 拍賣區', 'y']
+row 3: ['2021/10/8', 'a', '2021/10/11', '2100', '0568', 'Lemon Zoa', '6', '100', '環球水族HK - 拍賣區', 'y']
+row 4: ['2021/10/8', 'a', '2021/10/11', '2100', '1924', '扣', '', '40', '環球水族HK - 拍賣區', 'y']
+row 5: ['2021/10/8', 'a', '2021/10/11', '2100', '3462', '菇', '', '40', '環球水族HK - 拍賣區', 'y']
+row 6: ['2021/10/8', 'a', '2021/10/11', '2100', '3783', 'Fire Zoa', '1', '0', '環球水族HK - 拍賣區', 'y']
+row 7: ['2021/10/8', 'a', '2021/10/11', '2100', '3330', '龜殼腦', '5', '60', '環球水族HK - 拍賣區', 'y']
+row 8: ['2021/10/8', 'a', '2021/10/11', '2100', '3803', '鈕扣腦', '3', '60', '環球水族HK - 拍賣區', 'y']
+row 9: ['2021/10/8', 'a', '2021/10/11', '2100', '2838', '澳洲 綠糖果腦', '2', '0', '環球水族HK - 拍賣區', 'y']
+row 10: ['2021/10/8', 'a', '2021/10/11', '2100', '0932', '橙花綠底瓦片', '', '40', '環球水族HK - 拍賣區', 'y']
+row 11: ['2021/10/8', 'a', '2021/10/11', '2100', '3143', '澳洲 極光片腦', '', '0', '環球水族HK - 拍賣區', 'y']
+row 12: ['2021/10/8', 'a', '2021/10/11', '2100', '2235', 'Green Bay Packers Zoa', '5', '60', '環球水族HK - 拍賣區', 'y']
+row 13: ['2021/10/8', 'a', '2021/10/11', '2100', '', '雪花綠奶嘴', '2', '60', '環球水族HK - 拍賣區', 'y']
+row 14: ['2021/10/8', 'a', '2021/10/11', '2100', '', '雪花綠奶嘴', '2', '60', '環球水族HK - 拍賣區', 'y']
+row 15: ['2021/10/8', 'a', '2021/10/11', '2100', '', '雪花綠奶嘴', '1', '60', '環球水族HK - 拍賣區', 'y']
+
+
+
+
+
+-----2021-10-08 19:54:38-----
+
+--Post Auction Start--
+Path "C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-08 Auction Coral" already exists, trying to remove it
+
+
+
+
+
+-----2021-10-08 19:54:53-----
+
+--Post Auction Start--
+row 1: ['2021/10/8', 'a', '2021/10/11', '2100', '0031', '越南 綠寶石花frag', '', '40', '環球水族HK - 拍賣區', 'y']
+row 2: ['2021/10/8', 'a', '2021/10/11', '2100', '3821', '印尼 綠火柴', '1', '60', '環球水族HK - 拍賣區', 'y']
+row 3: ['2021/10/8', 'a', '2021/10/11', '2100', '0568', 'Lemon Zoa', '6', '100', '環球水族HK - 拍賣區', 'y']
+row 4: ['2021/10/8', 'a', '2021/10/11', '2100', '1924', '扣', '', '40', '環球水族HK - 拍賣區', 'y']
+row 5: ['2021/10/8', 'a', '2021/10/11', '2100', '3462', '菇', '', '40', '環球水族HK - 拍賣區', 'y']
+row 6: ['2021/10/8', 'a', '2021/10/11', '2100', '3783', 'Fire Zoa', '1', '0', '環球水族HK - 拍賣區', 'y']
+row 7: ['2021/10/8', 'a', '2021/10/11', '2100', '3330', '龜殼腦', '5', '60', '環球水族HK - 拍賣區', 'y']
+row 8: ['2021/10/8', 'a', '2021/10/11', '2100', '3803', '鈕扣腦', '3', '60', '環球水族HK - 拍賣區', 'y']
+row 9: ['2021/10/8', 'a', '2021/10/11', '2100', '2838', '澳洲 綠糖果腦', '2', '0', '環球水族HK - 拍賣區', 'y']
+row 10: ['2021/10/8', 'a', '2021/10/11', '2100', '0932', '橙花綠底瓦片', '', '40', '環球水族HK - 拍賣區', 'y']
+row 11: ['2021/10/8', 'a', '2021/10/11', '2100', '3143', '澳洲 極光片腦', '', '0', '環球水族HK - 拍賣區', 'y']
+row 12: ['2021/10/8', 'a', '2021/10/11', '2100', '2235', 'Green Bay Packers Zoa', '5', '60', '環球水族HK - 拍賣區', 'y']
+row 13: ['2021/10/8', 'a', '2021/10/11', '2100', '', '雪花綠奶嘴', '2', '60', '環球水族HK - 拍賣區', 'y']
+row 14: ['2021/10/8', 'a', '2021/10/11', '2100', '', '雪花綠奶嘴', '2', '60', '環球水族HK - 拍賣區', 'y']
+row 15: ['2021/10/8', 'a', '2021/10/11', '2100', '', '雪花綠奶嘴', '1', '60', '環球水族HK - 拍賣區', 'y']
+
+
+
+
+
+-----2021-10-08 19:57:20-----
+
+--Post Auction Start--
+Path "C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-08 Auction Coral" already exists, trying to remove it
+
+
+
+
+
+-----2021-10-08 19:57:42-----
+
+--Post Auction Start--
+row 1: ['2021/10/8', 'a', '2021/10/11', '2100', '0031', '越南 綠寶石花frag', '', '40', '環球水族HK - 拍賣區', 'y']
+row 2: ['2021/10/8', 'a', '2021/10/11', '2100', '3821', '印尼 綠火柴', '1', '60', '環球水族HK - 拍賣區', 'y']
+row 3: ['2021/10/8', 'a', '2021/10/11', '2100', '0568', 'Lemon Zoa', '6', '100', '環球水族HK - 拍賣區', 'y']
+row 4: ['2021/10/8', 'a', '2021/10/11', '2100', '1924', '扣', '', '40', '環球水族HK - 拍賣區', 'y']
+row 5: ['2021/10/8', 'a', '2021/10/11', '2100', '3462', '菇', '', '40', '環球水族HK - 拍賣區', 'y']
+row 6: ['2021/10/8', 'a', '2021/10/11', '2100', '3783', 'Fire Zoa', '1', '0', '環球水族HK - 拍賣區', 'y']
+row 7: ['2021/10/8', 'a', '2021/10/11', '2100', '3330', '龜殼腦', '5', '60', '環球水族HK - 拍賣區', 'y']
+row 8: ['2021/10/8', 'a', '2021/10/11', '2100', '3803', '鈕扣腦', '3', '60', '環球水族HK - 拍賣區', 'y']
+row 9: ['2021/10/8', 'a', '2021/10/11', '2100', '2838', '澳洲 綠糖果腦', '2', '0', '環球水族HK - 拍賣區', 'y']
+row 10: ['2021/10/8', 'a', '2021/10/11', '2100', '0932', '橙花綠底瓦片', '', '40', '環球水族HK - 拍賣區', 'y']
+row 11: ['2021/10/8', 'a', '2021/10/11', '2100', '3143', '澳洲 極光片腦', '', '0', '環球水族HK - 拍賣區', 'y']
+row 12: ['2021/10/8', 'a', '2021/10/11', '2100', '2235', 'Green Bay Packers Zoa', '5', '60', '環球水族HK - 拍賣區', 'y']
+row 13: ['2021/10/8', 'a', '2021/10/11', '2100', '', '雪花綠奶嘴', '2', '60', '環球水族HK - 拍賣區', 'y']
+row 14: ['2021/10/8', 'a', '2021/10/11', '2100', '', '雪花綠奶嘴', '2', '60', '環球水族HK - 拍賣區', 'y']
+row 15: ['2021/10/8', 'a', '2021/10/11', '2100', '', '雪花綠奶嘴', '1', '60', '環球水族HK - 拍賣區', 'y']
+Copying Chrome profile.
+login band success.
+firstPostCode: 1272
+
+[Post 1]
+越南 綠寶石花frag 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/1273
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-08 Auction Coral\Picture\01.JPG
+Finished post 1.
+
+
+[Post 2]
+印尼 綠火柴 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/1274
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-08 Auction Coral\Picture\02.JPG
+Finished post 2.
+
+
+[Post 3]
+Lemon Zoa 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/1275
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-08 Auction Coral\Picture\03.JPG
+Finished post 3.
+
+
+[Post 4]
+扣 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/1276
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-08 Auction Coral\Picture\04.JPG
+Finished post 4.
+
+
+[Post 5]
+菇 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/1277
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-08 Auction Coral\Picture\05.JPG
+Finished post 5.
+
+
+[Post 6]
+Fire Zoa 起標價：$0
+拍賣連結： https://band.us/band/78427905/post/1278
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-08 Auction Coral\Picture\06.JPG
+Finished post 6.
+
+
+[Post 7]
+龜殼腦 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/1279
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-08 Auction Coral\Picture\07.JPG
+Finished post 7.
+
+
+[Post 8]
+鈕扣腦 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/1280
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-08 Auction Coral\Picture\08.JPG
+Finished post 8.
+
+
+[Post 9]
+澳洲 綠糖果腦 起標價：$0
+拍賣連結： https://band.us/band/78427905/post/1281
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-08 Auction Coral\Picture\09.JPG
+Finished post 9.
+
+
+[Post 10]
+橙花綠底瓦片 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/1282
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-08 Auction Coral\Picture\10.JPG
+Finished post 10.
+
+
+[Post 11]
+澳洲 極光片腦 起標價：$0
+拍賣連結： https://band.us/band/78427905/post/1283
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-08 Auction Coral\Picture\11.JPG
+Finished post 11.
+
+
+[Post 12]
+Green Bay Packers Zoa 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/1284
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-08 Auction Coral\Picture\13.JPG
+Finished post 12.
+
+
+[Post 13]
+雪花綠奶嘴 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/1285
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-08 Auction Coral\Picture\14.JPG
+Finished post 13.
+
+
+[Post 14]
+雪花綠奶嘴 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/1286
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-08 Auction Coral\Picture\15.JPG
+Finished post 14.
+
+
+[Post 15]
+雪花綠奶嘴 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/1287
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-08 Auction Coral\Picture\16.JPG
+Finished post 15.
+
+
+Finished posting to band.
+Opening https://web.whatsapp.com/
+login whatsapp success.
+Finding group "拍賣通知專區"
+Finding input box.
+
+❗最新珊瑚拍賣❗
+Generating msg for post 1.
+越南 綠寶石花frag 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/1273
+Generating msg for post 2.
+印尼 綠火柴 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/1274
+Generating msg for post 3.
+Lemon Zoa 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/1275
+Generating msg for post 4.
+扣 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/1276
+Generating msg for post 5.
+菇 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/1277
+Generating msg for post 6.
+Fire Zoa 起標價：$0
+拍賣連結： https://band.us/band/78427905/post/1278
+Generating msg for post 7.
+龜殼腦 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/1279
+Generating msg for post 8.
+鈕扣腦 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/1280
+Generating msg for post 9.
+澳洲 綠糖果腦 起標價：$0
+拍賣連結： https://band.us/band/78427905/post/1281
+Generating msg for post 10.
+橙花綠底瓦片 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/1282
+Generating msg for post 11.
+澳洲 極光片腦 起標價：$0
+拍賣連結： https://band.us/band/78427905/post/1283
+Generating msg for post 12.
+Green Bay Packers Zoa 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/1284
+Generating msg for post 13.
+雪花綠奶嘴 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/1285
+Generating msg for post 14.
+雪花綠奶嘴 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/1286
+Generating msg for post 15.
+雪花綠奶嘴 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/1287
+Sent message.
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-08 Auction Coral\Picture\01.JPG
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-08 Auction Coral\Picture\02.JPG
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-08 Auction Coral\Picture\03.JPG
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-08 Auction Coral\Picture\04.JPG
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-08 Auction Coral\Picture\05.JPG
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-08 Auction Coral\Picture\06.JPG
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-08 Auction Coral\Picture\07.JPG
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-08 Auction Coral\Picture\08.JPG
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-08 Auction Coral\Picture\09.JPG
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-08 Auction Coral\Picture\10.JPG
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-08 Auction Coral\Picture\11.JPG
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-08 Auction Coral\Picture\13.JPG
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-08 Auction Coral\Picture\14.JPG
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-08 Auction Coral\Picture\15.JPG
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-08 Auction Coral\Picture\16.JPG
+Sent photos.
+
+
+
+
+
+-----2021-10-08 21:35:20-----
+
+--Check order list Start--
+Copying Chrome profile.
+[CMS 1]: 6137103944646656
+[CMS 2]: 6194982152175616
+[CMS 3]: 4855174486163456
+[CMS 4]: 4700881477042176
+[CMS 5]: 5360451014754304
+[CMS 6]: 4636981020721152
+[CMS 7]: 6308238694940672
+[CMS 8]: 5144428252626944
+[CMS 9]: 5613066092937216
+[CMS 10]: 5221617270652928
+[CMS 11]: 5506092449792000
+[CMS 12]: 4872890085408768
+[CMS 13]: 4839188953432064
+[CMS 14]: 6291208646295552
+[CMS 15]: 5699495196229632
+[CMS 16]: 4982564893884416
+[CMS 17]: 5439671250321408
+[CMS 18]: 5948153300910080
+[CMS 19]: 5249194685235200
+[CMS 20]: 6673013689942016
+[CMS 21]: 4573637467308032
+[CMS 22]: 5972882556583936
+[CMS 23]: 6042337680687104
+[CMS 24]: 4832769889927168
+[CMS 25]: 5399732349435904
+[CMS 26]: 5495923376521216
+[CMS 27]: 5967335967031296
+[CMS 28]: 4844577660993536
+[CMS 29]: 6636995389554688
+[CMS 30]: 5702382186004480
+[CMS 31]: 6742520185880576
+[CMS 32]: 6639612568141824
+[CMS 33]: 5060098952134656
+[CMS 34]: 6126380820594688
+[CMS 35]: 4575978727800832
+[CMS 36]: 4933733699420160
+[CMS 37]: 4772984314265600
+[CMS 38]: 6069423178907648
+[CMS 39]: 4593988028989440
+[CMS 40]: 4691712829161472
+[CMS 41]: 6533198646476800
+[CMS 42]: 5618839007133696
+[CMS 43]: 5034641447845888
+[CMS 44]: 6048639496617984
+[CMS 45]: 5349292387729408
+[CMS 46]: 5623408181248000
+[CMS 47]: 5090349144997888
+[CMS 48]: 5323029535129600
+[CMS 49]: 6719367023820800
+[CMS 50]: 6333837673103360
+[CMS 51]: 4535135635636224
+[CMS 52]: 5216933709479936
+[CMS 53]: 4520267574542336
+[CMS 54]: 6212691006980096
+[CMS 55]: 5872762934657024
+[CMS 56]: 5037952599195648
+[CMS 57]: 4778501367529472
+[CMS 58]: 6385519283011584
+[CMS 59]: 6449114595328000
+[CMS 60]: 5686250087514112
+[CMS 61]: 5898785537523712
+[CMS 62]: 6582624391921664
+[CMS 63]: 5156652878790656
+[CMS 64]: 6427002761510912
+[CMS 65]: 6633541363433472
+[CMS 66]: 5655214318288896
+[CMS 67]: 5635278623604736
+[CMS 68]: 4816318890115072
+[CMS 69]: 4917473959870464
+[CMS 70]: 5063267295821824
+[CMS 71]: 5154096056238080
+[CMS 72]: 6009526705848320
+[CMS 73]: 4795180805914624
+[CMS 74]: 6305285066063872
+[CMS 75]: 5888342458761216
+[CMS 76]: 5735265462255616
+[CMS 77]: 4839122079449088
+[CMS 78]: 4635588142694400
+[CMS 79]: 6125940318011392
+[CMS 80]: 4842217542909952
+[CMS 81]: 5582213094703104
+[CMS 82]: 5722877233070080
+[CMS 83]: 4760784694542336
+[CMS 84]: 6344574151819264
+[CMS 85]: 5124471519313920
+[CMS 86]: 5326543464300544
+[CMS 87]: 5519950564425728
+[CMS 88]: 5309994108059648
+[CMS 89]: 4941563223474176
+[CMS 90]: 4682143147098112
+[CMS 91]: 4879576888115200
+[CMS 92]: 4600041156247552
+[CMS 93]: 5986385824710656
+[CMS 94]: 4665584773103616
+[CMS 95]: 5111139940827136
+[CMS 96]: 6257012762607616
+[CMS 97]: 6092268688769024
+[CMS 98]: 4729582268841984
+[CMS 99]: 4637447301496832
+[CMS 100]: 5852954075725824
+Range names: 9月!A:AG, 10月!A:AG
+Google sheet: 6168655185444864
+Google sheet: 5887931760902144
+Google sheet: 6091735156523008
+Google sheet: 5763580713631744
+Google sheet: 6117982825742336
+Google sheet: 5951763699073024
+Google sheet: 5642518806003712
+Google sheet: 4590552902402048
+Google sheet: 5600511542820864
+Google sheet: 5073654279962624
+Google sheet: 6674476369575936
+Google sheet: 4766345880272896
+Google sheet: 5163244076531712
+Google sheet: 4645478387023872
+Google sheet: 5466457359122432
+Google sheet: 5763154102583296
+Google sheet: 4926353410490368
+Google sheet: 5887664197861376
+Google sheet: 5099868747071488
+Google sheet: 5881866998644736
+Google sheet: 5319763422216192
+Google sheet: 5126116718280704
+Google sheet: 6696075290345472
+Google sheet: 5312888555307008
+Google sheet: 6069600824459264
+Google sheet: 6423841137098752
+Google sheet: 6165063485489152
+Google sheet: 6282117215551488
+Google sheet: 6144536796594176
+Google sheet: 6533877393915904
+Google sheet: 5534308648484864
+Google sheet: 6168458841686016
+Google sheet: 6171273571991552
+Google sheet: 4794149753716736
+Google sheet: 6446412599525376
+Google sheet: 6275422317838336
+Google sheet: 6565892549902336
+Google sheet: 6576769219035136
+Google sheet: 4593923210215424
+Google sheet: 6667891178078208
+Google sheet: 5812900695506944
+Google sheet: 6014281310142464
+Google sheet: 4652553271902208
+Google sheet: 4621395767197696
+Google sheet: 5951763699073024
+Google sheet: 4586428022521856
+Google sheet: 5087081891233792
+Google sheet: 5530398282088448
+Google sheet: 6143879935033344
+Google sheet: 4850281486614528
+Google sheet: 6056143114862592
+Google sheet: 4971396276027392
+Google sheet: 6741163957682176
+Google sheet: 5511983509143552
+Google sheet: 4753972985462784
+Google sheet: 5480685478477824
+Google sheet: 5385626242383872
+Google sheet: 5970359531732992
+Google sheet: 5689640033058816
+Google sheet: 5361430846111744
+Google sheet: 4966816800702464
+Google sheet: 5850743199367168
+Google sheet: 6540241411375104
+Google sheet: 6748319138316288
+Google sheet: 5704178363138048
+Google sheet: 4868673912307712
+Google sheet: 5718742295248896
+Google sheet: 6102936313790464
+Google sheet: 6717013339799552
+Google sheet: 6663787202609152
+Google sheet: 5704178363138048
+Google sheet: 5255643419246592
+Google sheet: 6199412083785728
+Google sheet: 5216834564521984
+Google sheet: 5820002860138496
+Google sheet: 5675349301133312
+Google sheet: 5258002589417472
+Google sheet: 6298608715563008
+Google sheet: 6749424345808896
+Google sheet: 5441798139936768
+Google sheet: 5192732449570816
+Google sheet: 6650809187172352
+Google sheet: 5859932231565312
+Google sheet: 5640276061323264
+Google sheet: 4897596490514432
+Google sheet: 6225090585952256
+Google sheet: 5044570674036736
+Google sheet: 5420794709671936
+Google sheet: 4771472292839424
+Google sheet: 5700247260102656
+Google sheet: 6279618249228288
+Google sheet: 6576200974729216
+Google sheet: 5127054002618368
+Google sheet: 5892397016940544
+Google sheet: 5023114049224704
+Google sheet: 4764730267926528
+Google sheet: 6723286961618944
+Google sheet: 5767814007881728
+Google sheet: 4969762208743424
+Google sheet: 6358936522457088
+Google sheet: 6246503405453312
+Google sheet: 6062175086051328
+Google sheet: 6581029121949696
+Google sheet: 5309994108059648
+Google sheet: 6344574151819264
+Google sheet: 5736224590528512
+Google sheet: 6710436083924992
+Google sheet: 6723286961618944
+Google sheet: 5064706646736896
+Google sheet: 4917473959870464
+Google sheet: 4839122079449088
+Google sheet: 5623844950900736
+Google sheet: 6142685699244032
+Google sheet: 4795180805914624
+Google sheet: 4513271743905792
+Google sheet: 5326543464300544
+Google sheet: 4682143147098112
+Google sheet: 6427002761510912
+Google sheet: 4665584773103616
+Google sheet: 4729582268841984
+Google sheet: 6092268688769024
+Google sheet: 6257012762607616
+Google sheet: 5111139940827136
+Google sheet: 4600041156247552
+Google sheet: 4941563223474176
+Google sheet: 5519950564425728
+Google sheet: 6305285066063872
+Google sheet: 5156652878790656
+Google sheet: 4760784694542336
+Google sheet: 6633541363433472
+Google sheet: 5582213094703104
+Google sheet: 5735265462255616
+Google sheet: 4520267574542336
+Google sheet: 5852954075725824
+Google sheet: 4637447301496832
+Google sheet: 5063267295821824
+Google sheet: 5405941395750912
+Google sheet: 6385519283011584
+Google sheet: 5872762934657024
+Google sheet: 6212691006980096
+Google sheet: 5216933709479936
+Google sheet: 6582624391921664
+Google sheet: 5655214318288896
+Google sheet: 6048836234641408
+Google sheet: 5986385824710656
+Google sheet: 5037952599195648
+Google sheet: 5686250087514112
+Google sheet: 5898785537523712
+Google sheet: 5618839007133696
+Google sheet: 4842217542909952
+Google sheet: 5349292387729408
+Google sheet: 6639612568141824
+Google sheet: 5090349144997888
+Google sheet: 6069423178907648
+Google sheet: 4778501367529472
+Google sheet: 4575978727800832
+Google sheet: 6126380820594688
+Google sheet: 6742520185880576
+Google sheet: 4832769889927168
+Google sheet: 4844577660993536
+Google sheet: 5967335967031296
+Google sheet: 5060098952134656
+Google sheet: 5439671250321408
+Google sheet: 4982564893884416
+Google sheet: 6048639496617984
+Google sheet: 4691712829161472
+Google sheet: 5613066092937216
+Google sheet: 5399732349435904
+Google sheet: 5034641447845888
+Google sheet: 5495923376521216
+Google sheet: 5972882556583936
+Google sheet: 4573637467308032
+Google sheet: 4839188953432064
+Google sheet: 5221617270652928
+Google sheet: 5144428252626944
+Google sheet: 4700881477042176
+Google sheet: 4535135635636224
+Google sheet: 6042337680687104
+Google sheet: 6673013689942016
+Google sheet: 6308238694940672
+Google sheet: 5360451014754304
+
+Orders that did not put into Google sheet (Total 31):
+1: 6137103944646656
+2: 6194982152175616
+3: 4855174486163456
+4: 4636981020721152
+5: 5506092449792000
+6: 4872890085408768
+7: 6291208646295552
+8: 5699495196229632
+9: 5948153300910080
+10: 5249194685235200
+11: 6636995389554688
+12: 5702382186004480
+13: 4933733699420160
+14: 4772984314265600
+15: 4593988028989440
+16: 6533198646476800
+17: 5623408181248000
+18: 5323029535129600
+19: 6719367023820800
+20: 6333837673103360
+21: 6449114595328000
+22: 5635278623604736
+23: 4816318890115072
+24: 5154096056238080
+25: 6009526705848320
+26: 5888342458761216
+27: 4635588142694400
+28: 6125940318011392
+29: 5722877233070080
+30: 5124471519313920
+31: 4879576888115200
+
+Duplicated items in Google sheet: 5951763699073024, 5704178363138048, 6723286961618944.
+
+--Check order list End--
+--Check order list Start--
+Copying Chrome profile.
+[CMS 1]: 6137103944646656
+[CMS 2]: 6194982152175616
+[CMS 3]: 4855174486163456
+[CMS 4]: 4700881477042176
+[CMS 5]: 5360451014754304
+[CMS 6]: 4636981020721152
+[CMS 7]: 6308238694940672
+[CMS 8]: 5144428252626944
+[CMS 9]: 5613066092937216
+[CMS 10]: 5221617270652928
+[CMS 11]: 5506092449792000
+[CMS 12]: 4872890085408768
+[CMS 13]: 4839188953432064
+[CMS 14]: 6291208646295552
+[CMS 15]: 5699495196229632
+[CMS 16]: 4982564893884416
+[CMS 17]: 5439671250321408
+[CMS 18]: 5948153300910080
+[CMS 19]: 5249194685235200
+[CMS 20]: 6673013689942016
+[CMS 21]: 4573637467308032
+[CMS 22]: 5972882556583936
+[CMS 23]: 6042337680687104
+[CMS 24]: 4832769889927168
+[CMS 25]: 5399732349435904
+[CMS 26]: 5495923376521216
+[CMS 27]: 5967335967031296
+[CMS 28]: 4844577660993536
+[CMS 29]: 6636995389554688
+[CMS 30]: 5702382186004480
+[CMS 31]: 6742520185880576
+[CMS 32]: 6639612568141824
+[CMS 33]: 5060098952134656
+[CMS 34]: 6126380820594688
+[CMS 35]: 4575978727800832
+[CMS 36]: 4933733699420160
+[CMS 37]: 4772984314265600
+[CMS 38]: 6069423178907648
+[CMS 39]: 4593988028989440
+[CMS 40]: 4691712829161472
+[CMS 41]: 6533198646476800
+[CMS 42]: 5618839007133696
+[CMS 43]: 5034641447845888
+[CMS 44]: 6048639496617984
+[CMS 45]: 5349292387729408
+[CMS 46]: 5623408181248000
+[CMS 47]: 5090349144997888
+[CMS 48]: 5323029535129600
+[CMS 49]: 6719367023820800
+[CMS 50]: 6333837673103360
+[CMS 51]: 4535135635636224
+[CMS 52]: 5216933709479936
+[CMS 53]: 4520267574542336
+[CMS 54]: 6212691006980096
+[CMS 55]: 5872762934657024
+[CMS 56]: 5037952599195648
+[CMS 57]: 4778501367529472
+[CMS 58]: 6385519283011584
+[CMS 59]: 6449114595328000
+[CMS 60]: 5686250087514112
+[CMS 61]: 5898785537523712
+[CMS 62]: 6582624391921664
+[CMS 63]: 5156652878790656
+[CMS 64]: 6427002761510912
+[CMS 65]: 6633541363433472
+[CMS 66]: 5655214318288896
+[CMS 67]: 5635278623604736
+[CMS 68]: 4816318890115072
+[CMS 69]: 4917473959870464
+[CMS 70]: 5063267295821824
+[CMS 71]: 5154096056238080
+[CMS 72]: 6009526705848320
+[CMS 73]: 4795180805914624
+[CMS 74]: 6305285066063872
+[CMS 75]: 5888342458761216
+[CMS 76]: 5735265462255616
+[CMS 77]: 4839122079449088
+[CMS 78]: 4635588142694400
+[CMS 79]: 6125940318011392
+[CMS 80]: 4842217542909952
+[CMS 81]: 5582213094703104
+[CMS 82]: 5722877233070080
+[CMS 83]: 4760784694542336
+[CMS 84]: 6344574151819264
+[CMS 85]: 5124471519313920
+[CMS 86]: 5326543464300544
+[CMS 87]: 5519950564425728
+[CMS 88]: 5309994108059648
+[CMS 89]: 4941563223474176
+[CMS 90]: 4682143147098112
+[CMS 91]: 4879576888115200
+[CMS 92]: 4600041156247552
+[CMS 93]: 5986385824710656
+[CMS 94]: 4665584773103616
+[CMS 95]: 5111139940827136
+[CMS 96]: 6257012762607616
+[CMS 97]: 6092268688769024
+[CMS 98]: 4729582268841984
+[CMS 99]: 4637447301496832
+[CMS 100]: 5852954075725824
+Range names: 9月!A:AG, 10月!A:AG
+Google sheet: 6168655185444864
+Google sheet: 5887931760902144
+Google sheet: 6091735156523008
+Google sheet: 5763580713631744
+Google sheet: 6117982825742336
+Google sheet: 5951763699073024
+Google sheet: 5642518806003712
+Google sheet: 4590552902402048
+Google sheet: 5600511542820864
+Google sheet: 5073654279962624
+Google sheet: 6674476369575936
+Google sheet: 4766345880272896
+Google sheet: 5163244076531712
+Google sheet: 4645478387023872
+Google sheet: 5466457359122432
+Google sheet: 5763154102583296
+Google sheet: 4926353410490368
+Google sheet: 5887664197861376
+Google sheet: 5099868747071488
+Google sheet: 5881866998644736
+Google sheet: 5319763422216192
+Google sheet: 5126116718280704
+Google sheet: 6696075290345472
+Google sheet: 5312888555307008
+Google sheet: 6069600824459264
+Google sheet: 6423841137098752
+Google sheet: 6165063485489152
+Google sheet: 6282117215551488
+Google sheet: 6144536796594176
+Google sheet: 6533877393915904
+Google sheet: 5534308648484864
+Google sheet: 6168458841686016
+Google sheet: 6171273571991552
+Google sheet: 4794149753716736
+Google sheet: 6446412599525376
+Google sheet: 6275422317838336
+Google sheet: 6565892549902336
+Google sheet: 6576769219035136
+Google sheet: 4593923210215424
+Google sheet: 6667891178078208
+Google sheet: 5812900695506944
+Google sheet: 6014281310142464
+Google sheet: 4652553271902208
+Google sheet: 4621395767197696
+Google sheet: 5951763699073024
+Google sheet: 4586428022521856
+Google sheet: 5087081891233792
+Google sheet: 5530398282088448
+Google sheet: 6143879935033344
+Google sheet: 4850281486614528
+Google sheet: 6056143114862592
+Google sheet: 4971396276027392
+Google sheet: 6741163957682176
+Google sheet: 5511983509143552
+Google sheet: 4753972985462784
+Google sheet: 5480685478477824
+Google sheet: 5385626242383872
+Google sheet: 5970359531732992
+Google sheet: 5689640033058816
+Google sheet: 5361430846111744
+Google sheet: 4966816800702464
+Google sheet: 5850743199367168
+Google sheet: 6540241411375104
+Google sheet: 6748319138316288
+Google sheet: 5704178363138048
+Google sheet: 4868673912307712
+Google sheet: 5718742295248896
+Google sheet: 6102936313790464
+Google sheet: 6717013339799552
+Google sheet: 6663787202609152
+Google sheet: 5704178363138048
+Google sheet: 5255643419246592
+Google sheet: 6199412083785728
+Google sheet: 5216834564521984
+Google sheet: 5820002860138496
+Google sheet: 5675349301133312
+Google sheet: 5258002589417472
+Google sheet: 6298608715563008
+Google sheet: 6749424345808896
+Google sheet: 5441798139936768
+Google sheet: 5192732449570816
+Google sheet: 6650809187172352
+Google sheet: 5859932231565312
+Google sheet: 5640276061323264
+Google sheet: 4897596490514432
+Google sheet: 6225090585952256
+Google sheet: 5044570674036736
+Google sheet: 5420794709671936
+Google sheet: 4771472292839424
+Google sheet: 5700247260102656
+Google sheet: 6279618249228288
+Google sheet: 6576200974729216
+Google sheet: 5127054002618368
+Google sheet: 5892397016940544
+Google sheet: 5023114049224704
+Google sheet: 4764730267926528
+Google sheet: 6723286961618944
+Google sheet: 5767814007881728
+Google sheet: 4969762208743424
+Google sheet: 6358936522457088
+Google sheet: 6246503405453312
+Google sheet: 6062175086051328
+Google sheet: 6581029121949696
+Google sheet: 5309994108059648
+Google sheet: 6344574151819264
+Google sheet: 5736224590528512
+Google sheet: 6710436083924992
+Google sheet: 6723286961618944
+Google sheet: 5064706646736896
+Google sheet: 4917473959870464
+Google sheet: 4839122079449088
+Google sheet: 5623844950900736
+Google sheet: 6142685699244032
+Google sheet: 4795180805914624
+Google sheet: 4513271743905792
+Google sheet: 5326543464300544
+Google sheet: 4682143147098112
+Google sheet: 6427002761510912
+Google sheet: 4665584773103616
+Google sheet: 4729582268841984
+Google sheet: 6092268688769024
+Google sheet: 6257012762607616
+Google sheet: 5111139940827136
+Google sheet: 4600041156247552
+Google sheet: 4941563223474176
+Google sheet: 5519950564425728
+Google sheet: 6305285066063872
+Google sheet: 5156652878790656
+Google sheet: 4760784694542336
+Google sheet: 6633541363433472
+Google sheet: 5582213094703104
+Google sheet: 5735265462255616
+Google sheet: 4520267574542336
+Google sheet: 5852954075725824
+Google sheet: 4637447301496832
+Google sheet: 5063267295821824
+Google sheet: 5405941395750912
+Google sheet: 6385519283011584
+Google sheet: 5872762934657024
+Google sheet: 6212691006980096
+Google sheet: 5216933709479936
+Google sheet: 6582624391921664
+Google sheet: 5655214318288896
+Google sheet: 6048836234641408
+Google sheet: 5986385824710656
+Google sheet: 5037952599195648
+Google sheet: 5686250087514112
+Google sheet: 5898785537523712
+Google sheet: 5618839007133696
+Google sheet: 4842217542909952
+Google sheet: 5349292387729408
+Google sheet: 6639612568141824
+Google sheet: 5090349144997888
+Google sheet: 6069423178907648
+Google sheet: 4778501367529472
+Google sheet: 4575978727800832
+Google sheet: 6126380820594688
+Google sheet: 6742520185880576
+Google sheet: 4832769889927168
+Google sheet: 4844577660993536
+Google sheet: 5967335967031296
+Google sheet: 5060098952134656
+Google sheet: 5439671250321408
+Google sheet: 4982564893884416
+Google sheet: 6048639496617984
+Google sheet: 4691712829161472
+Google sheet: 5613066092937216
+Google sheet: 5399732349435904
+Google sheet: 5034641447845888
+Google sheet: 5495923376521216
+Google sheet: 5972882556583936
+Google sheet: 4573637467308032
+Google sheet: 4839188953432064
+Google sheet: 5221617270652928
+Google sheet: 5144428252626944
+Google sheet: 4700881477042176
+Google sheet: 4535135635636224
+Google sheet: 6042337680687104
+Google sheet: 6673013689942016
+Google sheet: 6308238694940672
+Google sheet: 5360451014754304
+
+Orders that did not put into Google sheet (Total 31):
+1: 6137103944646656
+2: 6194982152175616
+3: 4855174486163456
+4: 4636981020721152
+5: 5506092449792000
+6: 4872890085408768
+7: 6291208646295552
+8: 5699495196229632
+9: 5948153300910080
+10: 5249194685235200
+11: 6636995389554688
+12: 5702382186004480
+13: 4933733699420160
+14: 4772984314265600
+15: 4593988028989440
+16: 6533198646476800
+17: 5623408181248000
+18: 5323029535129600
+19: 6719367023820800
+20: 6333837673103360
+21: 6449114595328000
+22: 5635278623604736
+23: 4816318890115072
+24: 5154096056238080
+25: 6009526705848320
+26: 5888342458761216
+27: 4635588142694400
+28: 6125940318011392
+29: 5722877233070080
+30: 5124471519313920
+31: 4879576888115200
+
+Duplicated items in Google sheet: 5951763699073024, 5704178363138048, 6723286961618944.
+
+--Check order list End--

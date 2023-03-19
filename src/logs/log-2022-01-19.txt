@@ -1,0 +1,106 @@
+-----2022-01-19 15:53:00-----
+
+
+
+
+
+
+-----2022-01-19 15:56:57-----
+
+row 1: ['2022/01/19', 'a', '2022/01/20', '2100', 'CAA1234', 'Zoas', '1', '40', '環球水族HK - 拍賣區', 'y']
+Google sheet: 11 cells appended.
+Program end.
+
+
+
+
+
+-----2022-01-19 15:59:10-----
+
+row 1: ['2022/01/19', 'a', '2022/01/20', '2100', 'CAA1234', 'Zoas', '1', '40', '環球水族HK - 拍賣區', 'y']
+Google sheet: 11 cells appended.
+login band success.
+Program end.
+
+
+
+
+
+-----2022-01-19 16:01:23-----
+
+row 1: ['2022/01/19', 'a', '2022/01/20', '2100', 'CAA1234', 'Zoas', '1', '40', '環球水族HK - 拍賣區', 'y']
+Google sheet: 11 cells appended.
+Program end.
+
+
+
+
+
+-----2022-01-19 16:03:41-----
+
+row 1: ['2022/01/19', 'a', '2022/01/20', '2100', 'CAA1234', 'Zoas', '1', '40', '環球水族HK - 拍賣區', 'y']
+Google sheet: 11 cells appended.
+Program end.
+
+
+
+
+
+-----2022-01-19 16:05:41-----
+
+row 1: ['2022/01/19', 'a', '2022/01/20', '2100', 'CAA1234', 'Zoas', '1', '40', '環球水族HK - 拍賣區', 'y']
+Google sheet: 11 cells appended.
+login band success.
+Program end.
+
+
+
+
+
+-----2022-01-19 16:07:56-----
+
+row 1: ['2022/01/19', 'a', '2022/01/20', '2100', 'CAA1234', 'Zoas', '1', '40', '環球水族HK - 拍賣區', 'y']
+Google sheet: 11 cells appended.
+login band success.
+firstPostCode: 22
+
+Program end.
+
+
+
+
+
+-----2022-01-19 16:15:19-----
+
+row 1: ['2022/01/19', 'a', '2022/01/20', '2100', 'CAA1234', 'Zoas', '1', '40', '環球水族HK - 拍賣區', 'y']
+Google sheet: 11 cells appended.
+login band success.
+firstPostCode: 22
+
+Program end.
+
+
+
+
+
+-----2022-01-19 16:17:47-----
+
+row 1: ['2022/01/19', 'a', '2022/01/20', '2100', 'CAA1234', 'Zoas', '1', '40', '環球水族HK - 拍賣區', 'y']
+Google sheet: 11 cells appended.
+login band success.
+firstPostCode: 22
+
+Program end.
+
+
+
+
+
+-----2022-01-19 16:31:31-----
+
+row 1: ['2022/01/19', 'a', '2022/01/20', '2100', 'CAA1234', 'Zoas', '1', '40', '環球水族HK - 拍賣區', 'y']
+Google sheet: 11 cells appended.
+login band success.
+firstPostCode: 22
+
+Program end.

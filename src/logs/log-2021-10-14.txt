@@ -1,0 +1,1124 @@
+-----2021-10-14 14:59:42-----
+
+--Check order list Start--
+Copying Chrome profile.
+[CMS 1]: 5729282925133824
+[CMS 2]: 4702596544724992
+[CMS 3]: 5849138064392192
+[CMS 4]: 5069810024185856
+[CMS 5]: 6679809938817024
+[CMS 6]: 6040039529250816
+[CMS 7]: 4794408282226688
+[CMS 8]: 6677111793385472
+[CMS 9]: 6203475852656640
+[CMS 10]: 4879887392440320
+[CMS 11]: 6455036214378496
+[CMS 12]: 6300076109594624
+[CMS 13]: 5814914288582656
+[CMS 14]: 6540877511131136
+[CMS 15]: 4825763590307840
+[CMS 16]: 5030490353565696
+[CMS 17]: 4726192054861824
+[CMS 18]: 5660688623206400
+[CMS 19]: 6339119979560960
+[CMS 20]: 4628933896175616
+[CMS 21]: 6251396950261760
+[CMS 22]: 5815083772018688
+[CMS 23]: 6300746493591552
+[CMS 24]: 5165611702419456
+[CMS 25]: 5855998200905728
+[CMS 26]: 5689830387351552
+[CMS 27]: 4654697962143744
+[CMS 28]: 5037954671181824
+[CMS 29]: 5382954328129536
+[CMS 30]: 6137103944646656
+[CMS 31]: 6194982152175616
+[CMS 32]: 4855174486163456
+[CMS 33]: 4700881477042176
+[CMS 34]: 5360451014754304
+[CMS 35]: 4636981020721152
+[CMS 36]: 6308238694940672
+[CMS 37]: 5144428252626944
+[CMS 38]: 5613066092937216
+[CMS 39]: 5221617270652928
+[CMS 40]: 5506092449792000
+[CMS 41]: 4872890085408768
+[CMS 42]: 4839188953432064
+[CMS 43]: 6291208646295552
+[CMS 44]: 5699495196229632
+[CMS 45]: 4982564893884416
+[CMS 46]: 5439671250321408
+[CMS 47]: 5948153300910080
+[CMS 48]: 5249194685235200
+[CMS 49]: 6673013689942016
+[CMS 50]: 4573637467308032
+[CMS 51]: 5972882556583936
+[CMS 52]: 6042337680687104
+[CMS 53]: 4832769889927168
+[CMS 54]: 5399732349435904
+[CMS 55]: 5495923376521216
+[CMS 56]: 5967335967031296
+[CMS 57]: 4844577660993536
+[CMS 58]: 6636995389554688
+[CMS 59]: 5702382186004480
+[CMS 60]: 6742520185880576
+[CMS 61]: 6639612568141824
+[CMS 62]: 5060098952134656
+[CMS 63]: 6126380820594688
+[CMS 64]: 4575978727800832
+[CMS 65]: 4933733699420160
+[CMS 66]: 4772984314265600
+[CMS 67]: 6069423178907648
+[CMS 68]: 4593988028989440
+[CMS 69]: 4691712829161472
+[CMS 70]: 6533198646476800
+[CMS 71]: 5618839007133696
+[CMS 72]: 5034641447845888
+[CMS 73]: 6048639496617984
+[CMS 74]: 5349292387729408
+[CMS 75]: 5623408181248000
+[CMS 76]: 5090349144997888
+[CMS 77]: 5323029535129600
+[CMS 78]: 6719367023820800
+[CMS 79]: 6333837673103360
+[CMS 80]: 4535135635636224
+[CMS 81]: 5216933709479936
+[CMS 82]: 4520267574542336
+[CMS 83]: 6212691006980096
+[CMS 84]: 5872762934657024
+[CMS 85]: 5037952599195648
+[CMS 86]: 4778501367529472
+[CMS 87]: 6385519283011584
+[CMS 88]: 6449114595328000
+[CMS 89]: 5686250087514112
+[CMS 90]: 5898785537523712
+[CMS 91]: 6582624391921664
+[CMS 92]: 5156652878790656
+[CMS 93]: 6427002761510912
+[CMS 94]: 6633541363433472
+[CMS 95]: 5655214318288896
+[CMS 96]: 5635278623604736
+[CMS 97]: 4816318890115072
+[CMS 98]: 4917473959870464
+[CMS 99]: 5063267295821824
+[CMS 100]: 5154096056238080
+Range names: to_add, 9月, 10月
+Not 16-digit: .
+Not 16-digit: 
+Not 16-digit: 
+Google sheet: 6168655185444864
+Google sheet: 5887931760902144
+Google sheet: 5861801515417600
+Google sheet: 6091735156523008
+Google sheet: 6749280338575360
+Google sheet: 5763580713631744
+Not 16-digit: 未下單
+Row: ['星期五', 44442]
+Google sheet: 6380797729832960
+Google sheet: 6117982825742336
+Google sheet: 5951763699073024
+Google sheet: 5642518806003712
+Google sheet: 4590552902402048
+Google sheet: 5600511542820864
+Google sheet: 5673869936558080
+Google sheet: 5073654279962624
+Google sheet: 4998204388147200
+Google sheet: 6674476369575936
+Google sheet: 4766345880272896
+Google sheet: 5163244076531712
+Google sheet: 4645478387023872
+Google sheet: 5466457359122432
+Google sheet: 5763154102583296
+Google sheet: 4926353410490368
+Google sheet: 5887664197861376
+Google sheet: 5099868747071488
+Google sheet: 5881866998644736
+Google sheet: 5319763422216192
+Google sheet: 5126116718280704
+Google sheet: 6696075290345472
+Google sheet: 6565343330959360
+Google sheet: 5312888555307008
+Google sheet: 6069600824459264
+Google sheet: 6423841137098752
+Google sheet: 6165063485489152
+Google sheet: 4960966350602240
+Google sheet: 6282117215551488
+Google sheet: 6144536796594176
+Row: []
+Google sheet: 6533877393915904
+Google sheet: 5534308648484864
+Row: []
+Google sheet: 6168458841686016
+Not 16-digit: 
+Not 16-digit: 
+Google sheet: 5504309576990720
+Google sheet: 6171273571991552
+Google sheet: 4747648411238400
+Google sheet: 4998204388147200
+Google sheet: 4794149753716736
+Google sheet: 6446412599525376
+Google sheet: 6275422317838336
+Google sheet: 6565892549902336
+Row: []
+Row: ['星期二', 44446]
+Google sheet: 6576769219035136
+Google sheet: 4761488607805440
+Row: ['星期三', 44447]
+Google sheet: 4593923210215424
+Google sheet: 6667891178078208
+Google sheet: 5812900695506944
+Google sheet: 6014281310142464
+Google sheet: 6235575741972480
+Google sheet: 4652553271902208
+Google sheet: 4621395767197696
+Google sheet: 5951763699073024
+Google sheet: 4586428022521856
+Google sheet: 5087081891233792
+Google sheet: 5530398282088448
+Google sheet: 6143879935033344
+Google sheet: 4850281486614528
+Google sheet: 6056143114862592
+Row: []
+Google sheet: 4971396276027392
+Google sheet: 5996060347596800
+Google sheet: 6741163957682176
+Google sheet: 5511983509143552
+Google sheet: 6101544576614400
+Google sheet: 6016017684889600
+Google sheet: 4753972985462784
+Google sheet: 5480685478477824
+Google sheet: 5385626242383872
+Google sheet: 4803040235356160
+Google sheet: 4603367709081600
+Google sheet: 5970359531732992
+Google sheet: 5689640033058816
+Google sheet: 5361430846111744
+Google sheet: 4966816800702464
+Google sheet: 5850743199367168
+Google sheet: 6540241411375104
+Google sheet: 6748319138316288
+Google sheet: 5704178363138048
+Google sheet: 4868673912307712
+Not 16-digit: -
+Google sheet: 4713874952683520
+Google sheet: 5718742295248896
+Google sheet: 6102936313790464
+Google sheet: 6717013339799552
+Google sheet: 6663787202609152
+Google sheet: 5704178363138048
+Row: ['星期三', 44454]
+Row: ['星期四', 44455]
+Row: []
+Row: ['星期五', 44456]
+Google sheet: 5255643419246592
+Row: []
+Not 16-digit: 
+Row: ['星期日', 44458]
+Google sheet: 6199412083785728
+Google sheet: 6052574064148480
+Google sheet: 5216834564521984
+Google sheet: 5820002860138496
+Not 16-digit: 
+Google sheet: 5260459956633600
+Google sheet: 6722767136358400
+Google sheet: 5675349301133312
+Google sheet: 4630458383073280
+Google sheet: 5258002589417472
+Google sheet: 6298608715563008
+Google sheet: 6749424345808896
+Not 16-digit: 
+Not 16-digit: 
+Row: []
+Row: ['星期一', 44459]
+Google sheet: 5441798139936768
+Google sheet: 5192732449570816
+Google sheet: 6650809187172352
+Google sheet: 5859932231565312
+Google sheet: 6674401106984960
+Google sheet: 5991642906624000
+Google sheet: 5640276061323264
+Google sheet: 4897596490514432
+Google sheet: 6225090585952256
+Google sheet: 5044570674036736
+Google sheet: 6227920633856000
+Row: []
+Google sheet: 5420794709671936
+Google sheet: 4771472292839424
+Google sheet: 6552509431808000
+Google sheet: 5700247260102656
+Google sheet: 6279618249228288
+Row: []
+Row: []
+Row: []
+Row: ['星期二', 44460]
+Google sheet: 6576200974729216
+Google sheet: 5127054002618368
+Google sheet: 5892397016940544
+Google sheet: 5023114049224704
+Google sheet: 4764730267926528
+Google sheet: 6723286961618944
+Google sheet: 4797834265231360
+Google sheet: 5767814007881728
+Google sheet: 5022602948116480
+Row: ['星期五', 44463]
+Google sheet: 4969762208743424
+Google sheet: 6358936522457088
+Google sheet: 6246503405453312
+Google sheet: 6062175086051328
+Google sheet: 6581029121949696
+Google sheet: 5309994108059648
+Google sheet: 6344574151819264
+Google sheet: 5736224590528512
+Google sheet: 6710436083924992
+Google sheet: 6723286961618944
+Google sheet: 5447599063695360
+Google sheet: 6686055232307200
+Google sheet: 5064706646736896
+Google sheet: 4879576888115200
+Google sheet: 4917473959870464
+Not 16-digit: 
+Row: []
+Row: []
+Google sheet: 4635588142694400
+Google sheet: 4839122079449088
+Google sheet: 5623844950900736
+Google sheet: 6142685699244032
+Google sheet: 4795180805914624
+Google sheet: 6009526705848320
+Google sheet: 4513271743905792
+Google sheet: 5326543464300544
+Google sheet: 5722877233070080
+Google sheet: 4682143147098112
+Google sheet: 5124471519313920
+Google sheet: 6427002761510912
+Google sheet: 4665584773103616
+Google sheet: 4729582268841984
+Google sheet: 6092268688769024
+Google sheet: 6257012762607616
+Google sheet: 5111139940827136
+Google sheet: 4600041156247552
+Google sheet: 4941563223474176
+Google sheet: 5519950564425728
+Google sheet: 6305285066063872
+Google sheet: 5156652878790656
+Google sheet: 4760784694542336
+Google sheet: 5154096056238080
+Google sheet: 6633541363433472
+Google sheet: 5582213094703104
+Google sheet: 5735265462255616
+Google sheet: 4520267574542336
+Google sheet: 5852954075725824
+Google sheet: 4637447301496832
+Google sheet: 5063267295821824
+Google sheet: 5405941395750912
+Google sheet: 6385519283011584
+Google sheet: 5872762934657024
+Google sheet: 6212691006980096
+Google sheet: 5216933709479936
+Google sheet: 6582624391921664
+Row: ['星期四', 44469]
+Not 16-digit: 
+Row: ['星期五', 44470]
+Row: ['星期六', 44471]
+Google sheet: 5655214318288896
+Google sheet: 6048836234641408
+Google sheet: 5986385824710656
+Google sheet: 5037952599195648
+Google sheet: 5686250087514112
+Google sheet: 5898785537523712
+Google sheet: 5618839007133696
+Google sheet: 6534730070753280
+Google sheet: 4842217542909952
+Row: []
+Google sheet: 6719367023820800
+Google sheet: 5349292387729408
+Google sheet: 6639612568141824
+Google sheet: 5323029535129600
+Google sheet: 5090349144997888
+Google sheet: 6069423178907648
+Google sheet: 4933733699420160
+Google sheet: 4778501367529472
+Google sheet: 4575978727800832
+Google sheet: 6126380820594688
+Row: []
+Google sheet: 6742520185880576
+Google sheet: 4832769889927168
+Google sheet: 4844577660993536
+Google sheet: 5967335967031296
+Google sheet: 5702382186004480
+Google sheet: 5623408181248000
+Google sheet: 5060098952134656
+Google sheet: 5249194685235200
+Google sheet: 5439671250321408
+Google sheet: 4982564893884416
+Google sheet: 6048639496617984
+Google sheet: 4691712829161472
+Google sheet: 5613066092937216
+Row: ['星期六', 44449]
+Row: []
+Google sheet: 5495923376521216
+Google sheet: 6137103944646656
+Google sheet: 4772984314265600
+Google sheet: 4872890085408768
+Google sheet: 5972882556583936
+Google sheet: 4573637467308032
+Google sheet: 4839188953432064
+Google sheet: 4700881477042176
+Google sheet: 4855174486163456
+Google sheet: 5221617270652928
+Google sheet: 5144428252626944
+Google sheet: 5689830387351552
+Google sheet: 4535135635636224
+Google sheet: 6042337680687104
+Google sheet: 6673013689942016
+Google sheet: 6194982152175616
+Google sheet: 5855998200905728
+Google sheet: 6251396950261760
+Google sheet: 6300746493591552
+Google sheet: 4628933896175616
+Google sheet: 6339119979560960
+Not 16-digit: 
+Google sheet: 4654697962143744
+Google sheet: 5037954671181824
+Google sheet: 6540877511131136
+Row: ['星期三', '13/10']
+Google sheet: 6203475852656640
+Row: ['星期五', '15/10']
+Row: []
+Row: []
+Row: []
+Google sheet: 5399732349435904
+Google sheet: 6308238694940672
+Google sheet: 4879887392440320
+Google sheet: 4825763590307840
+Google sheet: 5360451014754304
+Google sheet: 5814914288582656
+Google sheet: 6300076109594624
+Row: ['星期二', '19/10']
+Row: ['星期三', '20/10']
+Row: ['星期四', '21/10']
+Google sheet: 6455036214378496
+Row: ['星期六', '23/10']
+Row: ['星期日', '24/10']
+Google sheet: 72 cells appended.
+Have new order, please check the google sheet "to_add" tab.
+Duplicated items in Google sheet: 5951763699073024, 4998204388147200, 5704178363138048, 6723286961618944.
+
+--Check order list End--
+
+
+
+
+
+-----2021-10-14 16:22:12-----
+
+--Find bidder and price (before end auction) Start--
+Copying Chrome profile.
+
+
+
+
+
+-----2021-10-14 16:26:19-----
+
+--Find bidder and price (before end auction) Start--
+Copying Chrome profile.
+--Find bidder and price (before end auction) End--
+--End auction Start--
+commentDocumentPath: C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-10 Auction Coral\comment.docx
+Removed folder: C:\Users\world\World Wide Aquarium Dropbox\SHKS WWA\Temporary Store for Posting
+Created folder: C:\Users\world\World Wide Aquarium Dropbox\SHKS WWA\Temporary Store for Posting
+Trying to copy photo folder.
+Trying to connect Dropbox api.
+Connected Dropbox api.
+Path in dropbox "/Temporary Store for Posting/01.JPG" not found. Try again in 5 seconds...
+Path in dropbox "/Temporary Store for Posting/01.JPG" not found. Try again in 5 seconds...
+Link of photo 1: https://www.dropbox.com/s/ym5iic1qepywhql/01.JPG?dl=0
+Link of photo 2: https://www.dropbox.com/s/r64tc14scu55jsb/02.JPG?dl=0
+Link of photo 3: https://www.dropbox.com/s/u9agugqcgwq1yp6/03.JPG?dl=0
+Link of photo 4: https://www.dropbox.com/s/up8odx8vq94bifo/04.JPG?dl=0
+Link of photo 5: https://www.dropbox.com/s/ts9lxrxd8xbz4fk/05.JPG?dl=0
+Link of photo 6: https://www.dropbox.com/s/jxvggntathoau1f/06.JPG?dl=0
+Link of photo 7: https://www.dropbox.com/s/rae6cn1xmsm3edv/07.JPG?dl=0
+Link of photo 8: https://www.dropbox.com/s/h3wsqqz6tdua31q/08.JPG?dl=0
+Link of photo 9: https://www.dropbox.com/s/8rm16i66yv6yxz1/09.JPG?dl=0
+Link of photo 10: https://www.dropbox.com/s/0c1sis8lvb4w935/10.JPG?dl=0
+Bid 1: $60
+Bid 2: $100
+Bid 3: $40
+Bid 4: $40
+Bid 5: $60
+Bid 6: $100
+Bid 7: $160
+Bid 8: $0
+Bid 9: $20
+Bid 10: $60
+Copying Chrome profile.
+Uploading CSV...
+User pressed <enter> to continue.
+https://wwa.boutir.com/i/RojuykgAA
+https://wwa.boutir.com/i/W-akGkgAA
+
+
+
+
+
+-----2021-10-14 19:11:45-----
+
+--Check order list Start--
+Copying Chrome profile.
+[CMS 1]: 5076619980046336
+[CMS 2]: 6436921350946816
+[CMS 3]: 5729282925133824
+[CMS 4]: 4702596544724992
+[CMS 5]: 5849138064392192
+[CMS 6]: 5069810024185856
+[CMS 7]: 6679809938817024
+[CMS 8]: 6040039529250816
+[CMS 9]: 4794408282226688
+[CMS 10]: 6677111793385472
+[CMS 11]: 6203475852656640
+[CMS 12]: 4879887392440320
+[CMS 13]: 6455036214378496
+[CMS 14]: 6300076109594624
+[CMS 15]: 5814914288582656
+[CMS 16]: 6540877511131136
+[CMS 17]: 4825763590307840
+[CMS 18]: 5030490353565696
+[CMS 19]: 4726192054861824
+[CMS 20]: 5660688623206400
+[CMS 21]: 6339119979560960
+[CMS 22]: 4628933896175616
+[CMS 23]: 6251396950261760
+[CMS 24]: 5815083772018688
+[CMS 25]: 6300746493591552
+[CMS 26]: 5165611702419456
+[CMS 27]: 5855998200905728
+[CMS 28]: 5689830387351552
+[CMS 29]: 4654697962143744
+[CMS 30]: 5037954671181824
+[CMS 31]: 5382954328129536
+[CMS 32]: 6137103944646656
+[CMS 33]: 6194982152175616
+[CMS 34]: 4855174486163456
+[CMS 35]: 4700881477042176
+[CMS 36]: 5360451014754304
+[CMS 37]: 4636981020721152
+[CMS 38]: 6308238694940672
+[CMS 39]: 5144428252626944
+[CMS 40]: 5613066092937216
+[CMS 41]: 5221617270652928
+[CMS 42]: 5506092449792000
+[CMS 43]: 4872890085408768
+[CMS 44]: 4839188953432064
+[CMS 45]: 6291208646295552
+[CMS 46]: 5699495196229632
+[CMS 47]: 4982564893884416
+[CMS 48]: 5439671250321408
+[CMS 49]: 5948153300910080
+[CMS 50]: 5249194685235200
+[CMS 51]: 6673013689942016
+[CMS 52]: 4573637467308032
+[CMS 53]: 5972882556583936
+[CMS 54]: 6042337680687104
+[CMS 55]: 4832769889927168
+[CMS 56]: 5399732349435904
+[CMS 57]: 5495923376521216
+[CMS 58]: 5967335967031296
+[CMS 59]: 4844577660993536
+[CMS 60]: 6636995389554688
+[CMS 61]: 5702382186004480
+[CMS 62]: 6742520185880576
+[CMS 63]: 6639612568141824
+[CMS 64]: 5060098952134656
+[CMS 65]: 6126380820594688
+[CMS 66]: 4575978727800832
+[CMS 67]: 4933733699420160
+[CMS 68]: 4772984314265600
+[CMS 69]: 6069423178907648
+[CMS 70]: 4593988028989440
+[CMS 71]: 4691712829161472
+[CMS 72]: 6533198646476800
+[CMS 73]: 5618839007133696
+[CMS 74]: 5034641447845888
+[CMS 75]: 6048639496617984
+[CMS 76]: 5349292387729408
+[CMS 77]: 5623408181248000
+[CMS 78]: 5090349144997888
+[CMS 79]: 5323029535129600
+[CMS 80]: 6719367023820800
+[CMS 81]: 6333837673103360
+[CMS 82]: 4535135635636224
+[CMS 83]: 5216933709479936
+[CMS 84]: 4520267574542336
+[CMS 85]: 6212691006980096
+[CMS 86]: 5872762934657024
+[CMS 87]: 5037952599195648
+[CMS 88]: 4778501367529472
+[CMS 89]: 6385519283011584
+[CMS 90]: 6449114595328000
+[CMS 91]: 5686250087514112
+[CMS 92]: 5898785537523712
+[CMS 93]: 6582624391921664
+[CMS 94]: 5156652878790656
+[CMS 95]: 6427002761510912
+[CMS 96]: 6633541363433472
+[CMS 97]: 5655214318288896
+[CMS 98]: 5635278623604736
+[CMS 99]: 4816318890115072
+[CMS 100]: 4917473959870464
+Range names: to_add, 9月, 10月
+Not 16-digit: .
+Not 16-digit: 
+Not 16-digit: 
+Google sheet: 6168655185444864
+Google sheet: 5887931760902144
+Google sheet: 5861801515417600
+Google sheet: 6091735156523008
+Google sheet: 6749280338575360
+Google sheet: 5763580713631744
+Not 16-digit: 未下單
+Row: ['星期五', 44442]
+Google sheet: 6380797729832960
+Google sheet: 6117982825742336
+Google sheet: 5951763699073024
+Google sheet: 5642518806003712
+Google sheet: 4590552902402048
+Google sheet: 5600511542820864
+Google sheet: 5673869936558080
+Google sheet: 5073654279962624
+Google sheet: 4998204388147200
+Google sheet: 6674476369575936
+Google sheet: 4766345880272896
+Google sheet: 5163244076531712
+Google sheet: 4645478387023872
+Google sheet: 5466457359122432
+Google sheet: 5763154102583296
+Google sheet: 4926353410490368
+Google sheet: 5887664197861376
+Google sheet: 5099868747071488
+Google sheet: 5881866998644736
+Google sheet: 5319763422216192
+Google sheet: 5126116718280704
+Google sheet: 6696075290345472
+Google sheet: 6565343330959360
+Google sheet: 5312888555307008
+Google sheet: 6069600824459264
+Google sheet: 6423841137098752
+Google sheet: 6165063485489152
+Google sheet: 4960966350602240
+Google sheet: 6282117215551488
+Google sheet: 6144536796594176
+Row: []
+Google sheet: 6533877393915904
+Google sheet: 5534308648484864
+Row: []
+Google sheet: 6168458841686016
+Not 16-digit: 
+Not 16-digit: 
+Google sheet: 5504309576990720
+Google sheet: 6171273571991552
+Google sheet: 4747648411238400
+Google sheet: 4998204388147200
+Google sheet: 4794149753716736
+Google sheet: 6446412599525376
+Google sheet: 6275422317838336
+Google sheet: 6565892549902336
+Row: []
+Row: ['星期二', 44446]
+Google sheet: 6576769219035136
+Google sheet: 4761488607805440
+Row: ['星期三', 44447]
+Google sheet: 4593923210215424
+Google sheet: 6667891178078208
+Google sheet: 5812900695506944
+Google sheet: 6014281310142464
+Google sheet: 6235575741972480
+Google sheet: 4652553271902208
+Google sheet: 4621395767197696
+Google sheet: 5951763699073024
+Google sheet: 4586428022521856
+Google sheet: 5087081891233792
+Google sheet: 5530398282088448
+Google sheet: 6143879935033344
+Google sheet: 4850281486614528
+Google sheet: 6056143114862592
+Row: []
+Google sheet: 4971396276027392
+Google sheet: 5996060347596800
+Google sheet: 6741163957682176
+Google sheet: 5511983509143552
+Google sheet: 6101544576614400
+Google sheet: 6016017684889600
+Google sheet: 4753972985462784
+Google sheet: 5480685478477824
+Google sheet: 5385626242383872
+Google sheet: 4803040235356160
+Google sheet: 4603367709081600
+Google sheet: 5970359531732992
+Google sheet: 5689640033058816
+Google sheet: 5361430846111744
+Google sheet: 4966816800702464
+Google sheet: 5850743199367168
+Google sheet: 6540241411375104
+Google sheet: 6748319138316288
+Google sheet: 5704178363138048
+Google sheet: 4868673912307712
+Not 16-digit: -
+Google sheet: 4713874952683520
+Google sheet: 5718742295248896
+Google sheet: 6102936313790464
+Google sheet: 6717013339799552
+Google sheet: 6663787202609152
+Google sheet: 5704178363138048
+Row: ['星期三', 44454]
+Row: ['星期四', 44455]
+Row: []
+Row: ['星期五', 44456]
+Google sheet: 5255643419246592
+Row: []
+Not 16-digit: 
+Row: ['星期日', 44458]
+Google sheet: 6199412083785728
+Google sheet: 6052574064148480
+Google sheet: 5216834564521984
+Google sheet: 5820002860138496
+Not 16-digit: 
+Google sheet: 5260459956633600
+Google sheet: 6722767136358400
+Google sheet: 5675349301133312
+Google sheet: 4630458383073280
+Google sheet: 5258002589417472
+Google sheet: 6298608715563008
+Google sheet: 6749424345808896
+Not 16-digit: 
+Not 16-digit: 
+Row: []
+Row: ['星期一', 44459]
+Google sheet: 5441798139936768
+Google sheet: 5192732449570816
+Google sheet: 6650809187172352
+Google sheet: 5859932231565312
+Google sheet: 6674401106984960
+Google sheet: 5991642906624000
+Google sheet: 5640276061323264
+Google sheet: 4897596490514432
+Google sheet: 6225090585952256
+Google sheet: 5044570674036736
+Google sheet: 6227920633856000
+Row: []
+Google sheet: 5420794709671936
+Google sheet: 4771472292839424
+Google sheet: 6552509431808000
+Google sheet: 5700247260102656
+Google sheet: 6279618249228288
+Row: []
+Row: []
+Row: []
+Row: ['星期二', 44460]
+Google sheet: 6576200974729216
+Google sheet: 5127054002618368
+Google sheet: 5892397016940544
+Google sheet: 5023114049224704
+Google sheet: 4764730267926528
+Google sheet: 6723286961618944
+Google sheet: 4797834265231360
+Google sheet: 5767814007881728
+Google sheet: 5022602948116480
+Row: ['星期五', 44463]
+Google sheet: 4969762208743424
+Google sheet: 6358936522457088
+Google sheet: 6246503405453312
+Google sheet: 6062175086051328
+Google sheet: 6581029121949696
+Google sheet: 5309994108059648
+Google sheet: 6344574151819264
+Google sheet: 5736224590528512
+Google sheet: 6710436083924992
+Google sheet: 6723286961618944
+Google sheet: 5447599063695360
+Google sheet: 6686055232307200
+Google sheet: 5064706646736896
+Google sheet: 4879576888115200
+Google sheet: 4917473959870464
+Not 16-digit: 
+Row: []
+Row: []
+Google sheet: 4635588142694400
+Google sheet: 4839122079449088
+Google sheet: 5623844950900736
+Google sheet: 6142685699244032
+Google sheet: 4795180805914624
+Google sheet: 6009526705848320
+Google sheet: 4513271743905792
+Google sheet: 5326543464300544
+Google sheet: 5722877233070080
+Google sheet: 4682143147098112
+Google sheet: 5124471519313920
+Google sheet: 6427002761510912
+Google sheet: 4665584773103616
+Google sheet: 4729582268841984
+Google sheet: 6092268688769024
+Google sheet: 6257012762607616
+Google sheet: 5111139940827136
+Google sheet: 4600041156247552
+Google sheet: 4941563223474176
+Google sheet: 5519950564425728
+Google sheet: 6305285066063872
+Google sheet: 5156652878790656
+Google sheet: 4760784694542336
+Google sheet: 5154096056238080
+Google sheet: 6633541363433472
+Google sheet: 5582213094703104
+Google sheet: 5735265462255616
+Google sheet: 4520267574542336
+Google sheet: 5852954075725824
+Google sheet: 4637447301496832
+Google sheet: 5063267295821824
+Google sheet: 5405941395750912
+Google sheet: 6385519283011584
+Google sheet: 5872762934657024
+Google sheet: 6212691006980096
+Google sheet: 5216933709479936
+Google sheet: 6582624391921664
+Row: ['星期四', 44469]
+Not 16-digit: 
+Row: ['星期五', 44470]
+Row: ['星期六', 44471]
+Google sheet: 5655214318288896
+Google sheet: 6048836234641408
+Google sheet: 5986385824710656
+Google sheet: 5037952599195648
+Google sheet: 5686250087514112
+Google sheet: 5898785537523712
+Google sheet: 5618839007133696
+Google sheet: 6534730070753280
+Google sheet: 4842217542909952
+Row: []
+Google sheet: 6719367023820800
+Google sheet: 5349292387729408
+Google sheet: 6639612568141824
+Google sheet: 5323029535129600
+Google sheet: 5090349144997888
+Google sheet: 6069423178907648
+Google sheet: 4933733699420160
+Google sheet: 4778501367529472
+Google sheet: 4575978727800832
+Google sheet: 6126380820594688
+Row: []
+Google sheet: 6742520185880576
+Google sheet: 4832769889927168
+Google sheet: 4844577660993536
+Google sheet: 5967335967031296
+Google sheet: 5702382186004480
+Google sheet: 5623408181248000
+Google sheet: 5060098952134656
+Google sheet: 5249194685235200
+Google sheet: 5439671250321408
+Google sheet: 4982564893884416
+Google sheet: 6048639496617984
+Google sheet: 4691712829161472
+Google sheet: 5613066092937216
+Row: ['星期六', 44449]
+Row: []
+Google sheet: 5495923376521216
+Google sheet: 6137103944646656
+Google sheet: 4772984314265600
+Google sheet: 4872890085408768
+Google sheet: 5972882556583936
+Google sheet: 4573637467308032
+Google sheet: 4839188953432064
+Google sheet: 4700881477042176
+Google sheet: 4855174486163456
+Google sheet: 5221617270652928
+Google sheet: 5144428252626944
+Google sheet: 5689830387351552
+Google sheet: 4535135635636224
+Google sheet: 6042337680687104
+Google sheet: 6673013689942016
+Google sheet: 6194982152175616
+Google sheet: 5855998200905728
+Google sheet: 6251396950261760
+Google sheet: 6300746493591552
+Google sheet: 4628933896175616
+Google sheet: 6339119979560960
+Not 16-digit: 
+Google sheet: 4654697962143744
+Google sheet: 5037954671181824
+Google sheet: 6540877511131136
+Row: ['星期三', '13/10']
+Google sheet: 6203475852656640
+Row: ['星期五', '15/10']
+Row: []
+Row: []
+Row: []
+Google sheet: 5399732349435904
+Google sheet: 6308238694940672
+Google sheet: 4879887392440320
+Google sheet: 5069810024185856
+Google sheet: 4825763590307840
+Google sheet: 6679809938817024
+Google sheet: 4794408282226688
+Google sheet: 6677111793385472
+Google sheet: 5849138064392192
+Google sheet: 4702596544724992
+Google sheet: 5360451014754304
+Google sheet: 5814914288582656
+Google sheet: 6300076109594624
+Google sheet: 5729282925133824
+Row: ['星期二', '19/10']
+Row: ['星期三', '20/10']
+Row: ['星期四', '21/10']
+Google sheet: 6455036214378496
+Row: ['星期六', '23/10']
+Row: []
+Google sheet: 6040039529250816
+Google sheet: 18 cells appended.
+Have new order, please check the google sheet "to_add" tab.
+Duplicated items in Google sheet: 5951763699073024, 4998204388147200, 5704178363138048, 6723286961618944.
+
+--Check order list End--
+
+
+
+
+
+-----2021-10-14 19:34:39-----
+
+--Post Auction Start--
+row 1: ['2021/10/14', 'a', '2021/10/17', '2100', '2178', '糖果腦', '4', '80', '發燒友拍賣區', 'y']
+row 2: ['2021/10/14', 'a', '2021/10/17', '2100', '2100', '超金火柴', '3', '800', '發燒友拍賣區', 'y']
+row 3: ['2021/10/14', 'a', '2021/10/17', '2100', '4043', '南瓜腦', '', '60', '發燒友拍賣區', 'y']
+row 4: ['2021/10/14', 'a', '2021/10/17', '2100', '4915', '迷宮腦', '', '40', '環球水族HK - 拍賣區', 'y']
+row 5: ['2021/10/14', 'a', '2021/10/17', '2100', '2936', '南瓜腦', '', '40', '環球水族HK - 拍賣區', 'y']
+row 6: ['2021/10/14', 'a', '2021/10/17', '2100', '2147', 'Fire Zoas', '1', '40', '環球水族HK - 拍賣區', 'y']
+row 7: ['2021/10/14', 'a', '2021/10/17', '2100', '2707', '龜殼腦', '3', '60', '環球水族HK - 拍賣區', 'y']
+row 8: ['2021/10/14', 'a', '2021/10/17', '2100', '2819', 'Green Bay Packer Zoas', '1', '40', '環球水族HK - 拍賣區', 'y']
+row 9: ['2021/10/14', 'a', '2021/10/17', '2100', '2939', '糖果腦', '3', '60', '環球水族HK - 拍賣區', 'y']
+row 10: ['2021/10/14', 'a', '2021/10/17', '2100', '3533', '鈕扣腦', '1', '60', '環球水族HK - 拍賣區', 'y']
+row 11: ['2021/10/14', 'a', '2021/10/17', '2100', '3459', '紅邊瑩光綠芯腦', '5', '60', '環球水族HK - 拍賣區', 'y']
+row 12: ['2021/10/14', 'a', '2021/10/17', '2100', '3498', '青綠貓眼腦', '1', '60', '環球水族HK - 拍賣區', 'y']
+row 13: ['2021/10/14', 'a', '2021/10/17', '2100', '4930', 'Candy Apple Zoas', '1', '40', '環球水族HK - 拍賣區', 'y']
+row 14: ['2021/10/14', 'a', '2021/10/17', '2100', '2211', '糖果腦', '3', '100', '環球水族HK - 拍賣區', 'y']
+row 15: ['2021/10/14', 'a', '2021/10/17', '2100', '4867', '青金豬腰', '2', '200', '環球水族HK - 拍賣區', 'y']
+row 16: ['2021/10/14', 'a', '2021/10/17', '2100', '3808', '雙色豬腰', '2', '160', '環球水族HK - 拍賣區', 'y']
+row 17: ['2021/10/14', 'a', '2021/10/17', '2100', '4971', 'Toxic Green 豬腰', '2', '160', '環球水族HK - 拍賣區', 'y']
+Google sheet: 171 cells appended.
+Copying Chrome profile.
+login band success.
+[發燒友拍賣區 Post 1]
+糖果腦 起標價：$80
+拍賣連結： https://band.us/band/75420559/post/4844
+
+發燒友拍賣區: Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-14 Auction Coral\Picture\01.jpg
+Finished 發燒友拍賣區 post 1.
+
+
+[發燒友拍賣區 Post 2]
+超金火柴 起標價：$800
+拍賣連結： https://band.us/band/75420559/post/4845
+
+發燒友拍賣區: Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-14 Auction Coral\Picture\02.jpg
+Finished 發燒友拍賣區 post 2.
+
+
+[發燒友拍賣區 Post 3]
+南瓜腦 起標價：$60
+拍賣連結： https://band.us/band/75420559/post/4846
+
+發燒友拍賣區: Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-14 Auction Coral\Picture\03.jpg
+Finished 發燒友拍賣區 post 3.
+
+
+firstPostCode: 1329
+
+[Post 1]
+迷宮腦 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/1330
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-14 Auction Coral\Picture\04.JPG
+Finished post 1.
+
+
+[Post 2]
+南瓜腦 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/1331
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-14 Auction Coral\Picture\05.JPG
+Finished post 2.
+
+
+[Post 3]
+Fire Zoas 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/1332
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-14 Auction Coral\Picture\06.JPG
+Finished post 3.
+
+
+[Post 4]
+龜殼腦 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/1333
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-14 Auction Coral\Picture\07.JPG
+Finished post 4.
+
+
+[Post 5]
+Green Bay Packer Zoas 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/1334
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-14 Auction Coral\Picture\08.JPG
+Finished post 5.
+
+
+[Post 6]
+糖果腦 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/1335
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-14 Auction Coral\Picture\09.JPG
+Finished post 6.
+
+
+[Post 7]
+鈕扣腦 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/1336
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-14 Auction Coral\Picture\10.JPG
+Finished post 7.
+
+
+[Post 8]
+紅邊瑩光綠芯腦 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/1337
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-14 Auction Coral\Picture\11.JPG
+Finished post 8.
+
+
+[Post 9]
+青綠貓眼腦 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/1338
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-14 Auction Coral\Picture\12.JPG
+Finished post 9.
+
+
+[Post 10]
+Candy Apple Zoas 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/1339
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-14 Auction Coral\Picture\13.JPG
+Finished post 10.
+
+
+[Post 11]
+糖果腦 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/1340
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-14 Auction Coral\Picture\14.jpg
+Finished post 11.
+
+
+[Post 12]
+青金豬腰 起標價：$200
+拍賣連結： https://band.us/band/78427905/post/1341
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-14 Auction Coral\Picture\15.jpg
+Finished post 12.
+
+
+[Post 13]
+雙色豬腰 起標價：$160
+拍賣連結： https://band.us/band/78427905/post/1342
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-14 Auction Coral\Picture\16.jpg
+Finished post 13.
+
+
+[Post 14]
+Toxic Green 豬腰 起標價：$160
+拍賣連結： https://band.us/band/78427905/post/1343
+
+Uploaded file C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-14 Auction Coral\Picture\17.jpg
+Finished post 14.
+
+
+Finished posting to band.
+Opening https://web.whatsapp.com/
+login whatsapp success.
+Finding group "拍賣通知專區"
+Finding input box.
+
+❗最新珊瑚拍賣❗
+Generating msg for post 1.
+糖果腦 起標價：$80
+拍賣連結： https://band.us/band/75420559/post/4844
+Generating msg for post 2.
+超金火柴 起標價：$800
+拍賣連結： https://band.us/band/75420559/post/4845
+Generating msg for post 3.
+南瓜腦 起標價：$60
+拍賣連結： https://band.us/band/75420559/post/4846
+Generating msg for post 4.
+迷宮腦 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/1330
+Generating msg for post 5.
+南瓜腦 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/1331
+Generating msg for post 6.
+Fire Zoas 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/1332
+Generating msg for post 7.
+龜殼腦 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/1333
+Generating msg for post 8.
+Green Bay Packer Zoas 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/1334
+Generating msg for post 9.
+糖果腦 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/1335
+Generating msg for post 10.
+鈕扣腦 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/1336
+Generating msg for post 11.
+紅邊瑩光綠芯腦 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/1337
+Generating msg for post 12.
+青綠貓眼腦 起標價：$60
+拍賣連結： https://band.us/band/78427905/post/1338
+Generating msg for post 13.
+Candy Apple Zoas 起標價：$40
+拍賣連結： https://band.us/band/78427905/post/1339
+Generating msg for post 14.
+糖果腦 起標價：$100
+拍賣連結： https://band.us/band/78427905/post/1340
+Generating msg for post 15.
+青金豬腰 起標價：$200
+拍賣連結： https://band.us/band/78427905/post/1341
+Generating msg for post 16.
+雙色豬腰 起標價：$160
+拍賣連結： https://band.us/band/78427905/post/1342
+Generating msg for post 17.
+Toxic Green 豬腰 起標價：$160
+拍賣連結： https://band.us/band/78427905/post/1343
+Sent message.
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-14 Auction Coral\Picture\01.jpg
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-14 Auction Coral\Picture\02.jpg
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-14 Auction Coral\Picture\03.jpg
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-14 Auction Coral\Picture\04.JPG
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-14 Auction Coral\Picture\05.JPG
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-14 Auction Coral\Picture\06.JPG
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-14 Auction Coral\Picture\07.JPG
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-14 Auction Coral\Picture\08.JPG
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-14 Auction Coral\Picture\09.JPG
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-14 Auction Coral\Picture\10.JPG
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-14 Auction Coral\Picture\11.JPG
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-14 Auction Coral\Picture\12.JPG
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-14 Auction Coral\Picture\13.JPG
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-14 Auction Coral\Picture\14.jpg
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-14 Auction Coral\Picture\15.jpg
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-14 Auction Coral\Picture\16.jpg
+Uploaded photo C:\Users\world\World Wide Aquarium Dropbox\WWA SHKS\2021\Auction Coral Retial\2021-10-14 Auction Coral\Picture\17.jpg
+Sent photos.
+--Post Auction End--

@@ -1,0 +1,26 @@
+-----2021-09-19 21:53:38-----
+
+--Post Auction Start--
+Copying Chrome profile.
+
+
+
+
+
+-----2021-09-19 21:55:41-----
+
+--Post Auction Start--
+Copying Chrome profile.
+login band success.
+firstPostCode: 1046
+
+Finished posting to band.
+Opening https://web.whatsapp.com/
+Finding group "拍賣通知專區"
+
+
+
+
+
+-----2021-09-19 21:56:11-----
+
